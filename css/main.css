@@ -38,4 +38,14 @@ body a, html a {
   width: 80%;
   height: 4vh;
 }
+
+#sresult {
+  margin-top: 5%;
+  width: 80%;
+  height: 50%;
+  border: none;
+  border-radius: 2%;
+  z-index: 9;
+  background-color: rgba(87, 67, 150, 0.979);
+}
 /*# sourceMappingURL=main.css.map */

@@ -64,9 +64,22 @@ body,html
     {
         background-color: #291B57;
     }
+    .ColumnOneDays
+    {
+        background-color: rgb(114, 90, 196);
+    }
+    .TheoryHours
+    {
+        background-color: rgb(146, 121, 226);
+    }
+    .LabHours
+    {
+        background-color: rgb(87, 79, 116);
+    }
 }
 .selected
 {
-    background-color: #291B57;
-    color:white;
+    background-color: rgb(33, 6, 65);
+    color:rgb(177, 252, 4);
+    z-index: 100;
 }

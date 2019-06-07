@@ -1,0 +1,35 @@
+body, html {
+  margin: 0;
+}
+
+body a, html a {
+  text-decoration: none;
+}
+
+#nav-main {
+  background-color: #291B57;
+  width: 25%;
+  height: 100vh;
+  float: left;
+}
+
+#nav-main header {
+  position: relative;
+  color: white;
+  font-weight: bolder;
+  font-size: 3em;
+}
+
+#tt-main {
+  float: right;
+  width: 73%;
+  height: 100vh;
+}
+
+#tt-main header {
+  position: relative;
+  color: black;
+  font-weight: bold;
+  font-size: 2.5em;
+}
+/*# sourceMappingURL=main.css.map */

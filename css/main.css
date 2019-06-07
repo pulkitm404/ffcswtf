@@ -48,4 +48,18 @@ body a, html a {
   z-index: 9;
   background-color: rgba(87, 67, 150, 0.979);
 }
+
+#timetable .TimetableContent:hover {
+  background-color: #291B57;
+  color: white;
+}
+
+#timetable .TimetableContent:focus {
+  background-color: #291B57;
+}
+
+.selected {
+  background-color: #291B57;
+  color: white;
+}
 /*# sourceMappingURL=main.css.map */

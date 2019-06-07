@@ -13,6 +13,7 @@ body,html
     width: 25%;
     height: 100vh;
     float: left;
+    text-align: center;
 
     header
     {
@@ -38,5 +39,6 @@ body,html
 }
 #course-search
 {
-
+    width: 80%;
+    height: 4vh; 
 }

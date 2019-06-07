@@ -11,6 +11,7 @@ body a, html a {
   width: 25%;
   height: 100vh;
   float: left;
+  text-align: center;
 }
 
 #nav-main header {
@@ -31,5 +32,10 @@ body a, html a {
   color: black;
   font-weight: bold;
   font-size: 2.5em;
+}
+
+#course-search {
+  width: 80%;
+  height: 4vh;
 }
 /*# sourceMappingURL=main.css.map */

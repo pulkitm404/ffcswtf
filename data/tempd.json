@@ -1,0 +1,129 @@
+[{
+    "CODE": "ITE1001",
+    "TITLE": "Digital Logic and Microprocessor",
+    "TYPE": "ETH",
+    "CREDITS": "3",
+    "VENUE": "SJTG14",
+    "SLOT": "A1+TA1",
+    "FACULTY": "PRAVEEN KUMAR REDDY M."
+}, {
+    "CODE": "ITE1001",
+    "TITLE": "Digital Logic and Microprocessor",
+    "TYPE": "ELA",
+    "CREDITS": "1",
+    "VENUE": "SJT122",
+    "SLOT": "L39+L40",
+    "FACULTY": "PRAVEEN KUMAR REDDY M."
+}, {
+    "CODE": "ITE1001",
+    "TITLE": "Digital Logic and Microprocessor",
+    "TYPE": "ELA",
+    "CREDITS": "1",
+    "VENUE": "SJT122",
+    "SLOT": "L39+L40",
+    "FACULTY": "SWARNA PRIYA R.M"
+}, {
+    "CODE": "ITE1001",
+    "TITLE": "Digital Logic and Microprocessor",
+    "TYPE": "ETH",
+    "CREDITS": "3",
+    "VENUE": "SJTG14",
+    "SLOT": "A2+TA2",
+    "FACULTY": "PRAVEEN KUMAR REDDY M."
+}, {
+    "CODE": "ITE1001",
+    "TITLE": "Digital Logic and Microprocessor",
+    "TYPE": "ELA",
+    "CREDITS": "1",
+    "VENUE": "SJT122",
+    "SLOT": "L7+L8",
+    "FACULTY": "PRAVEEN KUMAR REDDY M."
+}, {
+    "CODE": "ITE1001",
+    "TITLE": "Digital Logic and Microprocessor",
+    "TYPE": "ELA",
+    "CREDITS": "1",
+    "VENUE": "SJT122",
+    "SLOT": "L7+L8",
+    "FACULTY": "AARTHY S.L"
+}, {
+    "CODE": "ITE1002",
+    "TITLE": "Web Technologies",
+    "TYPE": "ETH",
+    "CREDITS": "2",
+    "VENUE": "SJTG02",
+    "SLOT": "B1",
+    "FACULTY": "PUVIARASI G"
+}, {
+    "CODE": "ITE1002",
+    "TITLE": "Web Technologies",
+    "TYPE": "ELA",
+    "CREDITS": "1",
+    "VENUE": "SJTG20",
+    "SLOT": "L55+L56",
+    "FACULTY": "PUVIARASI G"
+}, {
+    "CODE": "ITE1002",
+    "TITLE": "Web Technologies",
+    "TYPE": "ELA",
+    "CREDITS": "1",
+    "VENUE": "SJTG20",
+    "SLOT": "L55+L56",
+    "FACULTY": "MARY MEKALA A"
+}, {
+    "CODE": "ITE1002",
+    "TITLE": "Web Technologies",
+    "TYPE": "ETH",
+    "CREDITS": "2",
+    "VENUE": "SJTG02",
+    "SLOT": "B2",
+    "FACULTY": "PUVIARASI G"
+}, {
+    "CODE": "ITE1002",
+    "TITLE": "Web Technologies",
+    "TYPE": "ELA",
+    "CREDITS": "1",
+    "VENUE": "SJT120",
+    "SLOT": "L11+L12",
+    "FACULTY": "PUVIARASI G"
+}, {
+    "CODE": "ITE1002",
+    "TITLE": "Web Technologies",
+    "TYPE": "ELA",
+    "CREDITS": "1",
+    "VENUE": "SJT120",
+    "SLOT": "L11+L12",
+    "FACULTY": "MARY MEKALA A"
+}{
+    "CODE": "ITE1003",
+    "TITLE": "Database Management Systems",
+    "TYPE": "ETH",
+    "CREDITS": "2",
+    "VENUE": "SJTG24",
+    "SLOT": "E1",
+    "FACULTY": "SARAVANAKUMAR K"
+}, {
+    "CODE": "ITE1003",
+    "TITLE": "Database Management Systems",
+    "TYPE": "ELA",
+    "CREDITS": "1",
+    "VENUE": "SJTG17",
+    "SLOT": "L31+L32",
+    "FACULTY": "SARAVANAKUMAR K"
+}, {
+    "CODE": "ITE1003",
+    "TITLE": "Database Management Systems",
+    "TYPE": "EPJ",
+    "CREDITS": "1",
+    "VENUE": "NIL",
+    "SLOT": "NIL",
+    "FACULTY": "SARAVANAKUMAR K"
+}, {
+    "CODE": "ITE1003",
+    "TITLE": "Database Management Systems",
+    "TYPE": "ELA",
+    "CREDITS": "1",
+    "VENUE": "SJTG17",
+    "SLOT": "L31+L32",
+    "FACULTY": "POUNAMBAL M"
+}]

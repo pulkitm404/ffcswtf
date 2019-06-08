@@ -46,8 +46,11 @@ body,html
 #sresult
 {
     margin-top: 5%;
-    width: 80%;
-    height: 50%;
+    width: 95%;
+    min-height: 0;
+    max-height: 50%;
+    overflow-y: scroll;
+    height: auto;
     border: none;
     border-radius: 2%;
     z-index: 9;
@@ -80,6 +83,11 @@ body,html
 .selected
 {
     background-color: rgb(33, 6, 65);
-    color:rgb(177, 252, 4);
+    color:rgb(4, 173, 252);
     z-index: 100;
+}
+#sbutton
+{
+    background: none;
+    border: none;
 }

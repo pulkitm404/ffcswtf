@@ -41,8 +41,11 @@ body a, html a {
 
 #sresult {
   margin-top: 5%;
-  width: 80%;
-  height: 50%;
+  width: 95%;
+  min-height: 0;
+  max-height: 50%;
+  overflow-y: scroll;
+  height: auto;
   border: none;
   border-radius: 2%;
   z-index: 9;
@@ -72,7 +75,12 @@ body a, html a {
 
 .selected {
   background-color: #210641;
-  color: #b1fc04;
+  color: #04adfc;
   z-index: 100;
+}
+
+#sbutton {
+  background: none;
+  border: none;
 }
 /*# sourceMappingURL=main.css.map */

@@ -85,4 +85,9 @@ body a, html a {
   background: none;
   border: none;
 }
+
+.clist:hover {
+  background-color: #28175f;
+  color: white;
+}
 /*# sourceMappingURL=main.css.map */

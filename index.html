@@ -26,7 +26,7 @@
                     $.each(data,function(key,value){
                         if(value.CODE.search(expr) != -1 || value.TITLE.search(expr) != -1)
                         {
-                            $('#results').append('<li class="list-group-item">'+value.CODE+'|<span class="text-muted">'+value.TITLE+'</span><br>'+value.SLOT+'|<span class="text-muted">'+value.VENUE+'</span><br><b>By</b>:'+value.FACULTY+'</li>');
+                            $('#results').append('<li class="clist list-group-item">'+value.CODE+'|<span class="text-muted">'+value.TITLE+'</span><br>'+value.SLOT+'|<span class="text-muted">'+value.VENUE+'</span><br><b>By</b>:'+value.FACULTY+'</li>');
                         }
                     });
                 });

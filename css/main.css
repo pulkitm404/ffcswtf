@@ -46,7 +46,7 @@ body a, html a {
   margin-top: 5%;
   width: 95%;
   min-height: 0;
-  max-height: 50%;
+  max-height: 80%;
   overflow-y: scroll;
   overflow-x: hidden;
   height: auto;

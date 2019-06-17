@@ -103,6 +103,7 @@ body a, html a {
 .clist:hover {
   background-color: #111;
   color: white;
+  cursor: pointer;
 }
 
 #head {

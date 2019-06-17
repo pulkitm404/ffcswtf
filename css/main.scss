@@ -60,7 +60,13 @@ body,html
 }
 #timetable
 {   
-    padding: 2%;
+    
+    td
+    {
+        font-size: 0.85em;
+    }
+    padding: 1.5%;
+    padding-right: 0;
     .TimetableContent:hover
     {
         background-color: rgb(0, 0, 0);

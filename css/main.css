@@ -56,7 +56,12 @@ body a, html a {
 }
 
 #timetable {
-  padding: 2%;
+  padding: 1.5%;
+  padding-right: 0;
+}
+
+#timetable td {
+  font-size: 0.85em;
 }
 
 #timetable .TimetableContent:hover {

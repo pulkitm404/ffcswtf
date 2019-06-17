@@ -9,8 +9,8 @@ body,html
 
 #nav-main
 {
-    background-color: #291B57;
-    width: 25%;
+    background-color:#111;
+    width: 20%;
     height: 100vh;
     float: left;
     text-align: center;
@@ -20,21 +20,20 @@ body,html
         position: relative;
         color: white;
         font-weight: bolder;
-        font-size: 3em;
+        font-size: 2em;
     }
 }
 #tt-main
 {
     float: right;
-    width: 73%;
+    width: 80%;
     height: 100vh;
-
     header
     {
         position: relative;
         color:black;
         font-weight: bold;
-        font-size: 2.5em;
+        font-size: 2rem;
     }
 }
 #course-search
@@ -52,40 +51,45 @@ body,html
     min-height: 0;
     max-height: 50%;
     overflow-y: scroll;
+    overflow-x: hidden;
     height: auto;
     border: none;
     border-radius: 2%;
     z-index: 9;
-    background-color: rgba(87, 67, 150, 0.979);
+    background-color: rgba(39, 39, 39, 0.979);
 }
 #timetable
-{
+{   
+    padding: 2%;
     .TimetableContent:hover
     {
-        background-color: #291B57;
+        background-color: rgb(0, 0, 0);
         color: white;  
     }
     .TimetableContent:focus
     {
-        background-color: #291B57;
+        background-color: rgb(0, 0, 0);
     }
     .ColumnOneDays
     {
-        background-color: rgb(114, 90, 196);
+        background-color: rgb(48, 48, 48);
+        color: white;
     }
     .TheoryHours
     {
-        background-color: rgb(146, 121, 226);
+        background-color: rgb(79, 78, 80);
+        color: white;
     }
     .LabHours
     {
-        background-color: rgb(87, 79, 116);
+        background-color: rgb(91, 91, 92);
+        color: white;
     }
 }
 .selected
 {
-    background-color: rgb(33, 6, 65);
-    color:rgb(4, 173, 252);
+    background-color: rgb(5, 5, 5);
+    color :#F2E416;
     z-index: 100;
 }
 #sbutton
@@ -95,6 +99,19 @@ body,html
 }
 .clist:hover
 {
-    background-color: rgb(40, 23, 95);
+    background-color: #111;
     color: white;
 }
+#head {
+    padding: 5px;
+    background-color:  #111;
+    color:  #111;
+    width: auto;
+
+    img
+    {   
+        align-self: center;
+        height: 4.5vh;
+        width: 24vw;
+    }
+  }

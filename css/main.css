@@ -7,8 +7,8 @@ body a, html a {
 }
 
 #nav-main {
-  background-color: #291B57;
-  width: 25%;
+  background-color: #111;
+  width: 20%;
   height: 100vh;
   float: left;
   text-align: center;
@@ -18,12 +18,12 @@ body a, html a {
   position: relative;
   color: white;
   font-weight: bolder;
-  font-size: 3em;
+  font-size: 2em;
 }
 
 #tt-main {
   float: right;
-  width: 73%;
+  width: 80%;
   height: 100vh;
 }
 
@@ -31,7 +31,7 @@ body a, html a {
   position: relative;
   color: black;
   font-weight: bold;
-  font-size: 2.5em;
+  font-size: 2rem;
 }
 
 #course-search {
@@ -47,37 +47,45 @@ body a, html a {
   min-height: 0;
   max-height: 50%;
   overflow-y: scroll;
+  overflow-x: hidden;
   height: auto;
   border: none;
   border-radius: 2%;
   z-index: 9;
-  background-color: rgba(87, 67, 150, 0.979);
+  background-color: rgba(39, 39, 39, 0.979);
+}
+
+#timetable {
+  padding: 2%;
 }
 
 #timetable .TimetableContent:hover {
-  background-color: #291B57;
+  background-color: black;
   color: white;
 }
 
 #timetable .TimetableContent:focus {
-  background-color: #291B57;
+  background-color: black;
 }
 
 #timetable .ColumnOneDays {
-  background-color: #725ac4;
+  background-color: #303030;
+  color: white;
 }
 
 #timetable .TheoryHours {
-  background-color: #9279e2;
+  background-color: #4f4e50;
+  color: white;
 }
 
 #timetable .LabHours {
-  background-color: #574f74;
+  background-color: #5b5b5c;
+  color: white;
 }
 
 .selected {
-  background-color: #210641;
-  color: #04adfc;
+  background-color: #050505;
+  color: #F2E416;
   z-index: 100;
 }
 
@@ -87,7 +95,22 @@ body a, html a {
 }
 
 .clist:hover {
-  background-color: #28175f;
+  background-color: #111;
   color: white;
+}
+
+#head {
+  padding: 5px;
+  background-color: #111;
+  color: #111;
+  width: auto;
+}
+
+#head img {
+  -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
+      align-self: center;
+  height: 4.5vh;
+  width: 24vw;
 }
 /*# sourceMappingURL=main.css.map */

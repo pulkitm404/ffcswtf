@@ -39,9 +39,10 @@ body,html
 #course-search
 {
     width: 80%;
-    padding: 2%;
+    padding-left: 5%;
     text-transform: uppercase;
     height: 4vh; 
+    font-size: 0.8em;
 }
 
 #sresult
@@ -121,3 +122,32 @@ body,html
         width: 24vw;
     }
   }
+#quickb
+{
+    margin-left: 45%;
+    margin-top: 2%;
+}
+.vis
+{
+    display: none;
+}
+#quick
+{
+    margin-left: 15%;
+    margin-right: 20%;
+    padding: 2%;
+    width:70%;
+
+    .btn
+    {
+        margin-bottom: 1%;
+    }
+}
+.maj
+{
+    float: left;
+}
+.majT
+{
+    float:right;
+}

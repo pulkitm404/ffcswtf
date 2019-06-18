@@ -24,6 +24,40 @@
             $("#toggTslots").click(function () {
                 $(".majT").toggleClass("vis");
             });
+            $(".maj .btn").click(function(){
+                if($(this).hasClass("A1-tile"))
+                {   
+                    $(".TimetableContent.A1").toggleClass("selected");
+                }
+                if($(this).hasClass("B1-tile"))
+                {   
+                    $(".TimetableContent.B1").toggleClass("selected");
+                }
+                if($(this).hasClass("C1-tile"))
+                {   
+                    $(".TimetableContent.C1").toggleClass("selected");
+                }
+                if($(this).hasClass("D1-tile"))
+                {   
+                    $(".TimetableContent.D1").toggleClass("selected");
+                }
+                if($(this).hasClass("E1-tile"))
+                {   
+                    $(".TimetableContent.E1").toggleClass("selected");
+                }
+                if($(this).hasClass("F1-tile"))
+                {   
+                    $(".TimetableContent.F1").toggleClass("selected");
+                }
+                if($(this).hasClass("G1-tile"))
+                {   
+                    $(".TimetableContent.G1").toggleClass("selected");
+                }
+                
+            });
+            $(".majT .btn").click(function(){
+                window.alert("works");
+            });
             $("#course-search").keyup(function () {
                 $("#results").html('');
                 var sf = $("#course-search").val();

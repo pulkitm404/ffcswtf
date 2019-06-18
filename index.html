@@ -128,7 +128,10 @@
                 }
                 if ($(this).hasClass("TDD2-tile")) {
                     $(".TimetableContent.TDD2").toggleClass("selected");
-                }  
+                }
+            });
+            $("#quickreset").click(function(){
+                $(".TimetableContent").removeClass("selected");
             });
             $("#course-search").keyup(function () {
                 $("#results").html('');
@@ -186,8 +189,11 @@
                 <button class="F2-tile btn btn-dark">F2</button>
                 <button class="G2-tile btn btn-dark">G2</button>
                 <br>
+
+
             </div>
             <button id="toggTslots" class="btn btn-outline-secondary">Show T slots</button>
+
             <div class="vis majT">
                 <button class="TA1-tile btn btn-dark">TA1</button>
                 <button class="TB1-tile btn btn-dark">TB1</button>
@@ -212,6 +218,7 @@
                 <button class="TCC2-tile btn btn-dark">TCC2</button>
                 <button class="TDD2-tile btn btn-dark">TDD2</button>
             </div>
+            <button style="margin-left: 2.5%;" id="quickreset" class="btn btn-outline-danger">Reset</button>
         </div>
         <div class="container-fluid text-center noselect">
             <div id="timetable" class="row table-responsive">

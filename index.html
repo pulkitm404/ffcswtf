@@ -24,38 +24,54 @@
             $("#toggTslots").click(function () {
                 $(".majT").toggleClass("vis");
             });
-            $(".maj .btn").click(function(){
-                if($(this).hasClass("A1-tile"))
-                {   
+            $(".maj .btn").click(function () {
+                if ($(this).hasClass("A1-tile")) {
                     $(".TimetableContent.A1").toggleClass("selected");
                 }
-                if($(this).hasClass("B1-tile"))
-                {   
+                if ($(this).hasClass("B1-tile")) {
                     $(".TimetableContent.B1").toggleClass("selected");
                 }
-                if($(this).hasClass("C1-tile"))
-                {   
+                if ($(this).hasClass("C1-tile")) {
                     $(".TimetableContent.C1").toggleClass("selected");
                 }
-                if($(this).hasClass("D1-tile"))
-                {   
+                if ($(this).hasClass("D1-tile")) {
                     $(".TimetableContent.D1").toggleClass("selected");
                 }
-                if($(this).hasClass("E1-tile"))
-                {   
+                if ($(this).hasClass("E1-tile")) {
                     $(".TimetableContent.E1").toggleClass("selected");
                 }
-                if($(this).hasClass("F1-tile"))
-                {   
+                if ($(this).hasClass("F1-tile")) {
                     $(".TimetableContent.F1").toggleClass("selected");
                 }
-                if($(this).hasClass("G1-tile"))
-                {   
+                if ($(this).hasClass("G1-tile")) {
                     $(".TimetableContent.G1").toggleClass("selected");
                 }
-                
+                if ($(this).hasClass("A2-tile")) {
+                    $(".TimetableContent.A2").toggleClass("selected");
+                }
+                if ($(this).hasClass("B2-tile")) {
+                    $(".TimetableContent.B2").toggleClass("selected");
+                }
+                if ($(this).hasClass("C2-tile")) {
+                    $(".TimetableContent.C2").toggleClass("selected");
+                }
+                if ($(this).hasClass("D2-tile")) {
+                    $(".TimetableContent.D2").toggleClass("selected");
+                }
+                if ($(this).hasClass("E2-tile")) {
+                    $(".TimetableContent.E2").toggleClass("selected");
+                }
+                if ($(this).hasClass("F2-tile")) {
+                    $(".TimetableContent.F2").toggleClass("selected");
+                }
+                if ($(this).hasClass("G2-tile")) {
+                    $(".TimetableContent.G2").toggleClass("selected");
+                }
+                if ($(this).hasClass("B2-tile")) {
+                    $(".TimetableContent.B2").toggleClass("selected");
+                }
             });
-            $(".majT .btn").click(function(){
+            $(".majT .btn").click(function () {
                 window.alert("works");
             });
             $("#course-search").keyup(function () {
@@ -97,6 +113,15 @@
         <button id="quickb" class="btn btn-dark">Quick Pick</button>
         <div id="quick" class="vis noselect">
             <div class="maj">
+                <button class="A1-tile btn btn-dark">A1</button>
+                <button class="B1-tile btn btn-dark">B1</button>
+                <button class="C1-tile btn btn-dark">C1</button>
+                <button class="D1-tile btn btn-dark">D1</button>
+                <button class="E1-tile btn btn-dark">E1</button>
+                <button class="F1-tile btn btn-dark">F1</button>
+                <button class="G1-tile btn btn-dark">G1</button>
+
+                <br>
                 <button class="A2-tile btn btn-dark">A2</button>
                 <button class="B2-tile btn btn-dark">B2</button>
                 <button class="C2-tile btn btn-dark">C2</button>
@@ -105,28 +130,9 @@
                 <button class="F2-tile btn btn-dark">F2</button>
                 <button class="G2-tile btn btn-dark">G2</button>
                 <br>
-                <button class="A1-tile btn btn-dark">A1</button>
-                <button class="B1-tile btn btn-dark">B1</button>
-                <button class="C1-tile btn btn-dark">C1</button>
-                <button class="D1-tile btn btn-dark">D1</button>
-                <button class="E1-tile btn btn-dark">E1</button>
-                <button class="F1-tile btn btn-dark">F1</button>
-                <button class="G1-tile btn btn-dark">G1</button>
-                <br>
             </div>
             <button id="toggTslots" class="btn btn-outline-secondary">Show T slots</button>
             <div class="vis majT">
-                <button class="TA2-tile btn btn-dark">TA2</button>
-                <button class="TB2-tile btn btn-dark">TB2</button>
-                <button class="TC2-tile btn btn-dark">TC2</button>
-                <button class="TD2-tile btn btn-dark">TD2</button>
-                <button class="TE2-tile btn btn-dark">TE2</button>
-                <button class="TF2-tile btn btn-dark">TF2</button>
-                <button class="TG2-tile btn btn-dark">TG2</button>
-                <button class="TAA2-tile btn btn-dark">TAA2</button>
-                <button class="TBB2-tile btn btn-dark">TBB2</button>
-                <button class="TCC2-tile btn btn-dark">TCC2</button>
-                <button class="TDD2-tile btn btn-dark">TDD2</button>
                 <button class="TA1-tile btn btn-dark">TA1</button>
                 <button class="TB1-tile btn btn-dark">TB1</button>
                 <button class="TC1-tile btn btn-dark">TC1</button>
@@ -134,8 +140,21 @@
                 <button class="TE1-tile btn btn-dark">TE1</button>
                 <button class="TF1-tile btn btn-dark">TF1</button>
                 <button class="TG1-tile btn btn-dark">TG1</button>
+                <br>
+                <button class="TA2-tile btn btn-dark">TA2</button>
+                <button class="TB2-tile btn btn-dark">TB2</button>
+                <button class="TC2-tile btn btn-dark">TC2</button>
+                <button class="TD2-tile btn btn-dark">TD2</button>
+                <button class="TE2-tile btn btn-dark">TE2</button>
+                <button class="TF2-tile btn btn-dark">TF2</button>
+                <button class="TG2-tile btn btn-dark">TG2</button>
+                <br>
                 <button class="TAA1-tile btn btn-dark">TAA1</button>
                 <button class="TCC1-tile btn btn-dark">TCC1</button>
+                <button class="TAA2-tile btn btn-dark">TAA2</button>
+                <button class="TBB2-tile btn btn-dark">TBB2</button>
+                <button class="TCC2-tile btn btn-dark">TCC2</button>
+                <button class="TDD2-tile btn btn-dark">TDD2</button>
             </div>
         </div>
         <div class="container-fluid text-center noselect">

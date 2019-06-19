@@ -130,23 +130,48 @@
                     $(".TimetableContent.TDD2").toggleClass("selected");
                 }
             });
-            $("#quickreset").click(function(){
+            $("#quickreset").click(function () {
                 $(".TimetableContent").removeClass("selected");
             });
             $("#course-search").keyup(function () {
                 $("#results").html('');
                 var sf = $("#course-search").val();
                 var expr = new RegExp(sf, "i");
-                $.getJSON('data/all_data.json', function (data) {
+                $.getJSON('data/tempd.json', function (data) {
                     $.each(data, function (key, value) {
                         if (value.CODE.search(expr) != -1 || value.TITLE.search(expr) !=
                             -1) {
-                            $('#results').append('<li class="clist list-group-item">' +
+                                var strslot = (value.SLOT).split("+");
+                            $('#results').append('<li class="clist '+strslot[0]+' '+strslot[1]+' list-group-item">' +
                                 value.CODE + '|<span class="text-muted">' + value
                                 .TITLE + '</span><br><b>' + value.SLOT +
                                 '</b>|<span class="text-muted">' + value.VENUE +
-                                '</span><br><b>By</b>:' + value.FACULTY + '</li>');
+                                '</span><br><b>By</b>:' + value.FACULTY +
+                                '<button class="btn btn-outline-success" id="lbut">ADD</button></li>'
+                           );
                         }
+                    });
+                    $(".clist").click(function () {
+                        var classNames = $(this).attr("class").toString().split(' ');
+                        $.each(classNames, function (i, className) {
+                            if(className=="E1")
+                            {
+                                $(".TimetableContent.E1").addClass("selected");
+                            }
+                            if(className=="TE1")
+                            {
+                                $(".TimetableContent.TE1").addClass("selected");
+                            }
+                            if(className=="TE2")
+                            {
+                                $(".TimetableContent.TE2").addClass("selected");
+                            }
+                            if(className=="E2")
+                            {
+                                $(".TimetableContent.E2").addClass("selected");
+                            }
+
+                        });
                     });
                 });
             });
@@ -170,6 +195,7 @@
     <div id="tt-main">
         <div align="center" id="head"><img src="css/icons/FFCS.png" alt=".."></div>
         <button id="quickb" class="btn btn-dark">Quick Pick</button>
+        <button id="quickreset" class="btn btn-outline-danger">Reset</button>
         <div id="quick" class="vis noselect">
             <div class="maj">
                 <button class="A1-tile btn btn-dark">A1</button>
@@ -218,7 +244,7 @@
                 <button class="TCC2-tile btn btn-dark">TCC2</button>
                 <button class="TDD2-tile btn btn-dark">TDD2</button>
             </div>
-            <button style="margin-left: 2.5%;" id="quickreset" class="btn btn-outline-danger">Reset</button>
+            
         </div>
         <div class="container-fluid text-center noselect">
             <div id="timetable" class="row table-responsive">
@@ -244,6 +270,7 @@
                         <td class="TheoryHours"></td>
                         <td width="8px" rowspan="9" class="ColumnOneDays">
                             <strong>
+                                <br>
                                 <br>
                                 <br>
                                 <br>

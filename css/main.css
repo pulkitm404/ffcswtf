@@ -18,7 +18,7 @@ body a, html a {
   position: relative;
   color: white;
   font-weight: bolder;
-  font-size: 2em;
+  font-size: 2vw;
 }
 
 #tt-main {
@@ -123,6 +123,10 @@ body a, html a {
 
 #quickb {
   margin-left: 45%;
+  margin-top: 2%;
+}
+
+#quickreset {
   margin-top: 2%;
 }
 

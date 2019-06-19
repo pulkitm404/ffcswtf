@@ -63,6 +63,7 @@ body a, html a {
 
 #timetable td {
   font-size: 0.85em;
+  margin-bottom: 0%;
 }
 
 #timetable .TimetableContent:hover {
@@ -151,5 +152,9 @@ body a, html a {
 
 .majT {
   float: right;
+}
+
+.ccode {
+  margin: 0 0 0 0;
 }
 /*# sourceMappingURL=main.css.map */

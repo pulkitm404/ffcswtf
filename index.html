@@ -154,23 +154,150 @@
                     $(".clist").click(function () {
                         var classNames = $(this).attr("class").toString().split(' ');
                         $.each(classNames, function (i, className) {
+                            if(className=="A1")
+                            {
+                                $(".TimetableContent.A1").addClass("selected");
+                            }
+                            if(className=="B1")
+                            {
+                                $(".TimetableContent.B1").addClass("selected");
+                            }
+                            if(className=="C1")
+                            {
+                                $(".TimetableContent.C1").addClass("selected");
+                            }
+                            if(className=="D1")
+                            {
+                                $(".TimetableContent.D1").addClass("selected");
+                            }
                             if(className=="E1")
                             {
                                 $(".TimetableContent.E1").addClass("selected");
+                            }
+                            if(className=="F1")
+                            {
+                                $(".TimetableContent.F1").addClass("selected");
+                            }
+                            if(className=="G1")
+                            {
+                                $(".TimetableContent.G1").addClass("selected");
+                            }
+                            if(className=="TA1")
+                            {
+                                $(".TimetableContent.TA1").addClass("selected");
+                            }
+                            if(className=="TB1")
+                            {
+                                $(".TimetableContent.TB1").addClass("selected");
+                            }
+                            if(className=="TC1")
+                            {
+                                $(".TimetableContent.TC1").addClass("selected");
+                            }
+                            if(className=="TD1")
+                            {
+                                $(".TimetableContent.TD1").addClass("selected");
                             }
                             if(className=="TE1")
                             {
                                 $(".TimetableContent.TE1").addClass("selected");
                             }
-                            if(className=="TE2")
+                            if(className=="TF1")
                             {
-                                $(".TimetableContent.TE2").addClass("selected");
+                                $(".TimetableContent.TF1").addClass("selected");
+                            }
+                            if(className=="TG1")
+                            {
+                                $(".TimetableContent.TG1").addClass("selected");
+                            }  
+                            if(className=="A2")
+                            {
+                                $(".TimetableContent.A2").addClass("selected");
+                            }
+                            if(className=="B2")
+                            {
+                                $(".TimetableContent.B2").addClass("selected");
+                            }
+                            if(className=="C2")
+                            {
+                                $(".TimetableContent.C2").addClass("selected");
+                            }
+                            if(className=="D2")
+                            {
+                                $(".TimetableContent.D2").addClass("selected");
                             }
                             if(className=="E2")
                             {
                                 $(".TimetableContent.E2").addClass("selected");
                             }
-
+                            if(className=="F2")
+                            {
+                                $(".TimetableContent.F2").addClass("selected");
+                            }
+                            if(className=="G2")
+                            {
+                                $(".TimetableContent.G2").addClass("selected");
+                            }
+                            if(className=="TA2")
+                            {
+                                $(".TimetableContent.TA2").addClass("selected");
+                            }
+                            if(className=="TB2")
+                            {
+                                $(".TimetableContent.TB2").addClass("selected");
+                            }
+                            if(className=="TC2")
+                            {
+                                $(".TimetableContent.TC2").addClass("selected");
+                            }
+                            if(className=="TD2")
+                            {
+                                $(".TimetableContent.TD2").addClass("selected");
+                            }
+                            if(className=="TE2")
+                            {
+                                $(".TimetableContent.TE2").addClass("selected");
+                            }
+                            if(className=="TF2")
+                            {
+                                $(".TimetableContent.TF2").addClass("selected");
+                            }
+                            if(className=="TG2")
+                            {
+                                $(".TimetableContent.TG2").addClass("selected");
+                            }
+                            if(className=="TAA1")
+                            {
+                                $(".TimetableContent.TAA1").addClass("selected");
+                            }
+                            if(className=="TAA2")
+                            {
+                                $(".TimetableContent.TAA2").addClass("selected");
+                            }
+                            if(className=="TBB2")
+                            {
+                                $(".TimetableContent.TBB2").addClass("selected");
+                            }
+                            if(className=="TCC1")
+                            {
+                                $(".TimetableContent.TCC1").addClass("selected");
+                            }
+                            if(className=="TCC2")
+                            {
+                                $(".TimetableContent.TCC2").addClass("selected");
+                            }
+                            if(className=="TDD2")
+                            {
+                                $(".TimetableContent.TDD2").addClass("selected");
+                            }
+                            var i;
+                            for(i=1; i<=60; i++)
+                            {
+                                if(className==("L"+i))
+                                {
+                                    $((".TimetableContent.L"+i)).addClass("selected");
+                                }
+                            }
                         });
                     });
                 });

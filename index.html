@@ -142,197 +142,210 @@
                     $.each(data, function (key, value) {
                         if (value.CODE.search(expr) != -1 || value.TITLE.search(expr) !=
                             -1) {
-                                var strslot = (value.SLOT).split("+");
-                            $('#results').append('<li class="clist '+strslot[0]+' '+strslot[1]+' list-group-item" id="'+value.CODE+'" >' +
+                            var strslot = (value.SLOT).split("+");
+                            $('#results').append('<li class="clist ' + strslot[0] +
+                                ' ' + strslot[1] + ' list-group-item" id="' + value
+                                .CODE + '" >' +
                                 value.CODE + '|<span class="text-muted">' + value
                                 .TITLE + '</span><br><b>' + value.SLOT +
                                 '</b>|<span class="text-muted">' + value.VENUE +
                                 '</span><br><b>By</b>:' + value.FACULTY +
                                 '<button class="btn btn-outline-success" id="lbut">ADD</button></li>'
-                           );
+                            );
                         }
                     });
                     $(".clist").click(function () {
                         var classNames = $(this).attr("class").toString().split(' ');
-                        var coursecode=$(this).attr("id").toString();
+                        var coursecode = $(this).attr("id").toString();
                         $.each(classNames, function (i, className) {
-                            if(className=="A1")
-                            {
+                            if (className == "A1") {
                                 $(".TimetableContent.A1").addClass("selected");
-                                $(".TimetableContent.A1 .ccode").append("<br>"+coursecode);
+                                if(($(".TimetableContent.A1 .ccode").is(':empty'))){
+                                $(".TimetableContent.A1 .ccode").html("<br>" +
+                                    coursecode);}
+                                else
+                                {
+                                    alert("IT'S A CLASH FOR "+className+" SLOT !");
+                                }
                             }
-                            if(className=="B1")
-                            {
+                            if (className == "B1") {
                                 $(".TimetableContent.B1").addClass("selected");
-                                $(".TimetableContent.B1 .ccode").append("<br>"+coursecode);
+                                $(".TimetableContent.B1 .ccode").html("<br>" +
+                                    coursecode);
                             }
-                            if(className=="C1")
-                            {
+                            if (className == "C1") {
                                 $(".TimetableContent.C1").addClass("selected");
-                                $(".TimetableContent.C1 .ccode").append("<br>"+coursecode);
+                                $(".TimetableContent.C1 .ccode").html("<br>" +
+                                    coursecode);
                             }
-                            if(className=="D1")
-                            {
+                            if (className == "D1") {
                                 $(".TimetableContent.D1").addClass("selected");
-                                $(".TimetableContent.D1 .ccode").append("<br>"+coursecode);
+                                $(".TimetableContent.D1 .ccode").html("<br>" +
+                                    coursecode);
                             }
-                            if(className=="E1")
-                            {
+                            if (className == "E1") {
                                 $(".TimetableContent.E1").addClass("selected");
-                                $(".TimetableContent.E1 .ccode").append("<br>"+coursecode);
+                                $(".TimetableContent.E1 .ccode").html("<br>" +
+                                    coursecode);
                             }
-                            if(className=="F1")
-                            {
+                            if (className == "F1") {
                                 $(".TimetableContent.F1").addClass("selected");
-                                $(".TimetableContent.F1 .ccode").append("<br>"+coursecode);
+                                $(".TimetableContent.F1 .ccode").html("<br>" +
+                                    coursecode);
                             }
-                            if(className=="G1")
-                            {
+                            if (className == "G1") {
                                 $(".TimetableContent.G1").addClass("selected");
-                                $(".TimetableContent.G1 .ccode").append("<br>"+coursecode);
+                                $(".TimetableContent.G1 .ccode").html("<br>" +
+                                    coursecode);
                             }
-                            if(className=="TA1")
-                            {
+                            if (className == "TA1") {
                                 $(".TimetableContent.TA1").addClass("selected");
-                                $(".TimetableContent.TA1 .ccode").append("<br>"+coursecode);
+                                $(".TimetableContent.TA1 .ccode").html(
+                                    "<br>" + coursecode);
                             }
-                            if(className=="TB1")
-                            {
+                            if (className == "TB1") {
                                 $(".TimetableContent.TB1").addClass("selected");
-                                $(".TimetableContent.TB1 .ccode").append("<br>"+coursecode);
+                                $(".TimetableContent.TB1 .ccode").html(
+                                    "<br>" + coursecode);
                             }
-                            if(className=="TC1")
-                            {
+                            if (className == "TC1") {
                                 $(".TimetableContent.TC1").addClass("selected");
-                                $(".TimetableContent.TC1 .ccode").append("<br>"+coursecode);
+                                $(".TimetableContent.TC1 .ccode").html(
+                                    "<br>" + coursecode);
                             }
-                            if(className=="TD1")
-                            {
+                            if (className == "TD1") {
                                 $(".TimetableContent.TD1").addClass("selected");
-                                $(".TimetableContent.TD1 .ccode").append("<br>"+coursecode);
+                                $(".TimetableContent.TD1 .ccode").html(
+                                    "<br>" + coursecode);
                             }
-                            if(className=="TE1")
-                            {
+                            if (className == "TE1") {
                                 $(".TimetableContent.TE1").addClass("selected");
-                                $(".TimetableContent.TE1 .ccode").append("<br>"+coursecode);
+                                $(".TimetableContent.TE1 .ccode").html(
+                                    "<br>" + coursecode);
                             }
-                            if(className=="TF1")
-                            {
+                            if (className == "TF1") {
                                 $(".TimetableContent.TF1").addClass("selected");
-                                $(".TimetableContent.TF1 .ccode").append("<br>"+coursecode);
+                                $(".TimetableContent.TF1 .ccode").html(
+                                    "<br>" + coursecode);
                             }
-                            if(className=="TG1")
-                            {
+                            if (className == "TG1") {
                                 $(".TimetableContent.TG1").addClass("selected");
-                                $(".TimetableContent.TG1 .ccode").append("<br>"+coursecode);
-                            }  
-                            if(className=="A2")
-                            {
+                                $(".TimetableContent.TG1 .ccode").html(
+                                    "<br>" + coursecode);
+                            }
+                            if (className == "A2") {
                                 $(".TimetableContent.A2").addClass("selected");
-                                $(".TimetableContent.A2 .ccode").append("<br>"+coursecode);
+                                $(".TimetableContent.A2 .ccode").html("<br>" +
+                                    coursecode);
                             }
-                            if(className=="B2")
-                            {
+                            if (className == "B2") {
                                 $(".TimetableContent.B2").addClass("selected");
-                                $(".TimetableContent.B2 .ccode").append("<br>"+coursecode);
+                                $(".TimetableContent.B2 .ccode").html("<br>" +
+                                    coursecode);
                             }
-                            if(className=="C2")
-                            {
+                            if (className == "C2") {
                                 $(".TimetableContent.C2").addClass("selected");
-                                $(".TimetableContent.C2 .ccode").append("<br>"+coursecode);
+                                $(".TimetableContent.C2 .ccode").html("<br>" +
+                                    coursecode);
                             }
-                            if(className=="D2")
-                            {
+                            if (className == "D2") {
                                 $(".TimetableContent.D2").addClass("selected");
-                                $(".TimetableContent.D2 .ccode").append("<br>"+coursecode);
+                                $(".TimetableContent.D2 .ccode").html("<br>" +
+                                    coursecode);
                             }
-                            if(className=="E2")
-                            {
+                            if (className == "E2") {
                                 $(".TimetableContent.E2").addClass("selected");
-                                $(".TimetableContent.E2 .ccode").append("<br>"+coursecode);
+                                $(".TimetableContent.E2 .ccode").html("<br>" +
+                                    coursecode);
                             }
-                            if(className=="F2")
-                            {
+                            if (className == "F2") {
                                 $(".TimetableContent.F2").addClass("selected");
-                                $(".TimetableContent.F2 .ccode").append("<br>"+coursecode);
+                                $(".TimetableContent.F2 .ccode").html("<br>" +
+                                    coursecode);
                             }
-                            if(className=="G2")
-                            {
+                            if (className == "G2") {
                                 $(".TimetableContent.G2").addClass("selected");
-                                $(".TimetableContent.G2 .ccode").append("<br>"+coursecode);
+                                $(".TimetableContent.G2 .ccode").html("<br>" +
+                                    coursecode);
                             }
-                            if(className=="TA2")
-                            {
+                            if (className == "TA2") {
                                 $(".TimetableContent.TA2").addClass("selected");
-                                $(".TimetableContent.TA2 .ccode").append("<br>"+coursecode);
+                                $(".TimetableContent.TA2 .ccode").html(
+                                    "<br>" + coursecode);
                             }
-                            if(className=="TB2")
-                            {
+                            if (className == "TB2") {
                                 $(".TimetableContent.TB2").addClass("selected");
-                                $(".TimetableContent.TB2 .ccode").append("<br>"+coursecode);
+                                $(".TimetableContent.TB2 .ccode").html(
+                                    "<br>" + coursecode);
                             }
-                            if(className=="TC2")
-                            {
+                            if (className == "TC2") {
                                 $(".TimetableContent.TC2").addClass("selected");
-                                $(".TimetableContent.TC2 .ccode").append("<br>"+coursecode);
+                                $(".TimetableContent.TC2 .ccode").html(
+                                    "<br>" + coursecode);
                             }
-                            if(className=="TD2")
-                            {
+                            if (className == "TD2") {
                                 $(".TimetableContent.TD2").addClass("selected");
-                                $(".TimetableContent.TD2 .ccode").append("<br>"+coursecode);
+                                $(".TimetableContent.TD2 .ccode").html(
+                                    "<br>" + coursecode);
                             }
-                            if(className=="TE2")
-                            {
+                            if (className == "TE2") {
                                 $(".TimetableContent.TE2").addClass("selected");
-                                $(".TimetableContent.TE2 .ccode").append("<br>"+coursecode);
+                                $(".TimetableContent.TE2 .ccode").html(
+                                    "<br>" + coursecode);
                             }
-                            if(className=="TF2")
-                            {
+                            if (className == "TF2") {
                                 $(".TimetableContent.TF2").addClass("selected");
-                                $(".TimetableContent.TF2 .ccode").append("<br>"+coursecode);
+                                $(".TimetableContent.TF2 .ccode").html(
+                                    "<br>" + coursecode);
                             }
-                            if(className=="TG2")
-                            {
+                            if (className == "TG2") {
                                 $(".TimetableContent.TG2").addClass("selected");
-                                $(".TimetableContent.TG2 .ccode").append("<br>"+coursecode);
+                                $(".TimetableContent.TG2 .ccode").html(
+                                    "<br>" + coursecode);
                             }
-                            if(className=="TAA1")
-                            {
-                                $(".TimetableContent.TAA1").addClass("selected");
-                                $(".TimetableContent.TAA1 .ccode").append("<br>"+coursecode);
+                            if (className == "TAA1") {
+                                $(".TimetableContent.TAA1").addClass(
+                                "selected");
+                                $(".TimetableContent.TAA1 .ccode").html(
+                                    "<br>" + coursecode);
                             }
-                            if(className=="TAA2")
-                            {
-                                $(".TimetableContent.TBB2").addClass("selected");
-                                $(".TimetableContent.TBB2 .ccode").append("<br>"+coursecode);
+                            if (className == "TAA2") {
+                                $(".TimetableContent.TBB2").addClass(
+                                "selected");
+                                $(".TimetableContent.TBB2 .ccode").html(
+                                    "<br>" + coursecode);
                             }
-                            if(className=="TBB2")
-                            {
-                                $(".TimetableContent.TBB2").addClass("selected");
-                                $(".TimetableContent.TBB2 .ccode").append("<br>"+coursecode);
+                            if (className == "TBB2") {
+                                $(".TimetableContent.TBB2").addClass(
+                                "selected");
+                                $(".TimetableContent.TBB2 .ccode").html(
+                                    "<br>" + coursecode);
                             }
-                            if(className=="TCC1")
-                            {
-                                $(".TimetableContent.TCC1").addClass("selected");
-                                $(".TimetableContent.TCC1 .ccode").append("<br>"+coursecode);
+                            if (className == "TCC1") {
+                                $(".TimetableContent.TCC1").addClass(
+                                "selected");
+                                $(".TimetableContent.TCC1 .ccode").html(
+                                    "<br>" + coursecode);
                             }
-                            if(className=="TCC2")
-                            {
-                                $(".TimetableContent.TCC2").addClass("selected");
-                                $(".TimetableContent.TCC2 .ccode").append("<br>"+coursecode);
+                            if (className == "TCC2") {
+                                $(".TimetableContent.TCC2").addClass(
+                                "selected");
+                                $(".TimetableContent.TCC2 .ccode").html(
+                                    "<br>" + coursecode);
                             }
-                            if(className=="TDD2")
-                            {
-                                $(".TimetableContent.TDD2").addClass("selected");
-                                $(".TimetableContent.TDD2 .ccode").append("<br>"+coursecode);
+                            if (className == "TDD2") {
+                                $(".TimetableContent.TDD2").addClass(
+                                "selected");
+                                $(".TimetableContent.TDD2 .ccode").html(
+                                    "<br>" + coursecode);
                             }
                             var i;
-                            for(i=1; i<=60; i++)
-                            {
-                                if(className==("L"+i))
-                                {
-                                    $((".TimetableContent.L"+i)).addClass("selected");
-                                    $((".TimetableContent.L"+i+" .ccode")).append("<br>"+coursecode);
+                            for (i = 1; i <= 60; i++) {
+                                if (className == ("L" + i)) {
+                                    $((".TimetableContent.L" + i)).addClass(
+                                        "selected");
+                                    $((".TimetableContent.L" + i + " .ccode"))
+                                        .html("<br>" + coursecode);
                                 }
                             }
                         });
@@ -408,7 +421,7 @@
                 <button class="TCC2-tile btn btn-dark">TCC2</button>
                 <button class="TDD2-tile btn btn-dark">TDD2</button>
             </div>
-            
+
         </div>
         <div class="container-fluid text-center noselect">
             <div id="timetable" class="row table-responsive">
@@ -505,79 +518,157 @@
                     </tr>
                     <tr>
                         <td class="ColumnOneDays">MON</td>
-                        <td class="TimetableContent A1 L1 noPostLab">A1 / L1<p class="ccode"></p></td>
-                        <td class="TimetableContent F1 L2 noPreTheory">F1 / L2<p class="ccode"></p></td>
-                        <td class="TimetableContent D1 L3 noPostLab">D1 / L3<p class="ccode"></p></td>
-                        <td class="TimetableContent TB1 L4 noPostLab noPreTheory">TB1 / L4<p class="ccode"></p></td>
-                        <td class="TimetableContent TG1 L5 noPostLab noPreTheory">TG1 / L5<p class="ccode"></p></td>
-                        <td class="TimetableContent L6 noPreTheory">L6<p class="ccode"></p></td>
-                        <td class="TimetableContent A2 L31 noPostLab">A2 / L31<p class="ccode"></p></td>
-                        <td class="TimetableContent F2 L32 noPreTheory">F2 / L32<p class="ccode"></p></td>
-                        <td class="TimetableContent D2 L33 noPostLab">D2 / L33<p class="ccode"></p></td>
-                        <td class="TimetableContent TB2 L34 noPostLab noPreTheory">TB2 / L34<p class="ccode"></p></td>
-                        <td class="TimetableContent TG2 L35 noPostLab noPreTheory">TG2 / L35<p class="ccode"></p></td>
-                        <td class="TimetableContent V3 L36 noPreTheory">V3 / L36<p class="ccode"></p></td>
+                        <td class="TimetableContent A1 L1 noPostLab">A1 / L1<p class="ccode"></p>
+                        </td>
+                        <td class="TimetableContent F1 L2 noPreTheory">F1 / L2<p class="ccode"></p>
+                        </td>
+                        <td class="TimetableContent D1 L3 noPostLab">D1 / L3<p class="ccode"></p>
+                        </td>
+                        <td class="TimetableContent TB1 L4 noPostLab noPreTheory">TB1 / L4<p class="ccode"></p>
+                        </td>
+                        <td class="TimetableContent TG1 L5 noPostLab noPreTheory">TG1 / L5<p class="ccode"></p>
+                        </td>
+                        <td class="TimetableContent L6 noPreTheory">L6<p class="ccode"></p>
+                        </td>
+                        <td class="TimetableContent A2 L31 noPostLab">A2 / L31<p class="ccode"></p>
+                        </td>
+                        <td class="TimetableContent F2 L32 noPreTheory">F2 / L32<p class="ccode"></p>
+                        </td>
+                        <td class="TimetableContent D2 L33 noPostLab">D2 / L33<p class="ccode"></p>
+                        </td>
+                        <td class="TimetableContent TB2 L34 noPostLab noPreTheory">TB2 / L34<p class="ccode"></p>
+                        </td>
+                        <td class="TimetableContent TG2 L35 noPostLab noPreTheory">TG2 / L35<p class="ccode"></p>
+                        </td>
+                        <td class="TimetableContent V3 L36 noPreTheory">V3 / L36<p class="ccode"></p>
+                        </td>
                     </tr>
                     <tr>
                         <td class="ColumnOneDays">TUE</td>
-                        <td class="TimetableContent B1 L7 noPostLab">B1 / L7<p class="ccode"></p></td>
-                        <td class="TimetableContent G1 L8 noPreTheory">G1 / L8<p class="ccode"></p></td>
-                        <td class="TimetableContent E1 L9 noPostLab">E1 / L9<p class="ccode"></p></td>
-                        <td class="TimetableContent TC1 L10 noPostLab noPreTheory">TC1 / L10<p class="ccode"></p></td>
-                        <td class="TimetableContent TAA1 L11 noPostLab noPreTheory">TAA1 / L11<p class="ccode"></p></td>
-                        <td class="TimetableContent L12 noPreTheory">L12<p class="ccode"></p></td>
-                        <td class="TimetableContent B2 L37 noPostLab">B2 / L37<p class="ccode"></p></td>
-                        <td class="TimetableContent G2 L38 noPreTheory">G2 / L38<p class="ccode"></p></td>
-                        <td class="TimetableContent E2 L39 noPostLab">E2 / L39<p class="ccode"></p></td>
-                        <td class="TimetableContent TC2 L40 noPostLab noPreTheory">TC2 / L40<p class="ccode"></p></td>
-                        <td class="TimetableContent TAA2 L41 noPostLab noPreTheory">TAA2 / L41<p class="ccode"></p></td>
-                        <td class="TimetableContent V4 L42 noPreTheory">V4 / L42<p class="ccode"></p></td>
+                        <td class="TimetableContent B1 L7 noPostLab">B1 / L7<p class="ccode"></p>
+                        </td>
+                        <td class="TimetableContent G1 L8 noPreTheory">G1 / L8<p class="ccode"></p>
+                        </td>
+                        <td class="TimetableContent E1 L9 noPostLab">E1 / L9<p class="ccode"></p>
+                        </td>
+                        <td class="TimetableContent TC1 L10 noPostLab noPreTheory">TC1 / L10<p class="ccode"></p>
+                        </td>
+                        <td class="TimetableContent TAA1 L11 noPostLab noPreTheory">TAA1 / L11<p class="ccode"></p>
+                        </td>
+                        <td class="TimetableContent L12 noPreTheory">L12<p class="ccode"></p>
+                        </td>
+                        <td class="TimetableContent B2 L37 noPostLab">B2 / L37<p class="ccode"></p>
+                        </td>
+                        <td class="TimetableContent G2 L38 noPreTheory">G2 / L38<p class="ccode"></p>
+                        </td>
+                        <td class="TimetableContent E2 L39 noPostLab">E2 / L39<p class="ccode"></p>
+                        </td>
+                        <td class="TimetableContent TC2 L40 noPostLab noPreTheory">TC2 / L40<p class="ccode"></p>
+                        </td>
+                        <td class="TimetableContent TAA2 L41 noPostLab noPreTheory">TAA2 / L41<p class="ccode"></p>
+                        </td>
+                        <td class="TimetableContent V4 L42 noPreTheory">V4 / L42<p class="ccode"></p>
+                        </td>
                     </tr>
                     <tr>
                         <td class="ColumnOneDays">WED</td>
-                        <td class="TimetableContent C1 L13 noPostLab">C1 / L13<p class="ccode"></p></td>
-                        <td class="TimetableContent A1 L14 noPreTheory">A1 / L14<p class="ccode"></p></td>
-                        <td class="TimetableContent F1 L15 noPostLab">F1 / L15<p class="ccode"></p></td>
-                        <td class="TimetableContent V1 L16 noPostLab noPreTheory">V1 / L16<p class="ccode"></p></td>
-                        <td class="TimetableContent V2 noPostLab noPreTheory">V2<p class="ccode"></p></td>
+                        <td class="TimetableContent C1 L13 noPostLab">C1 / L13<p class="ccode"></p>
+                        </td>
+                        <td class="TimetableContent A1 L14 noPreTheory">A1 / L14<p class="ccode"></p>
+                        </td>
+                        <td class="TimetableContent F1 L15 noPostLab">F1 / L15<p class="ccode"></p>
+                        </td>
+                        <td class="TimetableContent V1 L16 noPostLab noPreTheory">V1 / L16<p class="ccode"></p>
+                        </td>
+                        <td class="TimetableContent V2 noPostLab noPreTheory">V2<p class="ccode"></p>
+                        </td>
                         <td class="TimetableContent"></td>
-                        <td class="TimetableContent C2 L43 noPostLab">C2 / L43<p class="ccode"></p></td>
-                        <td class="TimetableContent A2 L44 noPreTheory">A2 / L44<p class="ccode"></p></td>
-                        <td class="TimetableContent F2 L45 noPostLab">F2 / L45<p class="ccode"></p></td>
-                        <td class="TimetableContent TD2 L46 noPostLab noPreTheory">TD2 / L46<p class="ccode"></p></td>
-                        <td class="TimetableContent TBB2 L47 noPostLab noPreTheory">TBB2 / L47<p class="ccode"></p></td>
-                        <td class="TimetableContent V5 L48 noPreTheory">V5 / L48<p class="ccode"></p></td>
+                        <td class="TimetableContent C2 L43 noPostLab">C2 / L43<p class="ccode"></p>
+                        </td>
+                        <td class="TimetableContent A2 L44 noPreTheory">A2 / L44<p class="ccode"></p>
+                        </td>
+                        <td class="TimetableContent F2 L45 noPostLab">F2 / L45<p class="ccode"></p>
+                        </td>
+                        <td class="TimetableContent TD2 L46 noPostLab noPreTheory">TD2 / L46<p class="ccode"></p>
+                        </td>
+                        <td class="TimetableContent TBB2 L47 noPostLab noPreTheory">TBB2 / L47<p class="ccode"></p>
+                        </td>
+                        <td class="TimetableContent V5 L48 noPreTheory">V5 / L48<p class="ccode"></p>
+                        </td>
                     </tr>
                     <tr>
                         <td class="ColumnOneDays">THU</td>
-                        <td class="TimetableContent D1 L19 noPostLab">D1 / L19<p class="ccode"></p></td>
-                        <td class="TimetableContent B1 L20 noPreTheory">B1 / L20<p class="ccode"></p></td>
-                        <td class="TimetableContent G1 L21 noPostLab">G1 / L21<p class="ccode"></p></td>
-                        <td class="TimetableContent TE1 L22 noPostLab noPreTheory">TE1 / L22<p class="ccode"></p></td>
-                        <td class="TimetableContent TCC1 L23 noPostLab noPreTheory">TCC1 / L23<p class="ccode"></p></td>
-                        <td class="TimetableContent L24 noPreTheory">L24<p class="ccode"></p></td>
-                        <td class="TimetableContent D2 L49 noPostLab">D2 / L49<p class="ccode"></p></td>
-                        <td class="TimetableContent B2 L50 noPreTheory">B2 / L50<p class="ccode"></p></td>
-                        <td class="TimetableContent G2 L51 noPostLab">G2 / L51<p class="ccode"></p></td>
-                        <td class="TimetableContent TE2 L52 noPostLab noPreTheory">TE2 / L52<p class="ccode"></p></td>
-                        <td class="TimetableContent TCC2 L53 noPostLab noPreTheory">TCC2 / L53<p class="ccode"></p></td>
-                        <td class="TimetableContent V6 L54 noPreTheory">V6 / L54<p class="ccode"></p></td>
+                        <td class="TimetableContent D1 L19 noPostLab">D1 / L19<p class="ccode"></p>
+                        </td>
+                        <td class="TimetableContent B1 L20 noPreTheory">B1 / L20<p class="ccode"></p>
+                        </td>
+                        <td class="TimetableContent G1 L21 noPostLab">G1 / L21<p class="ccode"></p>
+                        </td>
+                        <td class="TimetableContent TE1 L22 noPostLab noPreTheory">TE1 / L22<p class="ccode"></p>
+                        </td>
+                        <td class="TimetableContent TCC1 L23 noPostLab noPreTheory">TCC1 / L23<p class="ccode"></p>
+                        </td>
+                        <td class="TimetableContent L24 noPreTheory">L24<p class="ccode"></p>
+                        </td>
+                        <td class="TimetableContent D2 L49 noPostLab">D2 / L49<p class="ccode"></p>
+                        </td>
+                        <td class="TimetableContent B2 L50 noPreTheory">B2 / L50<p class="ccode"></p>
+                        </td>
+                        <td class="TimetableContent G2 L51 noPostLab">G2 / L51<p class="ccode"></p>
+                        </td>
+                        <td class="TimetableContent TE2 L52 noPostLab noPreTheory">TE2 / L52<p class="ccode"></p>
+                        </td>
+                        <td class="TimetableContent TCC2 L53 noPostLab noPreTheory">TCC2 / L53<p class="ccode"></p>
+                        </td>
+                        <td class="TimetableContent V6 L54 noPreTheory">V6 / L54<p class="ccode"></p>
+                        </td>
                     </tr>
                     <tr>
                         <td class="ColumnOneDays">FRI</td>
-                        <td class="TimetableContent E1 L25 noPostLab">E1 / L25<p class="ccode"></p></td>
-                        <td class="TimetableContent C1 L26 noPreTheory">C1 / L26<p class="ccode"></p></td>
-                        <td class="TimetableContent TA1 L27 noPostLab">TA1 / L27<p class="ccode"></p></td>
-                        <td class="TimetableContent TF1 L28 noPostLab noPreTheory">TF1 / L28<p class="ccode"></p></td>
-                        <td class="TimetableContent TD1 L29 noPostLab noPreTheory">TD1 / L29<p class="ccode"></p></td>
-                        <td class="TimetableContent L30 noPreTheory">L30<p class="ccode"></p></td>
-                        <td class="TimetableContent E2 L55 noPostLab">E2 / L55<p class="ccode"></p></td>
-                        <td class="TimetableContent C2 L56 noPreTheory">C2 / L56<p class="ccode"></p></td>
-                        <td class="TimetableContent TA2 L57 noPostLab">TA2 / L57<p class="ccode"></p></td>
-                        <td class="TimetableContent TF2 L58 noPostLab noPreTheory">TF2 / L58<p class="ccode"></p></td>
-                        <td class="TimetableContent TDD2 L59 noPostLab noPreTheory">TDD2 / L59<p class="ccode"></p></td>
-                        <td class="TimetableContent V7 L60 noPreTheory">V7 / L60<p class="ccode"></p></td>
+                        <td class="TimetableContent E1 L25 noPostLab">E1 / L25<p class="ccode"></p>
+                        </td>
+                        <td class="TimetableContent C1 L26 noPreTheory">C1 / L26<p class="ccode"></p>
+                        </td>
+                        <td class="TimetableContent TA1 L27 noPostLab">TA1 / L27<p class="ccode"></p>
+                        </td>
+                        <td class="TimetableContent TF1 L28 noPostLab noPreTheory">TF1 / L28<p class="ccode"></p>
+                        </td>
+                        <td class="TimetableContent TD1 L29 noPostLab noPreTheory">TD1 / L29<p class="ccode"></p>
+                        </td>
+                        <td class="TimetableContent L30 noPreTheory">L30<p class="ccode"></p>
+                        </td>
+                        <td class="TimetableContent E2 L55 noPostLab">E2 / L55<p class="ccode"></p>
+                        </td>
+                        <td class="TimetableContent C2 L56 noPreTheory">C2 / L56<p class="ccode"></p>
+                        </td>
+                        <td class="TimetableContent TA2 L57 noPostLab">TA2 / L57<p class="ccode"></p>
+                        </td>
+                        <td class="TimetableContent TF2 L58 noPostLab noPreTheory">TF2 / L58<p class="ccode"></p>
+                        </td>
+                        <td class="TimetableContent TDD2 L59 noPostLab noPreTheory">TDD2 / L59<p class="ccode"></p>
+                        </td>
+                        <td class="TimetableContent V7 L60 noPreTheory">V7 / L60<p class="ccode"></p>
+                        </td>
                     </tr>
+                </table>
+            </div>
+            <br>
+            <div >
+                <table class="table table-responsive table-striped table-hover">
+                    <thead class="thead-dark">
+                        <tr>
+                            <th scope="col">Slot</th>
+                            <th scope="col">Course Code</th>
+                            <th scope="col">Course Title</th>
+                            <th scope="col">Faculty Name</th>
+                            <th scope="col">Venue</th>
+                            <th scope="col">Credits</th>
+                        </tr>
+                    </thead>
+                    <tbody class="sel-list">
+
+                    </tbody>
+
                 </table>
             </div>
         </div>

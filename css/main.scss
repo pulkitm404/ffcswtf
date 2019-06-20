@@ -1,52 +1,49 @@
-body,html
-{
+body,
+html {
     margin: 0;
 
-    a{
+    a {
         text-decoration: none;
     }
 }
 
-#nav-main
-{
-    background-color:#111;
+#nav-main {
+    background-color: #111;
     width: 20%;
     height: 100vh;
     float: left;
     text-align: center;
 
-    header
-    {
+    header {
         position: relative;
         color: white;
         font-weight: bolder;
         font-size: 2vw;
     }
 }
-#tt-main
-{
+
+#tt-main {
     float: right;
     width: 80%;
     height: 100vh;
-    header
-    {
+
+    header {
         position: relative;
-        color:black;
+        color: black;
         font-weight: bold;
         font-size: 2rem;
     }
 }
-#course-search
-{
+
+#course-search {
     width: 80%;
     padding-left: 5%;
     text-transform: uppercase;
-    height: 4vh; 
+    height: 4vh;
     font-size: 0.8em;
 }
 
-#sresult
-{
+#sresult {
     margin-top: 5%;
     width: 95%;
     min-height: 0;
@@ -59,105 +56,106 @@ body,html
     z-index: 9;
     background-color: rgba(39, 39, 39, 0.979);
 }
-#timetable
-{   
-    
-    td
-    {
+
+#timetable {
+
+    overflow-x: scroll;
+
+    td {
         font-size: 0.85em;
         margin-bottom: 0%;
     }
+
     padding: 1.5%;
     padding-right: 0;
-    .TimetableContent:hover
-    {
+
+    .TimetableContent:hover {
         background-color: rgb(0, 0, 0);
-        color: white;  
+        color: white;
     }
-    .TimetableContent:focus
-    {
+
+    .TimetableContent:focus {
         background-color: rgb(0, 0, 0);
     }
-    .ColumnOneDays
-    {
+
+    .ColumnOneDays {
         background-color: rgb(48, 48, 48);
         color: white;
     }
-    .TheoryHours
-    {
+
+    .TheoryHours {
         background-color: rgb(79, 78, 80);
         color: white;
     }
-    .LabHours
-    {
+
+    .LabHours {
         background-color: rgb(91, 91, 92);
         color: white;
     }
 }
-.selected
-{
+
+.selected {
     background-color: rgb(5, 5, 5);
-    color :#F2E416;
+    color: #F2E416;
     z-index: 100;
 }
-#sbutton
-{
+
+#sbutton {
     background: none;
     border: none;
 }
-.clist:hover
-{
+
+.clist:hover {
     background-color: #111;
     color: white;
     cursor: pointer;
 }
+
 #head {
     padding: 5px;
-    background-color:  #111;
-    color:  #111;
+    background-color: #111;
+    color: #111;
     width: auto;
 
-    img
-    {   
+    img {
         align-self: center;
         height: 4.5vh;
         width: 24vw;
     }
-  }
-#quickb
-{
+}
+
+#quickb {
     margin-left: 45%;
     margin-top: 2%;
 }
-#quickreset
-{
+
+#quickreset {
     margin-top: 2%;
 }
-.vis
-{
+
+.vis {
     display: none;
 }
-#quick
-{
+
+#quick {
     margin-left: 15%;
     margin-right: 20%;
     padding: 2%;
-    width:75%;
+    width: 75%;
 
-    .btn
-    {
+    .btn {
         margin-bottom: 1%;
     }
 }
-.maj
-{
+
+.maj {
     float: left;
 }
-.majT
-{
-    float:right;
+
+.majT {
+    float: right;
 }
-.ccode
-{
+
+.ccode {
     margin: 0 0 0 0;
 }

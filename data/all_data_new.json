@@ -22,7 +22,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT219",
-        "SLOT": "L35+L3",
+        "SLOT": "L35+L36",
         "FACULTY": "SUBA SHA",
         "key_9": "NSTIHTIENI S 33"
     }, {
@@ -40,7 +40,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT219",
-        "SLOT": "L35+L3",
+        "SLOT": "L35+L36",
         "FACULTY": "RAHAMAT",
         "key_9": "HSUITNENISA U 32"
     }, {
@@ -67,7 +67,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT219",
-        "SLOT": "L53+L5",
+        "SLOT": "L53+L54",
         "FACULTY": "THILAGAV",
         "key_9": "ASTIHTIE M 33"
     }, {
@@ -85,7 +85,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT219",
-        "SLOT": "L53+L5",
+        "SLOT": "L53+L54",
         "FACULTY": "SENTHIL K",
         "key_9": "USMITAER. M 32"
     }, {
@@ -166,7 +166,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT219",
-        "SLOT": "L41+L4",
+        "SLOT": "L41+L42",
         "FACULTY": "VIJAYARAN",
         "key_9": "IS ADC 33"
     }, {
@@ -184,7 +184,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT219",
-        "SLOT": "L41+L4",
+        "SLOT": "L41+L42",
         "FACULTY": "MANGAYA",
         "key_9": "RSKITAERASI R 32"
     }, {
@@ -310,7 +310,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT122",
-        "SLOT": "L39+L4",
+        "SLOT": "L39+L40",
         "FACULTY": "VANMATH",
         "key_9": "I SCITE 33"
     }, {
@@ -319,7 +319,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT122",
-        "SLOT": "L39+L4",
+        "SLOT": "L39+L40",
         "FACULTY": "JAYAKUM",
         "key_9": "ARS ISTE 32"
     }, {
@@ -328,7 +328,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT122",
-        "SLOT": "L53+L5",
+        "SLOT": "L53+L54",
         "FACULTY": "JAYAKUM",
         "key_9": "ARS ISTE 33"
     }, {
@@ -337,7 +337,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT122",
-        "SLOT": "L53+L5",
+        "SLOT": "L53+L54",
         "FACULTY": "MANGAYA",
         "key_9": "RSKITAERASI R 32"
     }, {
@@ -391,7 +391,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT122",
-        "SLOT": "L51+L5",
+        "SLOT": "L51+L52",
         "FACULTY": "SATHIYAM",
         "key_9": "OSOITRETHY E 33"
     }, {
@@ -400,7 +400,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT122",
-        "SLOT": "L51+L5",
+        "SLOT": "L51+L52",
         "FACULTY": "CHANDRA",
         "key_9": "SESGITAER.T 32"
     }, {
@@ -409,7 +409,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT122",
-        "SLOT": "L47+L4",
+        "SLOT": "L47+L48",
         "FACULTY": "SUMANGA",
         "key_9": "LSI IKTE 33"
     }, {
@@ -418,7 +418,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT122",
-        "SLOT": "L47+L4",
+        "SLOT": "L47+L48",
         "FACULTY": "CHANDRA",
         "key_9": "SESGITAER.T 32"
     }, {
@@ -904,7 +904,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT120",
-        "SLOT": "L53+L5",
+        "SLOT": "L53+L54",
         "FACULTY": "THANDEE",
         "key_9": "SWSIATREAN R 33"
     }, {
@@ -913,7 +913,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT120",
-        "SLOT": "L53+L5",
+        "SLOT": "L53+L54",
         "FACULTY": "USHA DEV",
         "key_9": "I SGITE 32"
     }, {
@@ -940,7 +940,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT120",
-        "SLOT": "L59+L6",
+        "SLOT": "L59+L60",
         "FACULTY": "USHA DEV",
         "key_9": "I SGITE 33"
     }, {
@@ -949,7 +949,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT120",
-        "SLOT": "L59+L6",
+        "SLOT": "L59+L60",
         "FACULTY": "THANDEE",
         "key_9": "SWSIATREAN R 32"
     }, {
@@ -976,7 +976,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT122",
-        "SLOT": "L33+L3",
+        "SLOT": "L33+L34",
         "FACULTY": "DINAKARA",
         "key_9": "NS IMTE 33"
     }, {
@@ -985,7 +985,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT122",
-        "SLOT": "L33+L3",
+        "SLOT": "L33+L34",
         "FACULTY": "USHA DEV",
         "key_9": "I SGITE 32"
     }, {
@@ -1561,7 +1561,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT219",
-        "SLOT": "L47+L4",
+        "SLOT": "L47+L48",
         "FACULTY": "KURUVA L",
         "key_9": "ASKISTHEMANNA 33"
     }, {
@@ -1570,7 +1570,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT219",
-        "SLOT": "L47+L4",
+        "SLOT": "L47+L48",
         "FACULTY": "RANICHAN",
         "key_9": "DSRDAC C 32"
     }, {
@@ -1642,7 +1642,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJTG17",
-        "SLOT": "L59+L6",
+        "SLOT": "L59+L60",
         "FACULTY": "PRABHU J",
         "key_9": "SITE 33"
     }, {
@@ -1651,7 +1651,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJTG17",
-        "SLOT": "L59+L6",
+        "SLOT": "L59+L60",
         "FACULTY": "BHAVANI",
         "key_9": "S SITE 32"
     }, {
@@ -1678,7 +1678,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJTG17",
-        "SLOT": "L57+L5",
+        "SLOT": "L57+L58",
         "FACULTY": "BHAVANI",
         "key_9": "S SITE 33"
     }, {
@@ -1687,7 +1687,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJTG17",
-        "SLOT": "L57+L5",
+        "SLOT": "L57+L58",
         "FACULTY": "MAGESH G",
         "key_9": "SITE 32"
     }, {
@@ -1993,7 +1993,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT122",
-        "SLOT": "L45+L4",
+        "SLOT": "L45+L46",
         "FACULTY": "ARIVUSEL",
         "key_9": "VASNIT EK 33"
     }, {
@@ -2002,7 +2002,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT122",
-        "SLOT": "L45+L4",
+        "SLOT": "L45+L46",
         "FACULTY": "DEEPA.K",
         "key_9": "SITE 32"
     }, {
@@ -2029,7 +2029,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT122",
-        "SLOT": "L59+L6",
+        "SLOT": "L59+L60",
         "FACULTY": "DEEPA.K",
         "key_9": "SITE 33"
     }, {
@@ -2038,7 +2038,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT122",
-        "SLOT": "L59+L6",
+        "SLOT": "L59+L60",
         "FACULTY": "SENTHIL K",
         "key_9": "USMITAER P 32"
     }, {
@@ -2461,7 +2461,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "GDN131",
-        "SLOT": "L35+L3",
+        "SLOT": "L35+L36",
         "FACULTY": "JAYAPRAK",
         "key_9": "ASMH ENCARAYAN M 60"
     }, {
@@ -2524,7 +2524,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "GDN131",
-        "SLOT": "L43+L4",
+        "SLOT": "L43+L44",
         "FACULTY": "NITHIN BA",
         "key_9": "TSTMULEAC 60"
     }, {
@@ -2560,7 +2560,7 @@
         "TYPE": "ETH",
         "CREDITS": "3",
         "VENUE": "CDMM10",
-        "SLOT": "2 A1+TA",
+        "SLOT": " A1+TA",
         "FACULTY": "SATHEESH",
         "key_9": "ASMEC 65"
     }, {
@@ -2569,7 +2569,7 @@
         "TYPE": "ETH",
         "CREDITS": "3",
         "VENUE": "CDMM10",
-        "SLOT": "2 A2+TA",
+        "SLOT": " A2+TA",
         "FACULTY": "SATHEESH",
         "key_9": "ASMEC 65"
     }, {
@@ -2578,7 +2578,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "GDN131",
-        "SLOT": "L33+L3",
+        "SLOT": "L33+L34",
         "FACULTY": "SATHEESH",
         "key_9": "ASMEC 60"
     }, {
@@ -2623,7 +2623,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "GDN131",
-        "SLOT": "L45+L4",
+        "SLOT": "L45+L46",
         "FACULTY": "SEKARAPA",
         "key_9": "NSDMIAENC N 60"
     }, {
@@ -2677,7 +2677,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "GDN131",
-        "SLOT": "L49+L5",
+        "SLOT": "L49+L50",
         "FACULTY": "ABINASH M",
         "key_9": "SOMHEACNTA 60"
     }, {
@@ -2695,7 +2695,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "GDN131",
-        "SLOT": "L39+L4",
+        "SLOT": "L39+L40",
         "FACULTY": "GUNDABA",
         "key_9": "TSTMINEI CEDISON 60"
     }, {
@@ -2731,7 +2731,7 @@
         "TYPE": "gEyLA",
         "CREDITS": "1",
         "VENUE": "GDN139",
-        "SLOT": "L35+L3",
+        "SLOT": "L35+L36",
         "FACULTY": "SATYAPRA",
         "key_9": "KCABSCHM ATHIRWAR 32"
     }, {
@@ -2740,7 +2740,7 @@
         "TYPE": "gEyLA",
         "CREDITS": "1",
         "VENUE": "GDN139",
-        "SLOT": "L37+L3",
+        "SLOT": "L37+L38",
         "FACULTY": "SATYAPRA",
         "key_9": "KCABSCHM ATHIRWAR 32"
     }, {
@@ -2803,7 +2803,7 @@
         "TYPE": "gEyLA",
         "CREDITS": "1",
         "VENUE": "GDN139",
-        "SLOT": "L31+L3",
+        "SLOT": "L31+L32",
         "FACULTY": "SK ARIFUL",
         "key_9": "RSAMHEACMAN 32"
     }, {
@@ -2812,7 +2812,7 @@
         "TYPE": "gEyLA",
         "CREDITS": "1",
         "VENUE": "GDN139",
-        "SLOT": "L39+L4",
+        "SLOT": "L39+L40",
         "FACULTY": "SK ARIFUL",
         "key_9": "RSAMHEACMAN 32"
     }, {
@@ -2893,7 +2893,7 @@
         "TYPE": "gEyLA",
         "CREDITS": "1",
         "VENUE": "GDN139",
-        "SLOT": "L43+L4",
+        "SLOT": "L43+L44",
         "FACULTY": "PADMANA",
         "key_9": "BSHMAENC K 32"
     }, {
@@ -2902,7 +2902,7 @@
         "TYPE": "gEyLA",
         "CREDITS": "1",
         "VENUE": "GDN139",
-        "SLOT": "L49+L5",
+        "SLOT": "L49+L50",
         "FACULTY": "PADMANA",
         "key_9": "BSHMAENC K 32"
     }, {
@@ -2920,7 +2920,7 @@
         "TYPE": "gEyLA",
         "CREDITS": "1",
         "VENUE": "GDN139",
-        "SLOT": "L33+L3",
+        "SLOT": "L33+L34",
         "FACULTY": "RIJESH M",
         "key_9": "SMEC 32"
     }, {
@@ -2929,7 +2929,7 @@
         "TYPE": "gEyLA",
         "CREDITS": "1",
         "VENUE": "GDN139",
-        "SLOT": "L55+L5",
+        "SLOT": "L55+L56",
         "FACULTY": "RIJESH M",
         "key_9": "SMEC 32"
     }, {
@@ -2956,7 +2956,7 @@
         "TYPE": "gEyLA",
         "CREDITS": "1",
         "VENUE": "GDN139",
-        "SLOT": "L45+L4",
+        "SLOT": "L45+L46",
         "FACULTY": "SREEKANT",
         "key_9": "HS M.E SC 32"
     }, {
@@ -2965,7 +2965,7 @@
         "TYPE": "gEyLA",
         "CREDITS": "1",
         "VENUE": "GDN139",
-        "SLOT": "L57+L5",
+        "SLOT": "L57+L58",
         "FACULTY": "SREEKANT",
         "key_9": "HS M.E SC 32"
     }, {
@@ -3028,7 +3028,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "GDNG26",
-        "SLOT": "L33+L3",
+        "SLOT": "L33+L34",
         "FACULTY": "SOLAMAN",
         "key_9": "BSOMBEBCY S 60"
     }, {
@@ -3064,7 +3064,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "GDNG26",
-        "SLOT": "L57+L5",
+        "SLOT": "L57+L58",
         "FACULTY": "DEVASRI F",
         "key_9": "USLMOREICA 60"
     }, {
@@ -3100,7 +3100,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "GDNG26",
-        "SLOT": "L35+L3",
+        "SLOT": "L35+L36",
         "FACULTY": "RANJEET K",
         "key_9": "USMAERC 60"
     }, {
@@ -3136,7 +3136,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "GDNG26",
-        "SLOT": "L41+L4",
+        "SLOT": "L41+L42",
         "FACULTY": "JAMBESW",
         "key_9": "ASRM SAECHU 60"
     }, {
@@ -3694,7 +3694,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "GDN152",
-        "SLOT": "L35+L3",
+        "SLOT": "L35+L36",
         "FACULTY": "KALAIARA",
         "key_9": "SSSAMNE GC 30"
     }, {
@@ -3703,7 +3703,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "GDN152",
-        "SLOT": "L41+L4",
+        "SLOT": "L41+L42",
         "FACULTY": "KALAIARA",
         "key_9": "SSSAMNE GC 30"
     }, {
@@ -3766,7 +3766,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "GDN152",
-        "SLOT": "L45+L4",
+        "SLOT": "L45+L46",
         "FACULTY": "SUDHIR R",
         "key_9": "AJSMEC 30"
     }, {
@@ -3775,7 +3775,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "GDN152",
-        "SLOT": "L53+L5",
+        "SLOT": "L53+L54",
         "FACULTY": "SUDHIR R",
         "key_9": "AJSMEC 30"
     }, {
@@ -3820,7 +3820,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "GDN131",
-        "SLOT": "L47+L4",
+        "SLOT": "L47+L48",
         "FACULTY": "JAYAPRAK",
         "key_9": "ASMH ENCARAYAN M 60"
     }, {
@@ -3856,7 +3856,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "GDN131",
-        "SLOT": "L31+L3",
+        "SLOT": "L31+L32",
         "FACULTY": "VIJESH V J",
         "key_9": "OSMHIEC 60"
     }, {
@@ -3883,7 +3883,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SMVG26",
-        "SLOT": "L41+L4",
+        "SLOT": "L41+L42",
         "FACULTY": "TAPANO K",
         "key_9": "USMAERC HOTTA 35"
     }, {
@@ -3955,7 +3955,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "GDN138",
-        "SLOT": "L33+L3",
+        "SLOT": "L33+L34",
         "FACULTY": "RAVI VERM",
         "key_9": "ASMEC 30"
     }, {
@@ -3964,7 +3964,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "GDN138",
-        "SLOT": "L37+L3",
+        "SLOT": "L37+L38",
         "FACULTY": "RAVI VERM",
         "key_9": "ASMEC 30"
     }, {
@@ -4252,7 +4252,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "GDNG10A",
-        "SLOT": "L43+L4",
+        "SLOT": "L43+L44",
         "FACULTY": "AKASH MO",
         "key_9": "HSAMNETCY 60"
     }, {
@@ -4279,7 +4279,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "GDNG10A",
-        "SLOT": "L31+L3",
+        "SLOT": "L31+L32",
         "FACULTY": "SENTHILN",
         "key_9": "ATSHMAENC N 60"
     }, {
@@ -4333,7 +4333,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "GDNG10A",
-        "SLOT": "L39+L4",
+        "SLOT": "L39+L40",
         "FACULTY": "RAJESH M",
         "key_9": "SMEC 60"
     }, {
@@ -4414,7 +4414,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "GDN139",
-        "SLOT": "L51+L5",
+        "SLOT": "L51+L52",
         "FACULTY": "BIBHUTI B",
         "key_9": "HSUMSAENC SAHOO 32"
     }, {
@@ -4423,7 +4423,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "GDNG11",
-        "SLOT": "L39+L4",
+        "SLOT": "L39+L40",
         "FACULTY": "BIBHUTI B",
         "key_9": "HSUMSAENC SAHOO 32"
     }, {
@@ -4468,7 +4468,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "GDNG11",
-        "SLOT": "L37+L3",
+        "SLOT": "L37+L38",
         "FACULTY": "GAURAV G",
         "key_9": "USPMTEAC 32"
     }, {
@@ -4477,7 +4477,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "GDNG11",
-        "SLOT": "L47+L4",
+        "SLOT": "L47+L48",
         "FACULTY": "GAURAV G",
         "key_9": "USPMTEAC 32"
     }, {
@@ -4576,7 +4576,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "GDN25A",
-        "SLOT": "L31+L3",
+        "SLOT": "L31+L32",
         "FACULTY": "SENTHIL K",
         "key_9": "USMMAERC M 30"
     }, {
@@ -4585,7 +4585,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "GDN25A",
-        "SLOT": "L43+L4",
+        "SLOT": "L43+L44",
         "FACULTY": "SENTHIL K",
         "key_9": "USMMAERC M 30"
     }, {
@@ -4630,7 +4630,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "GDNG11",
-        "SLOT": "L31+L3",
+        "SLOT": "L31+L32",
         "FACULTY": "VINOD KU",
         "key_9": "MSAMRE SCHARMA 32"
     }, {
@@ -4639,7 +4639,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "GDNG11",
-        "SLOT": "L55+L5",
+        "SLOT": "L55+L56",
         "FACULTY": "VINOD KU",
         "key_9": "MSAMRE SCHARMA 32"
     }, {
@@ -4711,7 +4711,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "GDN25",
-        "SLOT": "L31+L3",
+        "SLOT": "L31+L32",
         "FACULTY": "DARIUS G",
         "key_9": "NASMNAERCAJ S 30"
     }, {
@@ -4720,7 +4720,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "GDN25",
-        "SLOT": "L37+L3",
+        "SLOT": "L37+L38",
         "FACULTY": "DARIUS G",
         "key_9": "NASMNAERCAJ S 30"
     }, {
@@ -4765,7 +4765,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "GDN25",
-        "SLOT": "L43+L4",
+        "SLOT": "L43+L44",
         "FACULTY": "MANIKAN",
         "key_9": "DSAMN EMC 30"
     }, {
@@ -4774,7 +4774,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "GDN25",
-        "SLOT": "L55+L5",
+        "SLOT": "L55+L56",
         "FACULTY": "MANIKAN",
         "key_9": "DSAMN EMC 30"
     }, {
@@ -4810,7 +4810,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "GDN25",
-        "SLOT": "L39+L4",
+        "SLOT": "L39+L40",
         "FACULTY": "NIRANJAN",
         "key_9": "AS BMEEHCERA 30"
     }, {
@@ -4828,7 +4828,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "GDN25",
-        "SLOT": "L51+L5",
+        "SLOT": "L51+L52",
         "FACULTY": "NIRANJAN",
         "key_9": "AS BMEEHCERA 30"
     }, {
@@ -4873,7 +4873,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "GDN25",
-        "SLOT": "L33+L3",
+        "SLOT": "L33+L34",
         "FACULTY": "DEEPAK K",
         "key_9": "UMSMAERC BISWAL 30"
     }, {
@@ -4882,7 +4882,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "GDN25",
-        "SLOT": "L45+L4",
+        "SLOT": "L45+L46",
         "FACULTY": "DEEPAK K",
         "key_9": "UMSMAERC BISWAL 30"
     }, {
@@ -5017,7 +5017,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SMVG26",
-        "SLOT": "L37+L3",
+        "SLOT": "L37+L38",
         "FACULTY": "CHIRANJE",
         "key_9": "EVSIM CEC 35"
     }, {
@@ -5026,7 +5026,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SMVG26",
-        "SLOT": "L49+L5",
+        "SLOT": "L49+L50",
         "FACULTY": "CHIRANJE",
         "key_9": "EVSIM CEC 35"
     }, {
@@ -5035,7 +5035,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SMVG26",
-        "SLOT": "L33+L3",
+        "SLOT": "L33+L34",
         "FACULTY": "GOVINDH",
         "key_9": "A SRMASEUC N 35"
     }, {
@@ -5044,7 +5044,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SMVG26",
-        "SLOT": "L39+L4",
+        "SLOT": "L39+L40",
         "FACULTY": "GOVINDH",
         "key_9": "A SRMASEUC N 35"
     }, {
@@ -5053,7 +5053,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SMVG26",
-        "SLOT": "L31+L3",
+        "SLOT": "L31+L32",
         "FACULTY": "DEVENDR",
         "key_9": "A SKMUMECAR 35"
     }, {
@@ -5062,7 +5062,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SMVG26",
-        "SLOT": "L43+L4",
+        "SLOT": "L43+L44",
         "FACULTY": "DEVENDR",
         "key_9": "A SKMUMECAR 35"
     }, {
@@ -5089,7 +5089,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SMVG26",
-        "SLOT": "L51+L5",
+        "SLOT": "L51+L52",
         "FACULTY": "PREMKAR",
         "key_9": "TIAKRKCUMAR S R 35"
     }, {
@@ -5098,7 +5098,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SMVG26",
-        "SLOT": "L55+L5",
+        "SLOT": "L55+L56",
         "FACULTY": "PREMKAR",
         "key_9": "TIAKRKCUMAR S R 35"
     }, {
@@ -5206,7 +5206,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SMVG26",
-        "SLOT": "L35+L3",
+        "SLOT": "L35+L36",
         "FACULTY": "PRAVEEN",
         "key_9": "KUSMEACR G 35"
     }, {
@@ -5260,7 +5260,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "GDNG16",
-        "SLOT": "L31+L3",
+        "SLOT": "L31+L32",
         "FACULTY": "OYYARAV",
         "key_9": "ELSUM REC 60"
     }, {
@@ -5296,7 +5296,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "GDNG16",
-        "SLOT": "L33+L3",
+        "SLOT": "L33+L34",
         "FACULTY": "ANOJ GIRI",
         "key_9": "SMEC 60"
     }, {
@@ -5368,7 +5368,7 @@
         "TYPE": "ELA",
         "CREDITS": "2",
         "VENUE": "GDN130",
-        "SLOT": "L35+L3",
+        "SLOT": "L35+L36",
         "FACULTY": "8RAJAY VED",
         "key_9": "ASRMAEJ C I.S 60"
     }, {
@@ -5557,7 +5557,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "GDN137",
-        "SLOT": "L35+L3",
+        "SLOT": "L35+L36",
         "FACULTY": "GIRIRAJ M",
         "key_9": "SMEC 30"
     }, {
@@ -5566,7 +5566,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "GDN137",
-        "SLOT": "L41+L4",
+        "SLOT": "L41+L42",
         "FACULTY": "GIRIRAJ M",
         "key_9": "SMEC 30"
     }, {
@@ -5656,7 +5656,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "GDN08B",
-        "SLOT": "L31+L3",
+        "SLOT": "L31+L32",
         "FACULTY": "DEVENDIR",
         "key_9": "ASNM SEC 30"
     }, {
@@ -5665,7 +5665,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "GDN08B",
-        "SLOT": "L45+L4",
+        "SLOT": "L45+L46",
         "FACULTY": "DEVENDIR",
         "key_9": "ASNM SEC 30"
     }, {
@@ -5683,7 +5683,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "GDN08B",
-        "SLOT": "L35+L3",
+        "SLOT": "L35+L36",
         "FACULTY": "RENOLD E",
         "key_9": "LSSEMNE SC 30"
     }, {
@@ -5692,7 +5692,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "GDN08B",
-        "SLOT": "L41+L4",
+        "SLOT": "L41+L42",
         "FACULTY": "RENOLD E",
         "key_9": "LSSEMNE SC 30"
     }, {
@@ -6430,7 +6430,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "GDN135",
-        "SLOT": "L35+L3",
+        "SLOT": "L35+L36",
         "FACULTY": "SABOOR S",
         "key_9": "SMEC 30"
     }, {
@@ -6439,7 +6439,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "GDN135",
-        "SLOT": "L47+L4",
+        "SLOT": "L47+L48",
         "FACULTY": "SABOOR S",
         "key_9": "SMEC 30"
     }, {
@@ -6457,7 +6457,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "GDN130",
-        "SLOT": "L41+L4",
+        "SLOT": "L41+L42",
         "FACULTY": "RAJA K",
         "key_9": "CIMR 60"
     }, {
@@ -6475,7 +6475,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "GDN25A",
-        "SLOT": "L35+L3",
+        "SLOT": "L35+L36",
         "FACULTY": "RAVI K",
         "key_9": "ARC 35"
     }, {
@@ -6484,7 +6484,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "GDN25A",
-        "SLOT": "L41+L4",
+        "SLOT": "L41+L42",
         "FACULTY": "RAVI K",
         "key_9": "ARC 35"
     }, {
@@ -6610,7 +6610,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "MB112",
-        "SLOT": "L33+L3",
+        "SLOT": "L33+L34",
         "FACULTY": "PADMANA",
         "key_9": "TSHMAENC P 30"
     }, {
@@ -6619,7 +6619,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "MB112",
-        "SLOT": "L39+L4",
+        "SLOT": "L39+L40",
         "FACULTY": "PADMANA",
         "key_9": "TSHMAENC P 30"
     }, {
@@ -7438,7 +7438,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT515",
-        "SLOT": "L33+L3",
+        "SLOT": "L33+L34",
         "FACULTY": "SANTHAKU",
         "key_9": "MSEALRE CRT 30"
     }, {
@@ -7447,7 +7447,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT515",
-        "SLOT": "L47+L4",
+        "SLOT": "L47+L48",
         "FACULTY": "SANTHAKU",
         "key_9": "MSEALRE CRT 30"
     }, {
@@ -7647,7 +7647,7 @@
         "VENUE": "TT204",
         "SLOT": "F1+TF1",
         "FACULTY": "MEDARAM",
-        "key_9": "ESTELAE CPTRAVEENKU7M2 AR"
+        "key_9": "ESTELAE CPTRAVEENKU7M AR"
     }, {
         "CODE": "EEE4018",
         "TITLE": "Advanced Control Theory",
@@ -7656,7 +7656,7 @@
         "VENUE": "NIL",
         "SLOT": "NIL",
         "FACULTY": "MEDARAM",
-        "key_9": "ESTELAE CPTRAVEENKU7M2 AR"
+        "key_9": "ESTELAE CPTRAVEENKU7M AR"
     }, {
         "CODE": "EEE4018",
         "TITLE": "Advanced Control Theory",
@@ -7708,7 +7708,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT514",
-        "SLOT": "L41+L4",
+        "SLOT": "L41+L42",
         "FACULTY": "VENKATA",
         "key_9": "LASKESLEHCMTI NARAYA3N3A  K"
     }, {
@@ -7717,7 +7717,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT514",
-        "SLOT": "L51+L5",
+        "SLOT": "L51+L52",
         "FACULTY": "VENKATA",
         "key_9": "LASKESLEHCMTI NARAYA3N3A  K"
     }, {
@@ -7789,7 +7789,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT128",
-        "SLOT": "L33+L3",
+        "SLOT": "L33+L34",
         "FACULTY": "BALAMUR",
         "key_9": "USGEALNEC ST 33"
     }, {
@@ -7798,7 +7798,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT128",
-        "SLOT": "L43+L4",
+        "SLOT": "L43+L44",
         "FACULTY": "BALAMUR",
         "key_9": "USGEALNEC ST 33"
     }, {
@@ -7816,7 +7816,7 @@
         "TYPE": "aEtiLoAn",
         "CREDITS": "1",
         "VENUE": "TT514",
-        "SLOT": "L47+L4",
+        "SLOT": "L47+L48",
         "FACULTY": "BAGYAVEE",
         "key_9": "RSEESLWECATRAN V 33"
     }, {
@@ -7825,7 +7825,7 @@
         "TYPE": "aEtiLoAn",
         "CREDITS": "1",
         "VENUE": "TT514",
-        "SLOT": "L55+L5",
+        "SLOT": "L55+L56",
         "FACULTY": "BAGYAVEE",
         "key_9": "RSEESLWECATRAN V 33"
     }, {
@@ -7843,7 +7843,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT521",
-        "SLOT": "L35+L3",
+        "SLOT": "L35+L36",
         "FACULTY": "JAGANATH",
         "key_9": "AS EPLAENCDTIAN B 30"
     }, {
@@ -7852,7 +7852,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT521",
-        "SLOT": "L45+L4",
+        "SLOT": "L45+L46",
         "FACULTY": "JAGANATH",
         "key_9": "AS EPLAENCDTIAN B 30"
     }, {
@@ -8626,7 +8626,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT231",
-        "SLOT": "L39+L4",
+        "SLOT": "L39+L40",
         "FACULTY": "SIBASANK",
         "key_9": "ARSE PNASDEHY 33"
     }, {
@@ -8644,7 +8644,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT231",
-        "SLOT": "L59+L6",
+        "SLOT": "L59+L60",
         "FACULTY": "SIBASANK",
         "key_9": "ARSE PNASDEHY 33"
     }, {
@@ -8860,7 +8860,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT246",
-        "SLOT": "L37+L3",
+        "SLOT": "L37+L38",
         "FACULTY": "SAFFRINE",
         "key_9": "KISNEGNSLEY 50"
     }, {
@@ -8878,7 +8878,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT246",
-        "SLOT": "L57+L5",
+        "SLOT": "L57+L58",
         "FACULTY": "SAFFRINE",
         "key_9": "KISNEGNSLEY 50"
     }, {
@@ -8932,7 +8932,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT246",
-        "SLOT": "L45+L4",
+        "SLOT": "L45+L46",
         "FACULTY": "RAJESHKU",
         "key_9": "MSAERN SVE 50"
     }, {
@@ -8986,7 +8986,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT246",
-        "SLOT": "L39+L4",
+        "SLOT": "L39+L40",
         "FACULTY": "AARTHY M",
         "key_9": "SENSE 50"
     }, {
@@ -9040,7 +9040,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT246",
-        "SLOT": "L31+L3",
+        "SLOT": "L31+L32",
         "FACULTY": "AARTHI G",
         "key_9": "SENSE 50"
     }, {
@@ -9058,7 +9058,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT246",
-        "SLOT": "L55+L5",
+        "SLOT": "L55+L56",
         "FACULTY": "AARTHI G",
         "key_9": "SENSE 50"
     }, {
@@ -9076,7 +9076,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT246",
-        "SLOT": "L35+L3",
+        "SLOT": "L35+L36",
         "FACULTY": "RAMAKRIS",
         "key_9": "HSNEANNSE V.N 50"
     }, {
@@ -9094,7 +9094,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT246",
-        "SLOT": "L43+L4",
+        "SLOT": "L43+L44",
         "FACULTY": "RAMAKRIS",
         "key_9": "HSNEANNSE V.N 50"
     }, {
@@ -9184,7 +9184,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT246",
-        "SLOT": "L41+L4",
+        "SLOT": "L41+L42",
         "FACULTY": "ANAND S",
         "key_9": "SENSE 50"
     }, {
@@ -9202,7 +9202,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT246",
-        "SLOT": "L51+L5",
+        "SLOT": "L51+L52",
         "FACULTY": "ANAND S",
         "key_9": "SENSE 50"
     }, {
@@ -9220,7 +9220,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT503",
-        "SLOT": "L55+L5",
+        "SLOT": "L55+L56",
         "FACULTY": "AARTHY M",
         "key_9": "SENSE 46"
     }, {
@@ -9238,7 +9238,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT503",
-        "SLOT": "L51+L5",
+        "SLOT": "L51+L52",
         "FACULTY": "RAJESHKU",
         "key_9": "MSAERN SVE 46"
     }, {
@@ -9364,7 +9364,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT422",
-        "SLOT": "L57+L5",
+        "SLOT": "L57+L58",
         "FACULTY": "RAVI S",
         "key_9": "SENSE 40"
     }, {
@@ -9373,7 +9373,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT422",
-        "SLOT": "L53+L5",
+        "SLOT": "L53+L54",
         "FACULTY": "RAVI S",
         "key_9": "SENSE 40"
     }, {
@@ -9409,7 +9409,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT422",
-        "SLOT": "L33+L3",
+        "SLOT": "L33+L34",
         "FACULTY": "PRAYLINE",
         "key_9": "RSAEJANBSEAI C 40"
     }, {
@@ -9427,7 +9427,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT422",
-        "SLOT": "L51+L5",
+        "SLOT": "L51+L52",
         "FACULTY": "PRAYLINE",
         "key_9": "RSAEJANBSEAI C 40"
     }, {
@@ -9445,7 +9445,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT422",
-        "SLOT": "L35+L3",
+        "SLOT": "L35+L36",
         "FACULTY": "ANITHA  R",
         "key_9": "SENSE 40"
     }, {
@@ -9454,7 +9454,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT422",
-        "SLOT": "L39+L4",
+        "SLOT": "L39+L40",
         "FACULTY": "ANITHA  R",
         "key_9": "SENSE 40"
     }, {
@@ -9472,7 +9472,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT422",
-        "SLOT": "L41+L4",
+        "SLOT": "L41+L42",
         "FACULTY": "RAGUNAT",
         "key_9": "HS GENSE 40"
     }, {
@@ -9490,7 +9490,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT422",
-        "SLOT": "L55+L5",
+        "SLOT": "L55+L56",
         "FACULTY": "RAGUNAT",
         "key_9": "HS GENSE 40"
     }, {
@@ -9499,7 +9499,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT422",
-        "SLOT": "L31+L3",
+        "SLOT": "L31+L32",
         "FACULTY": "SRI ADIBH",
         "key_9": "ATSELAN SERIDEVI 40"
     }, {
@@ -9517,7 +9517,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT422",
-        "SLOT": "L45+L4",
+        "SLOT": "L45+L46",
         "FACULTY": "SRI ADIBH",
         "key_9": "ATSELAN SERIDEVI 40"
     }, {
@@ -9733,7 +9733,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT232",
-        "SLOT": "L45+L4",
+        "SLOT": "L45+L46",
         "FACULTY": "SHWETA B",
         "key_9": "TSHENOSMEAS 46"
     }, {
@@ -9751,7 +9751,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT232",
-        "SLOT": "L49+L5",
+        "SLOT": "L49+L50",
         "FACULTY": "SHWETA B",
         "key_9": "TSHENOSMEAS 46"
     }, {
@@ -9805,7 +9805,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT232",
-        "SLOT": "L33+L3",
+        "SLOT": "L33+L34",
         "FACULTY": "SARANYA",
         "key_9": "K.SCE.NSE 46"
     }, {
@@ -9823,7 +9823,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT232",
-        "SLOT": "L43+L4",
+        "SLOT": "L43+L44",
         "FACULTY": "SARANYA",
         "key_9": "K.SCE.NSE 46"
     }, {
@@ -9877,7 +9877,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT232",
-        "SLOT": "L31+L3",
+        "SLOT": "L31+L32",
         "FACULTY": "SUDHAKA",
         "key_9": "R SMEN SSE 46"
     }, {
@@ -9895,7 +9895,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT232",
-        "SLOT": "L47+L4",
+        "SLOT": "L47+L48",
         "FACULTY": "SUDHAKA",
         "key_9": "R SMEN SSE 46"
     }, {
@@ -9949,7 +9949,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT232",
-        "SLOT": "L35+L3",
+        "SLOT": "L35+L36",
         "FACULTY": "MALAYA K",
         "key_9": "USMENASRE HOTA 46"
     }, {
@@ -9967,7 +9967,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT232",
-        "SLOT": "L55+L5",
+        "SLOT": "L55+L56",
         "FACULTY": "MALAYA K",
         "key_9": "USMENASRE HOTA 46"
     }, {
@@ -10021,7 +10021,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT232",
-        "SLOT": "L37+L3",
+        "SLOT": "L37+L38",
         "FACULTY": "VALARMA",
         "key_9": "THSEI NJ SE 46"
     }, {
@@ -10039,7 +10039,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT232",
-        "SLOT": "L51+L5",
+        "SLOT": "L51+L52",
         "FACULTY": "VALARMA",
         "key_9": "THSEI NJ SE 46"
     }, {
@@ -10318,7 +10318,7 @@
         "TYPE": "isEitLiAon",
         "CREDITS": "1",
         "VENUE": "TT501",
-        "SLOT": "L31+L3",
+        "SLOT": "L31+L32",
         "FACULTY": "SIVACOUM",
         "key_9": "ASREN RSE 36"
     }, {
@@ -10327,7 +10327,7 @@
         "TYPE": "isEitLiAon",
         "CREDITS": "1",
         "VENUE": "TT501",
-        "SLOT": "L43+L4",
+        "SLOT": "L43+L44",
         "FACULTY": "SIVACOUM",
         "key_9": "ASREN RSE 36"
     }, {
@@ -10390,7 +10390,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT422",
-        "SLOT": "L43+L4",
+        "SLOT": "L43+L44",
         "FACULTY": "USHA RAN",
         "key_9": "I SENSE 40"
     }, {
@@ -10408,7 +10408,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT422",
-        "SLOT": "L59+L6",
+        "SLOT": "L59+L60",
         "FACULTY": "USHA RAN",
         "key_9": "I SENSE 40"
     }, {
@@ -10426,7 +10426,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT422",
-        "SLOT": "L47+L4",
+        "SLOT": "L47+L48",
         "FACULTY": "JAYAKRISH",
         "key_9": "NSAEN SPE 40"
     }, {
@@ -10444,7 +10444,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT422",
-        "SLOT": "L49+L5",
+        "SLOT": "L49+L50",
         "FACULTY": "JAYAKRISH",
         "key_9": "NSAEN SPE 40"
     }, {
@@ -10543,7 +10543,7 @@
         "TYPE": "nEsLA",
         "CREDITS": "1",
         "VENUE": "TT503",
-        "SLOT": "L33+L3",
+        "SLOT": "L33+L34",
         "FACULTY": "KATHIRVE",
         "key_9": "LASNEN JSE 46"
     }, {
@@ -10561,7 +10561,7 @@
         "TYPE": "nEsLA",
         "CREDITS": "1",
         "VENUE": "TT503",
-        "SLOT": "L41+L4",
+        "SLOT": "L41+L42",
         "FACULTY": "KATHIRVE",
         "key_9": "LASNEN JSE 46"
     }, {
@@ -10615,7 +10615,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT135",
-        "SLOT": "L37+L3",
+        "SLOT": "L37+L38",
         "FACULTY": "KAVITHA K",
         "key_9": ".VSE.N.SE 35"
     }, {
@@ -10624,7 +10624,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT135",
-        "SLOT": "L49+L5",
+        "SLOT": "L49+L50",
         "FACULTY": "KAVITHA K",
         "key_9": ".VSE.N.SE 35"
     }, {
@@ -10669,7 +10669,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT237",
-        "SLOT": "L39+L4",
+        "SLOT": "L39+L40",
         "FACULTY": "JAGANNA",
         "key_9": "DHSEAN NSAEIDU K 30"
     }, {
@@ -10678,7 +10678,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT237",
-        "SLOT": "L43+L4",
+        "SLOT": "L43+L44",
         "FACULTY": "JAGANNA",
         "key_9": "DHSEAN NSAEIDU K 30"
     }, {
@@ -10696,7 +10696,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT237",
-        "SLOT": "L37+L3",
+        "SLOT": "L37+L38",
         "FACULTY": "SAKTHIVE",
         "key_9": "L RSENSE 30"
     }, {
@@ -10705,7 +10705,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT237",
-        "SLOT": "L47+L4",
+        "SLOT": "L47+L48",
         "FACULTY": "SAKTHIVE",
         "key_9": "L RSENSE 30"
     }, {
@@ -10831,7 +10831,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT729",
-        "SLOT": "L31+L3",
+        "SLOT": "L31+L32",
         "FACULTY": "KARTHIKE",
         "key_9": "YASNEN ASE 40"
     }, {
@@ -10849,7 +10849,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT729",
-        "SLOT": "L53+L5",
+        "SLOT": "L53+L54",
         "FACULTY": "KARTHIKE",
         "key_9": "YASNEN ASE 40"
     }, {
@@ -10903,7 +10903,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT729",
-        "SLOT": "L33+L3",
+        "SLOT": "L33+L34",
         "FACULTY": "PADMINI",
         "key_9": "T NSENSE 40"
     }, {
@@ -10921,7 +10921,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT729",
-        "SLOT": "L43+L4",
+        "SLOT": "L43+L44",
         "FACULTY": "PADMINI",
         "key_9": "T NSENSE 40"
     }, {
@@ -10975,7 +10975,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT729",
-        "SLOT": "L45+L4",
+        "SLOT": "L45+L46",
         "FACULTY": "S. SUNDAR",
         "key_9": "SENSE 40"
     }, {
@@ -10993,7 +10993,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT729",
-        "SLOT": "L57+L5",
+        "SLOT": "L57+L58",
         "FACULTY": "S. SUNDAR",
         "key_9": "SENSE 40"
     }, {
@@ -11011,7 +11011,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT729",
-        "SLOT": "L37+L3",
+        "SLOT": "L37+L38",
         "FACULTY": "SHANMUG",
         "key_9": "ASSEUNNSEDARAM M 40"
     }, {
@@ -11029,7 +11029,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT729",
-        "SLOT": "L49+L5",
+        "SLOT": "L49+L50",
         "FACULTY": "SHANMUG",
         "key_9": "ASSEUNNSEDARAM M 40"
     }, {
@@ -11047,7 +11047,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT729",
-        "SLOT": "L39+L4",
+        "SLOT": "L39+L40",
         "FACULTY": "KARTHIKE",
         "key_9": "YASNEN BSE 40"
     }, {
@@ -11065,7 +11065,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT729",
-        "SLOT": "L51+L5",
+        "SLOT": "L51+L52",
         "FACULTY": "KARTHIKE",
         "key_9": "YASNEN BSE 40"
     }, {
@@ -11218,7 +11218,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT231",
-        "SLOT": "L31+L3",
+        "SLOT": "L31+L32",
         "FACULTY": "RAJESH KU",
         "key_9": "MSEANRS ME 33"
     }, {
@@ -11227,7 +11227,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT231",
-        "SLOT": "L37+L3",
+        "SLOT": "L37+L38",
         "FACULTY": "SANJAY  K",
         "key_9": "USMEANRS ESINGH 33"
     }, {
@@ -11236,7 +11236,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT231",
-        "SLOT": "L45+L4",
+        "SLOT": "L45+L46",
         "FACULTY": "RAJESH KU",
         "key_9": "MSEANRS ME 33"
     }, {
@@ -11245,7 +11245,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT231",
-        "SLOT": "L57+L5",
+        "SLOT": "L57+L58",
         "FACULTY": "SANJAY  K",
         "key_9": "USMEANRS ESINGH 33"
     }, {
@@ -11416,7 +11416,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT145",
-        "SLOT": "L31+L3",
+        "SLOT": "L31+L32",
         "FACULTY": "KANNADA",
         "key_9": "SSCANNR D 34"
     }, {
@@ -11434,7 +11434,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT145",
-        "SLOT": "L51+L5",
+        "SLOT": "L51+L52",
         "FACULTY": "KANNADA",
         "key_9": "SSCANNR D 34"
     }, {
@@ -11524,7 +11524,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT503",
-        "SLOT": "L45+L4",
+        "SLOT": "L45+L46",
         "FACULTY": "KUMARAV",
         "key_9": "ESLE SNSE 46"
     }, {
@@ -11533,7 +11533,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT503",
-        "SLOT": "L49+L5",
+        "SLOT": "L49+L50",
         "FACULTY": "KUMARAV",
         "key_9": "ESLE SNSE 46"
     }, {
@@ -11560,7 +11560,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT503",
-        "SLOT": "L37+L3",
+        "SLOT": "L37+L38",
         "FACULTY": "DEEPIKA R",
         "key_9": "ASNEIN SSOENA 46"
     }, {
@@ -11569,7 +11569,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT503",
-        "SLOT": "L57+L5",
+        "SLOT": "L57+L58",
         "FACULTY": "DEEPIKA R",
         "key_9": "ASNEIN SSOENA 46"
     }, {
@@ -11596,7 +11596,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT503",
-        "SLOT": "L31+L3",
+        "SLOT": "L31+L32",
         "FACULTY": "NAMITHA",
         "key_9": "AS SENSE 46"
     }, {
@@ -11605,7 +11605,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT503",
-        "SLOT": "L43+L4",
+        "SLOT": "L43+L44",
         "FACULTY": "DEEPIKA R",
         "key_9": "ASNEIN SSOENA 46"
     }, {
@@ -11740,7 +11740,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT603",
-        "SLOT": "L31+L3",
+        "SLOT": "L31+L32",
         "FACULTY": "RAMMOH",
         "key_9": "ATNI FAAC 65"
     }, {
@@ -11902,7 +11902,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT135",
-        "SLOT": "L33+L3",
+        "SLOT": "L33+L34",
         "FACULTY": "NANDAKU",
         "key_9": "MSAENR SSE 35"
     }, {
@@ -11911,7 +11911,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT135",
-        "SLOT": "L41+L4",
+        "SLOT": "L41+L42",
         "FACULTY": "NANDAKU",
         "key_9": "MSAENR SSE 35"
     }, {
@@ -11956,7 +11956,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT135",
-        "SLOT": "L39+L4",
+        "SLOT": "L39+L40",
         "FACULTY": "RAJESH A",
         "key_9": "SENSE 35"
     }, {
@@ -11965,7 +11965,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT135",
-        "SLOT": "L53+L5",
+        "SLOT": "L53+L54",
         "FACULTY": "RAJESH A",
         "key_9": "SENSE 35"
     }, {
@@ -11992,7 +11992,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT135",
-        "SLOT": "L35+L3",
+        "SLOT": "L35+L36",
         "FACULTY": "VELMURU",
         "key_9": "GSAENN TSE 35"
     }, {
@@ -12001,7 +12001,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT135",
-        "SLOT": "L45+L4",
+        "SLOT": "L45+L46",
         "FACULTY": "VELMURU",
         "key_9": "GSAENN TSE 35"
     }, {
@@ -12028,7 +12028,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT135",
-        "SLOT": "L31+L3",
+        "SLOT": "L31+L32",
         "FACULTY": "THANIKAI",
         "key_9": "SESLEVNASNE V 35"
     }, {
@@ -12037,7 +12037,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT135",
-        "SLOT": "L43+L4",
+        "SLOT": "L43+L44",
         "FACULTY": "THANIKAI",
         "key_9": "SESLEVNASNE V 35"
     }, {
@@ -12091,7 +12091,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT729",
-        "SLOT": "L55+L5",
+        "SLOT": "L55+L56",
         "FACULTY": "ASHISH P",
         "key_9": "SENSE 40"
     }, {
@@ -12109,7 +12109,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT729",
-        "SLOT": "L35+L3",
+        "SLOT": "L35+L36",
         "FACULTY": "ASHISH P",
         "key_9": "SENSE 40"
     }, {
@@ -12289,7 +12289,7 @@
         "TYPE": "kEsLA",
         "CREDITS": "1",
         "VENUE": "TT144",
-        "SLOT": "L31+L3",
+        "SLOT": "L31+L32",
         "FACULTY": "REVATHI S",
         "key_9": "SENSE 40"
     }, {
@@ -12307,7 +12307,7 @@
         "TYPE": "kEsLA",
         "CREDITS": "1",
         "VENUE": "TT144",
-        "SLOT": "L35+L3",
+        "SLOT": "L35+L36",
         "FACULTY": "SANGEETH",
         "key_9": "AS EANSE 40"
     }, {
@@ -12325,7 +12325,7 @@
         "TYPE": "kEsLA",
         "CREDITS": "1",
         "VENUE": "TT144",
-        "SLOT": "L41+L4",
+        "SLOT": "L41+L42",
         "FACULTY": "ILAVARAS",
         "key_9": "ANSE TNSE 40"
     }, {
@@ -12343,7 +12343,7 @@
         "TYPE": "kEsLA",
         "CREDITS": "1",
         "VENUE": "TT144",
-        "SLOT": "L43+L4",
+        "SLOT": "L43+L44",
         "FACULTY": "ILAVARAS",
         "key_9": "ANSE TNSE 40"
     }, {
@@ -12361,7 +12361,7 @@
         "TYPE": "kEsLA",
         "CREDITS": "1",
         "VENUE": "TT144",
-        "SLOT": "L51+L5",
+        "SLOT": "L51+L52",
         "FACULTY": "SANGEETH",
         "key_9": "AS EANSE 40"
     }, {
@@ -12379,7 +12379,7 @@
         "TYPE": "kEsLA",
         "CREDITS": "1",
         "VENUE": "TT144",
-        "SLOT": "L47+L4",
+        "SLOT": "L47+L48",
         "FACULTY": "REVATHI S",
         "key_9": "SENSE 40"
     }, {
@@ -12496,7 +12496,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT145",
-        "SLOT": "L33+L3",
+        "SLOT": "L33+L34",
         "FACULTY": "RAVI KUM",
         "key_9": "ASRE CN SVE 34"
     }, {
@@ -12514,7 +12514,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT145",
-        "SLOT": "L45+L4",
+        "SLOT": "L45+L46",
         "FACULTY": "RAVI KUM",
         "key_9": "ASRE CN SVE 34"
     }, {
@@ -12613,7 +12613,7 @@
         "TYPE": "nELA",
         "CREDITS": "1",
         "VENUE": "TT135A",
-        "SLOT": "L47+L4",
+        "SLOT": "L47+L48",
         "FACULTY": "PREETHA",
         "key_9": "K.SENSE 30"
     }, {
@@ -12631,7 +12631,7 @@
         "TYPE": "nELA",
         "CREDITS": "1",
         "VENUE": "TT135A",
-        "SLOT": "L51+L5",
+        "SLOT": "L51+L52",
         "FACULTY": "PREETHA",
         "key_9": "K.SENSE 30"
     }, {
@@ -12685,7 +12685,7 @@
         "TYPE": "nELA",
         "CREDITS": "1",
         "VENUE": "TT135A",
-        "SLOT": "L37+L3",
+        "SLOT": "L37+L38",
         "FACULTY": "BUDHADIT",
         "key_9": "YSAE NBHSEATTACHARY3Y0A"
     }, {
@@ -12703,7 +12703,7 @@
         "TYPE": "nELA",
         "CREDITS": "1",
         "VENUE": "TT135A",
-        "SLOT": "L55+L5",
+        "SLOT": "L55+L56",
         "FACULTY": "BUDHADIT",
         "key_9": "YSAE NBHSEATTACHARY3Y0A"
     }, {
@@ -12757,7 +12757,7 @@
         "TYPE": "nELA",
         "CREDITS": "1",
         "VENUE": "TT135A",
-        "SLOT": "L39+L4",
+        "SLOT": "L39+L40",
         "FACULTY": "ABHIJIT BH",
         "key_9": "OSWENMSEICK 30"
     }, {
@@ -12775,7 +12775,7 @@
         "TYPE": "nELA",
         "CREDITS": "1",
         "VENUE": "TT135A",
-        "SLOT": "L43+L4",
+        "SLOT": "L43+L44",
         "FACULTY": "ABHIJIT BH",
         "key_9": "OSWENMSEICK 30"
     }, {
@@ -12892,7 +12892,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT603",
-        "SLOT": "L39+L4",
+        "SLOT": "L39+L40",
         "FACULTY": "HEMPRAS",
         "key_9": "ADSE YNASSEHWANT PA3T5IL"
     }, {
@@ -12901,7 +12901,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT603",
-        "SLOT": "L43+L4",
+        "SLOT": "L43+L44",
         "FACULTY": "HEMPRAS",
         "key_9": "ADSE YNASSEHWANT PA3T5IL"
     }, {
@@ -12982,7 +12982,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT121",
-        "SLOT": "L41+L4",
+        "SLOT": "L41+L42",
         "FACULTY": "PRAVEEN",
         "key_9": "KUSIMTEAR REDDY M.33"
     }, {
@@ -12991,7 +12991,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT121",
-        "SLOT": "L41+L4",
+        "SLOT": "L41+L42",
         "FACULTY": "SUGANYA",
         "key_9": "PSITE 32"
     }, {
@@ -13009,7 +13009,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT120",
-        "SLOT": "L37+L3",
+        "SLOT": "L37+L38",
         "FACULTY": "VIJAYAN R",
         "key_9": "SITE 33"
     }, {
@@ -13018,7 +13018,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT120",
-        "SLOT": "L37+L3",
+        "SLOT": "L37+L38",
         "FACULTY": "MAREESW",
         "key_9": "ASRITI EV 32"
     }, {
@@ -13063,7 +13063,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT120",
-        "SLOT": "L33+L3",
+        "SLOT": "L33+L34",
         "FACULTY": "MAREESW",
         "key_9": "ASRITI EV 33"
     }, {
@@ -13072,7 +13072,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT120",
-        "SLOT": "L33+L3",
+        "SLOT": "L33+L34",
         "FACULTY": "VIJAYAN R",
         "key_9": "SITE 32"
     }, {
@@ -13117,7 +13117,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT120",
-        "SLOT": "L45+L4",
+        "SLOT": "L45+L46",
         "FACULTY": "DIVYA UD",
         "key_9": "AYSAITNE  J 33"
     }, {
@@ -13126,7 +13126,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT120",
-        "SLOT": "L45+L4",
+        "SLOT": "L45+L46",
         "FACULTY": "MAREESW",
         "key_9": "ASRITI EV 32"
     }, {
@@ -13171,7 +13171,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT120",
-        "SLOT": "L35+L3",
+        "SLOT": "L35+L36",
         "FACULTY": "BIMAL KU",
         "key_9": "MSAITRE RAY 33"
     }, {
@@ -13189,7 +13189,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT120",
-        "SLOT": "L35+L3",
+        "SLOT": "L35+L36",
         "FACULTY": "TAPAN KU",
         "key_9": "MSAITRE DAS 32"
     }, {
@@ -13261,7 +13261,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT120",
-        "SLOT": "L39+L4",
+        "SLOT": "L39+L40",
         "FACULTY": "SHASHIKIR",
         "key_9": "ASNIT VE 33"
     }, {
@@ -13279,7 +13279,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT120",
-        "SLOT": "L39+L4",
+        "SLOT": "L39+L40",
         "FACULTY": "RAGHAVA",
         "key_9": "NS RITE 32"
     }, {
@@ -13360,7 +13360,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT120",
-        "SLOT": "L43+L4",
+        "SLOT": "L43+L44",
         "FACULTY": "RANICHAN",
         "key_9": "DSRDAC C 33"
     }, {
@@ -13378,7 +13378,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT120",
-        "SLOT": "L43+L4",
+        "SLOT": "L43+L44",
         "FACULTY": "SARAVAN",
         "key_9": "AKSUITME AR K 32"
     }, {
@@ -13441,7 +13441,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT120",
-        "SLOT": "L57+L5",
+        "SLOT": "L57+L58",
         "FACULTY": "DHARMEN",
         "key_9": "DSRITAE SINGH RAJPU3T5"
     }, {
@@ -13450,7 +13450,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT120",
-        "SLOT": "L57+L5",
+        "SLOT": "L57+L58",
         "FACULTY": "SWARNA",
         "key_9": "PRSIIYTAE R.M 35"
     }, {
@@ -13819,7 +13819,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT120",
-        "SLOT": "L41+L4",
+        "SLOT": "L41+L42",
         "FACULTY": "KUMAR P.",
         "key_9": "J SITE 33"
     }, {
@@ -13828,7 +13828,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT120",
-        "SLOT": "L41+L4",
+        "SLOT": "L41+L42",
         "FACULTY": "ANGULAK",
         "key_9": "SHSMITEI M 32"
     }, {
@@ -13873,7 +13873,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT120",
-        "SLOT": "L55+L5",
+        "SLOT": "L55+L56",
         "FACULTY": "ANGULAK",
         "key_9": "SHSMITEI M 33"
     }, {
@@ -13882,7 +13882,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT120",
-        "SLOT": "L55+L5",
+        "SLOT": "L55+L56",
         "FACULTY": "KUMAR P.",
         "key_9": "J SITE 32"
     }, {
@@ -14224,7 +14224,7 @@
         "TYPE": "ENLeAtworks",
         "CREDITS": "1",
         "VENUE": "SJT120",
-        "SLOT": "L51+L5",
+        "SLOT": "L51+L52",
         "FACULTY": "MYTHILI N",
         "key_9": "SITE 35"
     }, {
@@ -14233,7 +14233,7 @@
         "TYPE": "ENLeAtworks",
         "CREDITS": "1",
         "VENUE": "SJT120",
-        "SLOT": "L51+L5",
+        "SLOT": "L51+L52",
         "FACULTY": "NAVANEE",
         "key_9": "THSAITNE C 35"
     }, {
@@ -14494,7 +14494,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT121",
-        "SLOT": "L53+L5",
+        "SLOT": "L53+L54",
         "FACULTY": "SUGANYA",
         "key_9": "PSITE 33"
     }, {
@@ -14503,7 +14503,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT121",
-        "SLOT": "L53+L5",
+        "SLOT": "L53+L54",
         "FACULTY": "DEEPIKAA",
         "key_9": "SSITE 32"
     }, {
@@ -14548,7 +14548,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT121",
-        "SLOT": "L59+L6",
+        "SLOT": "L59+L60",
         "FACULTY": "NEELU KH",
         "key_9": "ARSIETE 33"
     }, {
@@ -14557,7 +14557,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT121",
-        "SLOT": "L59+L6",
+        "SLOT": "L59+L60",
         "FACULTY": "BRIJENDR",
         "key_9": "A SITNEGH 32"
     }, {
@@ -14602,7 +14602,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT122",
-        "SLOT": "L57+L5",
+        "SLOT": "L57+L58",
         "FACULTY": "JYOTISMIT",
         "key_9": "AS CITHEAKI 33"
     }, {
@@ -14611,7 +14611,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT122",
-        "SLOT": "L57+L5",
+        "SLOT": "L57+L58",
         "FACULTY": "KARTHIKE",
         "key_9": "YASNIT EJ 32"
     }, {
@@ -14656,7 +14656,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT120",
-        "SLOT": "L31+L3",
+        "SLOT": "L31+L32",
         "FACULTY": "JAYARAM",
         "key_9": "RSEIDTDEY A 33"
     }, {
@@ -14665,7 +14665,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT120",
-        "SLOT": "L31+L3",
+        "SLOT": "L31+L32",
         "FACULTY": "KARTHIKE",
         "key_9": "YASNIT EJ 32"
     }, {
@@ -14710,7 +14710,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT120",
-        "SLOT": "L47+L4",
+        "SLOT": "L47+L48",
         "FACULTY": "MOHAN K",
         "key_9": "USMITAER P 33"
     }, {
@@ -14719,7 +14719,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT120",
-        "SLOT": "L47+L4",
+        "SLOT": "L47+L48",
         "FACULTY": "PRABHAV",
         "key_9": "ATSHITYE P 32"
     }, {
@@ -14872,7 +14872,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT318",
-        "SLOT": "L55+L5",
+        "SLOT": "L55+L56",
         "FACULTY": "SHIVAM M",
         "key_9": "ISHSLRA 75"
     }, {
@@ -15664,9 +15664,9 @@
         "TYPE": "ELA",
         "CREDITS": "6",
         "VENUE": "MGB209A",
-        "SLOT": "L43+L4",
+        "SLOT": "L43+L44",
         "FACULTY": "6S+HL4E9F+AL5I 0N",
-        "key_9": "+ALVY5AS1PK+ALR52C+L55+L562+0L57+L58"
+        "key_9": "+ALVY5AS1PK+ALR52C+L55+L5662+0L57+L588"
     }, {
         "CODE": "ARC1013",
         "TITLE": "Basic Design and Workshop",
@@ -15682,9 +15682,9 @@
         "TYPE": "ELA",
         "CREDITS": "6",
         "VENUE": "MGB209A",
-        "SLOT": "L43+L4",
+        "SLOT": "L43+L44",
         "FACULTY": "6D+LJA49M+IL5 B0E",
-        "key_9": "+NLV5GS1HP+IALD5RA2C+L55+L562+0L57+L58"
+        "key_9": "+NLV5GS1HP+IALD5RA2C+L55+L5662+0L57+L588"
     }, {
         "CODE": "ARC1013",
         "TITLE": "Basic Design and Workshop",
@@ -15700,7 +15700,7 @@
         "TYPE": "LO",
         "CREDITS": "4",
         "VENUE": "MGB209A",
-        "SLOT": "L31+L3",
+        "SLOT": "L31+L32",
         "FACULTY": "4B+LH3A7S+KLA3R8",
         "key_9": "+JYLV3OS9TP+IA LBR4O0CRGOHAIN40"
     }, {
@@ -15736,7 +15736,7 @@
         "TYPE": "eLnOt",
         "CREDITS": "3",
         "VENUE": "MGB208A",
-        "SLOT": "L37+L3",
+        "SLOT": "L37+L38",
         "FACULTY": "0R+LA4JA1+BLO4O2S",
         "key_9": "HVASNPAMRC ARLENE 40"
     }, {
@@ -15799,9 +15799,9 @@
         "TYPE": "ELA",
         "CREDITS": "6",
         "VENUE": "MGB208A",
-        "SLOT": "L43+L4",
+        "SLOT": "L43+L44",
         "FACULTY": "6R+AL4JA9+BLO5O0S",
-        "key_9": "+HLV5AS1NP+ALM5R2C +ALR5L5E+NLE562+0L57+L58"
+        "key_9": "+HLV5AS1NP+ALM5R2C +ALR5L5E+NLE562+0L57+L588"
     }, {
         "CODE": "ARC3001",
         "TITLE": "Architectural Design - Rural Study",
@@ -15817,9 +15817,9 @@
         "TYPE": "ELA",
         "CREDITS": "6",
         "VENUE": "MGB208A",
-        "SLOT": "L43+L4",
+        "SLOT": "L43+L44",
         "FACULTY": "6A+LN4K9I+T LK5U0M",
-        "key_9": "+LVA5SR1P+ALR52C+L55+L562+0L57+L58"
+        "key_9": "+LVA5SR1P+ALR52C+L55+L5662+0L57+L588"
     }, {
         "CODE": "ARC3001",
         "TITLE": "Architectural Design - Rural Study",
@@ -15844,7 +15844,7 @@
         "TYPE": "aEnLAd Steel",
         "CREDITS": "2",
         "VENUE": "MGB208A",
-        "SLOT": "L31+L3",
+        "SLOT": "L31+L32",
         "FACULTY": "4ANKIT KUM",
         "key_9": "VASRPARC 20"
     }, {
@@ -15853,7 +15853,7 @@
         "TYPE": "aEnLAd Steel",
         "CREDITS": "2",
         "VENUE": "MGB208A",
-        "SLOT": "L31+L3",
+        "SLOT": "L31+L32",
         "FACULTY": "4RAJABOOS",
         "key_9": "HVASNPAMRC ARLENE 20"
     }, {
@@ -15943,7 +15943,7 @@
         "TYPE": "aEnLdA Landsca",
         "CREDITS": "pe 2",
         "VENUE": "MGB202A",
-        "SLOT": "L37+L3",
+        "SLOT": "L37+L38",
         "FACULTY": "0MEENAKS",
         "key_9": "HIV PSAPAPPRUC 20"
     }, {
@@ -15952,7 +15952,7 @@
         "TYPE": "aEnLdA Landsca",
         "CREDITS": "pe 2",
         "VENUE": "MGB202A",
-        "SLOT": "L37+L3",
+        "SLOT": "L37+L38",
         "FACULTY": "0DEVI PRAS",
         "key_9": "AVDS NPARC 20"
     }, {
@@ -15961,9 +15961,9 @@
         "TYPE": "ELA",
         "CREDITS": "6",
         "VENUE": "MGB202A",
-        "SLOT": "L31+L3",
+        "SLOT": "L31+L32",
         "FACULTY": "4M+LA4D9+HLU5M0",
-        "key_9": "+ALVT5HS1PI+ ALR52C+L55+L562+0L57+L58"
+        "key_9": "+ALVT5HS1PI+ ALR52C+L55+L5662+0L57+L588"
     }, {
         "CODE": "ARC5014",
         "TITLE": "Architectural Design - Institutions",
@@ -15979,9 +15979,9 @@
         "TYPE": "ELA",
         "CREDITS": "6",
         "VENUE": "MGB202A",
-        "SLOT": "L31+L3",
+        "SLOT": "L31+L32",
         "FACULTY": "4P+RL4E9D+RLA5G0",
-        "key_9": "+MLV5ISL1OP+ASLR5EV2C+ICL55+L562+0L57+L58"
+        "key_9": "+MLV5ISL1OP+ASLR5EV2C+ICL55+L5662+0L57+L588"
     }, {
         "CODE": "ARC5014",
         "TITLE": "Architectural Design - Institutions",
@@ -15997,9 +15997,9 @@
         "TYPE": "rEmLAation",
         "CREDITS": "6",
         "VENUE": "MGB201A",
-        "SLOT": "L31+L3",
+        "SLOT": "L31+L32",
         "FACULTY": "4S+HL4A9R+ML5IL0A",
-        "key_9": "+ LJVA5S1GP+ALD5RI2CS+ALN55+L562+0L57+L58"
+        "key_9": "+ LJVA5S1GP+ALD5RI2CS+ALN55+L562+0L57+L588"
     }, {
         "CODE": "ARC5015",
         "TITLE": "Architectural Design - Urban Transfo",
@@ -16015,9 +16015,9 @@
         "TYPE": "rEmLAation",
         "CREDITS": "6",
         "VENUE": "MGB201A",
-        "SLOT": "L31+L3",
+        "SLOT": "L31+L32",
         "FACULTY": "4J+ALY4A9D+LE5V0 N",
-        "key_9": "+LV5S1P+ALR52C+L55+L562+0L57+L58"
+        "key_9": "+LV5S1P+ALR52C+L55+L5662+0L57+L588"
     }, {
         "CODE": "ARC5015",
         "TITLE": "Architectural Design - Urban Transfo",
@@ -16033,7 +16033,7 @@
         "TYPE": "iEteLcAts",
         "CREDITS": "2",
         "VENUE": "MGB201A",
-        "SLOT": "L43+L4",
+        "SLOT": "L43+L44",
         "FACULTY": "6KOTA SAN",
         "key_9": "DVESEPARC 40"
     }, {
@@ -18472,7 +18472,7 @@
         "TYPE": "LO",
         "CREDITS": "2",
         "VENUE": "TT221",
-        "SLOT": "L31+L3",
+        "SLOT": "L31+L32",
         "FACULTY": "4SARVESW",
         "key_9": "ARSIA S 35"
     }, {
@@ -18481,7 +18481,7 @@
         "TYPE": "LO",
         "CREDITS": "2",
         "VENUE": "TT221",
-        "SLOT": "L43+L4",
+        "SLOT": "L43+L44",
         "FACULTY": "6BARNALI M",
         "key_9": "ASAITSI 35"
     }, {
@@ -18544,7 +18544,7 @@
         "TYPE": "LisOtry Practi",
         "CREDITS": "cal I 2",
         "VENUE": "TT221",
-        "SLOT": "L49+L5",
+        "SLOT": "L49+L50",
         "FACULTY": "2SUMATHI",
         "key_9": "SSAS 35"
     }, {
@@ -18553,7 +18553,7 @@
         "TYPE": "LO",
         "CREDITS": "2",
         "VENUE": "TT535",
-        "SLOT": "L43+L4",
+        "SLOT": "L43+L44",
         "FACULTY": "6BADAL KU",
         "key_9": "MSARS MANDAL 40"
     }, {
@@ -18643,7 +18643,7 @@
         "TYPE": "LO",
         "CREDITS": "2",
         "VENUE": "TT221",
-        "SLOT": "L37+L3",
+        "SLOT": "L37+L38",
         "FACULTY": "0NAPOLEO",
         "key_9": "N SAA.AS 35"
     }, {
@@ -18652,7 +18652,7 @@
         "TYPE": "LPOractical",
         "CREDITS": "2",
         "VENUE": "TT221",
-        "SLOT": "L55+L5",
+        "SLOT": "L55+L56",
         "FACULTY": "8SUSEEM S",
         "key_9": ".RSAS 35"
     }, {
@@ -18670,7 +18670,7 @@
         "TYPE": "aLcOtical II",
         "CREDITS": "2",
         "VENUE": "TT535",
-        "SLOT": "L31+L3",
+        "SLOT": "L31+L32",
         "FACULTY": "4SENTHILKU",
         "key_9": "MSAASR S 40"
     }, {
@@ -18679,7 +18679,7 @@
         "TYPE": "aLcOtical II",
         "CREDITS": "2",
         "VENUE": "TT535",
-        "SLOT": "L37+L3",
+        "SLOT": "L37+L38",
         "FACULTY": "0THENMOZ",
         "key_9": "HSI AKS 40"
     }, {
@@ -18706,7 +18706,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT603",
-        "SLOT": "L59+L6",
+        "SLOT": "L59+L60",
         "FACULTY": "SARAVAN",
         "key_9": "ARSAJSAN M C 65"
     }, {
@@ -19048,7 +19048,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT620",
-        "SLOT": "L31+L3",
+        "SLOT": "L31+L32",
         "FACULTY": "EASWARA",
         "key_9": "MSOAOS RTHY 65"
     }, {
@@ -19057,7 +19057,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT620",
-        "SLOT": "L33+L3",
+        "SLOT": "L33+L34",
         "FACULTY": "AMRIT DA",
         "key_9": "SSAS 65"
     }, {
@@ -19066,7 +19066,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT620",
-        "SLOT": "L37+L3",
+        "SLOT": "L37+L38",
         "FACULTY": "YOGALAKS",
         "key_9": "HSMASI T 65"
     }, {
@@ -19075,7 +19075,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT620",
-        "SLOT": "L41+L4",
+        "SLOT": "L41+L42",
         "FACULTY": "PRABHUJI",
         "key_9": "T SMAOSHAPATRA 65"
     }, {
@@ -19084,7 +19084,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT620",
-        "SLOT": "L43+L4",
+        "SLOT": "L43+L44",
         "FACULTY": "ROY.S",
         "key_9": "SAS 65"
     }, {
@@ -19093,7 +19093,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT620",
-        "SLOT": "L45+L4",
+        "SLOT": "L45+L46",
         "FACULTY": "PALANIVE",
         "key_9": "L SKAS 65"
     }, {
@@ -19102,7 +19102,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT620",
-        "SLOT": "L47+L4",
+        "SLOT": "L47+L48",
         "FACULTY": "MANIMAR",
         "key_9": "ASNA SA 65"
     }, {
@@ -19111,7 +19111,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT620",
-        "SLOT": "L49+L5",
+        "SLOT": "L49+L50",
         "FACULTY": "RAJESH M",
         "key_9": "OSHAASRANA 65"
     }, {
@@ -19120,7 +19120,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT620",
-        "SLOT": "L51+L5",
+        "SLOT": "L51+L52",
         "FACULTY": "NALLIAH M",
         "key_9": "SAS 65"
     }, {
@@ -19129,7 +19129,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT620",
-        "SLOT": "L53+L5",
+        "SLOT": "L53+L54",
         "FACULTY": "DINESH KU",
         "key_9": "MSAASR S 65"
     }, {
@@ -19138,7 +19138,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT620",
-        "SLOT": "L57+L5",
+        "SLOT": "L57+L58",
         "FACULTY": "MUBASHI",
         "key_9": "R SUANSNISSA M 65"
     }, {
@@ -19147,7 +19147,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT620",
-        "SLOT": "L59+L6",
+        "SLOT": "L59+L60",
         "FACULTY": "GOWRISA",
         "key_9": "NKSASR A 65"
     }, {
@@ -19273,7 +19273,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT620",
-        "SLOT": "L39+L4",
+        "SLOT": "L39+L40",
         "FACULTY": "GOWSALY",
         "key_9": "AS MAS 65"
     }, {
@@ -19390,7 +19390,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SMVG15",
-        "SLOT": "L51+L5",
+        "SLOT": "L51+L52",
         "FACULTY": "MYTHILI G",
         "key_9": "YSAS 66"
     }, {
@@ -19417,7 +19417,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT620",
-        "SLOT": "L35+L3",
+        "SLOT": "L35+L36",
         "FACULTY": "KALPANA",
         "key_9": "PRSIAYSA D 65"
     }, {
@@ -19453,7 +19453,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT603",
-        "SLOT": "L51+L5",
+        "SLOT": "L51+L52",
         "FACULTY": "KARTHIKE",
         "key_9": "YASNAS K 65"
     }, {
@@ -19471,7 +19471,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT603",
-        "SLOT": "L37+L3",
+        "SLOT": "L37+L38",
         "FACULTY": "AMIT SHA",
         "key_9": "RMSAAS 65"
     }, {
@@ -19480,7 +19480,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT621",
-        "SLOT": "L53+L5",
+        "SLOT": "L53+L54",
         "FACULTY": "DEBAROT",
         "key_9": "I DSAS 65"
     }, {
@@ -19489,7 +19489,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SJT621",
-        "SLOT": "L47+L4",
+        "SLOT": "L47+L48",
         "FACULTY": "RAMESH K",
         "key_9": "USMASAR D 65"
     }, {
@@ -19867,7 +19867,7 @@
         "TYPE": "rEeLnAce Equa",
         "CREDITS": "tions 1",
         "VENUE": "SMVG15",
-        "SLOT": "L47+L4",
+        "SLOT": "L47+L48",
         "FACULTY": "TAMIZHAR",
         "key_9": "ASSAI SR 66"
     }, {
@@ -19876,7 +19876,7 @@
         "TYPE": "rEeLnAce Equa",
         "CREDITS": "tions 1",
         "VENUE": "SMVG15",
-        "SLOT": "L49+L5",
+        "SLOT": "L49+L50",
         "FACULTY": "SIVANESA",
         "key_9": "N SMAS 66"
     }, {
@@ -19885,7 +19885,7 @@
         "TYPE": "rEeLnAce Equa",
         "CREDITS": "tions 1",
         "VENUE": "SMVG15",
-        "SLOT": "L57+L5",
+        "SLOT": "L57+L58",
         "FACULTY": "KARTHIKA",
         "key_9": "KSAS 66"
     }, {
@@ -19912,7 +19912,7 @@
         "TYPE": "rEeLnAce Equa",
         "CREDITS": "tions 1",
         "VENUE": "SMVG15",
-        "SLOT": "L59+L6",
+        "SLOT": "L59+L60",
         "FACULTY": "MONICA C",
         "key_9": "SAS 66"
     }, {
@@ -19921,7 +19921,7 @@
         "TYPE": "rEeLnAce Equa",
         "CREDITS": "tions 1",
         "VENUE": "SMVG15",
-        "SLOT": "L35+L3",
+        "SLOT": "L35+L36",
         "FACULTY": "PRAVEEN",
         "key_9": "T SAS 66"
     }, {
@@ -19939,7 +19939,7 @@
         "TYPE": "rEeLnAce Equa",
         "CREDITS": "tions 1",
         "VENUE": "TT603",
-        "SLOT": "L49+L5",
+        "SLOT": "L49+L50",
         "FACULTY": "RAGHAVE",
         "key_9": "NDS ASR K 65"
     }, {
@@ -19948,7 +19948,7 @@
         "TYPE": "rEeLnAce Equa",
         "CREDITS": "tions 1",
         "VENUE": "TT603",
-        "SLOT": "L33+L3",
+        "SLOT": "L33+L34",
         "FACULTY": "RAJASEKA",
         "key_9": "RASANS G 65"
     }, {
@@ -19957,7 +19957,7 @@
         "TYPE": "rEeLnAce Equa",
         "CREDITS": "tions 1",
         "VENUE": "TT603",
-        "SLOT": "L45+L4",
+        "SLOT": "L45+L46",
         "FACULTY": "SUBRAMA",
         "key_9": "NSYAASM REDDY 65"
     }, {
@@ -19966,7 +19966,7 @@
         "TYPE": "rEeLnAce Equa",
         "CREDITS": "tions 1",
         "VENUE": "TT603",
-        "SLOT": "L55+L5",
+        "SLOT": "L55+L56",
         "FACULTY": "VEERAMA",
         "key_9": "NSI ASS 65"
     }, {
@@ -19975,7 +19975,7 @@
         "TYPE": "rEeLnAce Equa",
         "CREDITS": "tions 1",
         "VENUE": "TT603",
-        "SLOT": "L53+L5",
+        "SLOT": "L53+L54",
         "FACULTY": "LAKSHMI",
         "key_9": "NASARASYAN MISHRA65"
     }, {
@@ -19993,7 +19993,7 @@
         "TYPE": "rEeLnAce Equa",
         "CREDITS": "tions 1",
         "VENUE": "TT603",
-        "SLOT": "L57+L5",
+        "SLOT": "L57+L58",
         "FACULTY": "JAGADEES",
         "key_9": "HS KAUSMAR K 65"
     }, {
@@ -20002,7 +20002,7 @@
         "TYPE": "rEeLnAce Equa",
         "CREDITS": "tions 1",
         "VENUE": "TT318",
-        "SLOT": "L35+L3",
+        "SLOT": "L35+L36",
         "FACULTY": "SHOBANA",
         "key_9": "DSEAVSI N 65"
     }, {
@@ -20011,7 +20011,7 @@
         "TYPE": "rEeLnAce Equa",
         "CREDITS": "tions 1",
         "VENUE": "TT318",
-        "SLOT": "L59+L6",
+        "SLOT": "L59+L60",
         "FACULTY": "MANJARI",
         "key_9": "SISDAHSARTH 65"
     }, {
@@ -20020,7 +20020,7 @@
         "TYPE": "rEeLnAce Equa",
         "CREDITS": "tions 1",
         "VENUE": "TT318",
-        "SLOT": "L53+L5",
+        "SLOT": "L53+L54",
         "FACULTY": "RACHNA B",
         "key_9": "HSAATSIA 65"
     }, {
@@ -20029,7 +20029,7 @@
         "TYPE": "rEeLnAce Equa",
         "CREDITS": "tions 1",
         "VENUE": "TT318",
-        "SLOT": "L47+L4",
+        "SLOT": "L47+L48",
         "FACULTY": "REENU RA",
         "key_9": "NSIAS 65"
     }, {
@@ -20641,7 +20641,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SMVG15",
-        "SLOT": "L43+L4",
+        "SLOT": "L43+L44",
         "FACULTY": "RAJASEKA",
         "key_9": "RASBNS RT 66"
     }, {
@@ -20686,7 +20686,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SMV216",
-        "SLOT": "L47+L4",
+        "SLOT": "L47+L48",
         "FACULTY": "DEBASISH",
         "key_9": "MSIBSSHTRA 65"
     }, {
@@ -20722,7 +20722,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SMV216",
-        "SLOT": "L55+L5",
+        "SLOT": "L55+L56",
         "FACULTY": "KALAIVAN",
         "key_9": "I TSBST 35"
     }, {
@@ -20731,7 +20731,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SMV216",
-        "SLOT": "L55+L5",
+        "SLOT": "L55+L56",
         "FACULTY": "GAYATHR",
         "key_9": "I MSBST 30"
     }, {
@@ -20794,7 +20794,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SMVG15",
-        "SLOT": "L45+L4",
+        "SLOT": "L45+L46",
         "FACULTY": "ABILASH V",
         "key_9": ".GSBST 66"
     }, {
@@ -20848,7 +20848,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SMVG16",
-        "SLOT": "L31+L3",
+        "SLOT": "L31+L32",
         "FACULTY": "ABILASH V",
         "key_9": ".GSBST 66"
     }, {
@@ -20902,7 +20902,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SMVG16",
-        "SLOT": "L53+L5",
+        "SLOT": "L53+L54",
         "FACULTY": "MOHANA",
         "key_9": "PSRBIYSAT A 66"
     }, {
@@ -20974,7 +20974,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SMVG15",
-        "SLOT": "L41+L4",
+        "SLOT": "L41+L42",
         "FACULTY": "RAJASEKA",
         "key_9": "RASBNS RT 36"
     }, {
@@ -20983,7 +20983,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SMVG15",
-        "SLOT": "L41+L4",
+        "SLOT": "L41+L42",
         "FACULTY": "JAYANTHI",
         "key_9": "SSBST 30"
     }, {
@@ -21028,7 +21028,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SMVG15",
-        "SLOT": "L53+L5",
+        "SLOT": "L53+L54",
         "FACULTY": "JAYANTHI",
         "key_9": "SSBST 36"
     }, {
@@ -21037,7 +21037,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SMVG15",
-        "SLOT": "L53+L5",
+        "SLOT": "L53+L54",
         "FACULTY": "SUDANDIR",
         "key_9": "AS BDSOTSS C 30"
     }, {
@@ -21100,7 +21100,7 @@
         "TYPE": "EgLyA",
         "CREDITS": "2",
         "VENUE": "SMV216",
-        "SLOT": "L37+L3",
+        "SLOT": "L37+L38",
         "FACULTY": "0PRIYANKA",
         "key_9": "SSRBIVSTASTAVA 35"
     }, {
@@ -21109,7 +21109,7 @@
         "TYPE": "EgLyA",
         "CREDITS": "2",
         "VENUE": "SMV216",
-        "SLOT": "L37+L3",
+        "SLOT": "L37+L38",
         "FACULTY": "0RAJASEKA",
         "key_9": "RASBNS CT 30"
     }, {
@@ -21136,7 +21136,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SMV216",
-        "SLOT": "L45+L4",
+        "SLOT": "L45+L46",
         "FACULTY": "ABUL KAL",
         "key_9": "AMSB ASTZAD MANDAL35"
     }, {
@@ -21145,7 +21145,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SMV216",
-        "SLOT": "L45+L4",
+        "SLOT": "L45+L46",
         "FACULTY": "GOTHAND",
         "key_9": "ASMBS KT.M 30"
     }, {
@@ -21190,7 +21190,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SMV216",
-        "SLOT": "L33+L3",
+        "SLOT": "L33+L34",
         "FACULTY": "KAVITHA T",
         "key_9": "HSIBRSUTMURUGAN 35"
     }, {
@@ -21199,7 +21199,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SMV216",
-        "SLOT": "L33+L3",
+        "SLOT": "L33+L34",
         "FACULTY": "RAJASEKA",
         "key_9": "RASBNS CT 30"
     }, {
@@ -21244,7 +21244,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SMV225",
-        "SLOT": "L41+L4",
+        "SLOT": "L41+L42",
         "FACULTY": "ANBALAG",
         "key_9": "ANSB MST 35"
     }, {
@@ -21253,7 +21253,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SMV225",
-        "SLOT": "L41+L4",
+        "SLOT": "L41+L42",
         "FACULTY": "ABHISHEK",
         "key_9": "SSINBHSTA 30"
     }, {
@@ -21613,7 +21613,7 @@
         "TYPE": "toErL ADesign",
         "CREDITS": "1",
         "VENUE": "SMV225",
-        "SLOT": "L57+L5",
+        "SLOT": "L57+L58",
         "FACULTY": "SANGEETH",
         "key_9": "AS BSUSTBRAMANIAN35"
     }, {
@@ -21622,7 +21622,7 @@
         "TYPE": "toErL ADesign",
         "CREDITS": "1",
         "VENUE": "SMV225",
-        "SLOT": "L57+L5",
+        "SLOT": "L57+L58",
         "FACULTY": "RAMANAT",
         "key_9": "HSABNS TK 30"
     }, {
@@ -21847,7 +21847,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT107",
-        "SLOT": "L45+L4",
+        "SLOT": "L45+L46",
         "FACULTY": "SUTHINDH",
         "key_9": "IRSBASNT K 65"
     }, {
@@ -21883,7 +21883,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SMVG15",
-        "SLOT": "L37+L3",
+        "SLOT": "L37+L38",
         "FACULTY": "MANJUBA",
         "key_9": "LASB IST 66"
     }, {
@@ -21901,7 +21901,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT106",
-        "SLOT": "L37+L3",
+        "SLOT": "L37+L38",
         "FACULTY": "SUBATHRA",
         "key_9": "DSEBVSIT C 35"
     }, {
@@ -21910,7 +21910,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT106",
-        "SLOT": "L37+L3",
+        "SLOT": "L37+L38",
         "FACULTY": "JAYANTHI",
         "key_9": "ASBST 30"
     }, {
@@ -22063,7 +22063,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT107",
-        "SLOT": "L43+L4",
+        "SLOT": "L43+L44",
         "FACULTY": "ASHA DEV",
         "key_9": "I SBST 35"
     }, {
@@ -22072,7 +22072,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT107",
-        "SLOT": "L43+L4",
+        "SLOT": "L43+L44",
         "FACULTY": "SUDHAKA",
         "key_9": "RASBNS RT 30"
     }, {
@@ -22162,7 +22162,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT107",
-        "SLOT": "L57+L5",
+        "SLOT": "L57+L58",
         "FACULTY": "GOTHAND",
         "key_9": "ASMBS KT.M 65"
     }, {
@@ -22252,7 +22252,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT107",
-        "SLOT": "L37+L3",
+        "SLOT": "L37+L38",
         "FACULTY": "VENKAT K",
         "key_9": "USMBASRT S 35"
     }, {
@@ -22261,7 +22261,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT107",
-        "SLOT": "L37+L3",
+        "SLOT": "L37+L38",
         "FACULTY": "KAMALAN",
         "key_9": "ACTBHSATN A.S 30"
     }, {
@@ -22333,7 +22333,7 @@
         "TYPE": "ELA",
         "CREDITS": "2",
         "VENUE": "TT113",
-        "SLOT": "L57+L5",
+        "SLOT": "L57+L58",
         "FACULTY": "0SUDHAKA",
         "key_9": "RASBNS RT 50"
     }, {
@@ -22486,7 +22486,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT113",
-        "SLOT": "L31+L3",
+        "SLOT": "L31+L32",
         "FACULTY": "RAMESH N",
         "key_9": "SBST 50"
     }, {
@@ -22522,7 +22522,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT106",
-        "SLOT": "L43+L4",
+        "SLOT": "L43+L44",
         "FACULTY": "ALKA MEH",
         "key_9": "TSABST 65"
     }, {
@@ -22603,7 +22603,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT106",
-        "SLOT": "L45+L4",
+        "SLOT": "L45+L46",
         "FACULTY": "GAYATHR",
         "key_9": "I MSBST 65"
     }, {
@@ -22648,7 +22648,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT106",
-        "SLOT": "L49+L5",
+        "SLOT": "L49+L50",
         "FACULTY": "KAVITHA T",
         "key_9": "HSIBRSUTMURUGAN 65"
     }, {
@@ -22711,7 +22711,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SMVG15",
-        "SLOT": "L55+L5",
+        "SLOT": "L55+L56",
         "FACULTY": "PADMA TH",
         "key_9": "ISABGSATRAJAN 36"
     }, {
@@ -22720,7 +22720,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SMVG15",
-        "SLOT": "L55+L5",
+        "SLOT": "L55+L56",
         "FACULTY": "ANILKUM",
         "key_9": "ARS BGST 30"
     }, {
@@ -22729,7 +22729,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SMVG15",
-        "SLOT": "L39+L4",
+        "SLOT": "L39+L40",
         "FACULTY": "SUBHASH",
         "key_9": "RESEB VST 36"
     }, {
@@ -22738,7 +22738,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SMVG15",
-        "SLOT": "L39+L4",
+        "SLOT": "L39+L40",
         "FACULTY": "PADMA TH",
         "key_9": "ISABGSATRAJAN 30"
     }, {
@@ -22783,7 +22783,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT107",
-        "SLOT": "L31+L3",
+        "SLOT": "L31+L32",
         "FACULTY": "ABHISHEK",
         "key_9": "SSINBHSTA 35"
     }, {
@@ -22801,7 +22801,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT107",
-        "SLOT": "L31+L3",
+        "SLOT": "L31+L32",
         "FACULTY": "MOHANA",
         "key_9": "SRSIBNSIVTASAN V 30"
     }, {
@@ -22900,7 +22900,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "SMVG15",
-        "SLOT": "L33+L3",
+        "SLOT": "L33+L34",
         "FACULTY": "GEORGE P",
         "key_9": "RSIYBAS TDOSS C 66"
     }, {
@@ -22972,7 +22972,7 @@
         "TYPE": "nEeLeAring",
         "CREDITS": "1",
         "VENUE": "GDNG04",
-        "SLOT": "L31+L3",
+        "SLOT": "L31+L32",
         "FACULTY": "DIVYA PRI",
         "key_9": "YAS CBE 35"
     }, {
@@ -23017,7 +23017,7 @@
         "TYPE": "nEeLeAring",
         "CREDITS": "1",
         "VENUE": "GDNG04",
-        "SLOT": "L33+L3",
+        "SLOT": "L33+L34",
         "FACULTY": "CHANDRA",
         "key_9": "SESKCAERAN S.S 35"
     }, {
@@ -23026,7 +23026,7 @@
         "TYPE": "nEeLeAring",
         "CREDITS": "1",
         "VENUE": "GDNG04",
-        "SLOT": "L49+L5",
+        "SLOT": "L49+L50",
         "FACULTY": "CHANDRA",
         "key_9": "SESKCAERAN S.S 35"
     }, {
@@ -23044,7 +23044,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "GDN142",
-        "SLOT": "L31+L3",
+        "SLOT": "L31+L32",
         "FACULTY": "PARIMALA",
         "key_9": "RSECNEGANAYAKI S 36"
     }, {
@@ -23062,7 +23062,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "GDN142",
-        "SLOT": "L45+L4",
+        "SLOT": "L45+L46",
         "FACULTY": "PARIMALA",
         "key_9": "RSECNEGANAYAKI S 36"
     }, {
@@ -23278,7 +23278,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "GDNG05",
-        "SLOT": "L55+L5",
+        "SLOT": "L55+L56",
         "FACULTY": "AJEESH S S",
         "key_9": "SCE 60"
     }, {
@@ -23314,7 +23314,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "GDNG05",
-        "SLOT": "L43+L4",
+        "SLOT": "L43+L44",
         "FACULTY": "SIMON J",
         "key_9": "SCE 60"
     }, {
@@ -23377,7 +23377,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "GDN153",
-        "SLOT": "L47+L4",
+        "SLOT": "L47+L48",
         "FACULTY": "JAGADEES",
         "key_9": "HS PCE 60"
     }, {
@@ -23494,7 +23494,7 @@
         "TYPE": "ELA",
         "CREDITS": "1",
         "VENUE": "TT318",
-        "SLOT": "L55+L5",
+        "SLOT": "L55+L56",
         "FACULTY": "SHIVAM M",
         "key_9": "ISHSLRA 75"
     }, {
@@ -24286,9 +24286,9 @@
         "TYPE": "ELA",
         "CREDITS": "6",
         "VENUE": "MGB209A",
-        "SLOT": "L43+L4",
+        "SLOT": "L43+L44",
         "FACULTY": "6S+HL4E9F+AL5I 0N",
-        "key_9": "+ALVY5AS1PK+ALR52C+L55+L562+0L57+L58"
+        "key_9": "+ALVY5AS1PK+ALR52C+L55+L5662+0L57+L588"
     }, {
         "CODE": "ARC1013",
         "TITLE": "Basic Design and Workshop",
@@ -24304,9 +24304,9 @@
         "TYPE": "ELA",
         "CREDITS": "6",
         "VENUE": "MGB209A",
-        "SLOT": "L43+L4",
+        "SLOT": "L43+L44",
         "FACULTY": "6D+LJA49M+IL5 B0E",
-        "key_9": "+NLV5GS1HP+IALD5RA2C+L55+L562+0L57+L58"
+        "key_9": "+NLV5GS1HP+IALD5RA2C+L55+L5662+0L57+L588"
     }, {
         "CODE": "ARC1013",
         "TITLE": "Basic Design and Workshop",
@@ -24322,7 +24322,7 @@
         "TYPE": "LO",
         "CREDITS": "4",
         "VENUE": "MGB209A",
-        "SLOT": "L31+L3",
+        "SLOT": "L31+L32",
         "FACULTY": "4B+LH3A7S+KLA3R8",
         "key_9": "+JYLV3OS9TP+IA LBR4O0CRGOHAIN40"
     }, {
@@ -24358,7 +24358,7 @@
         "TYPE": "eLnOt",
         "CREDITS": "3",
         "VENUE": "MGB208A",
-        "SLOT": "L37+L3",
+        "SLOT": "L37+L38",
         "FACULTY": "0R+LA4JA1+BLO4O2S",
         "key_9": "HVASNPAMRC ARLENE 40"
     }, {
@@ -24421,9 +24421,9 @@
         "TYPE": "ELA",
         "CREDITS": "6",
         "VENUE": "MGB208A",
-        "SLOT": "L43+L4",
+        "SLOT": "L43+L44",
         "FACULTY": "6R+AL4JA9+BLO5O0S",
-        "key_9": "+HLV5AS1NP+ALM5R2C +ALR5L5E+NLE562+0L57+L58"
+        "key_9": "+HLV5AS1NP+ALM5R2C +ALR5L5E+NLE562+0L57+L588"
     }, {
         "CODE": "ARC3001",
         "TITLE": "Architectural Design - Rural Study",
@@ -24439,9 +24439,9 @@
         "TYPE": "ELA",
         "CREDITS": "6",
         "VENUE": "MGB208A",
-        "SLOT": "L43+L4",
+        "SLOT": "L43+L44",
         "FACULTY": "6A+LN4K9I+T LK5U0M",
-        "key_9": "+LVA5SR1P+ALR52C+L55+L562+0L57+L58"
+        "key_9": "+LVA5SR1P+ALR52C+L55+L5662+0L57+L588"
     }, {
         "CODE": "ARC3001",
         "TITLE": "Architectural Design - Rural Study",
@@ -24466,7 +24466,7 @@
         "TYPE": "aEnLAd Steel",
         "CREDITS": "2",
         "VENUE": "MGB208A",
-        "SLOT": "L31+L3",
+        "SLOT": "L31+L32",
         "FACULTY": "4ANKIT KUM",
         "key_9": "VASRPARC 20"
     }, {
@@ -24475,7 +24475,7 @@
         "TYPE": "aEnLAd Steel",
         "CREDITS": "2",
         "VENUE": "MGB208A",
-        "SLOT": "L31+L3",
+        "SLOT": "L31+L32",
         "FACULTY": "4RAJABOOS",
         "key_9": "HVASNPAMRC ARLENE 20"
     }, {
@@ -24565,7 +24565,7 @@
         "TYPE": "aEnLdA Landsca",
         "CREDITS": "pe 2",
         "VENUE": "MGB202A",
-        "SLOT": "L37+L3",
+        "SLOT": "L37+L38",
         "FACULTY": "0MEENAKS",
         "key_9": "HIV PSAPAPPRUC 20"
     }, {
@@ -24574,7 +24574,7 @@
         "TYPE": "aEnLdA Landsca",
         "CREDITS": "pe 2",
         "VENUE": "MGB202A",
-        "SLOT": "L37+L3",
+        "SLOT": "L37+L38",
         "FACULTY": "0DEVI PRAS",
         "key_9": "AVDS NPARC 20"
     }, {
@@ -24583,9 +24583,9 @@
         "TYPE": "ELA",
         "CREDITS": "6",
         "VENUE": "MGB202A",
-        "SLOT": "L31+L3",
+        "SLOT": "L31+L32",
         "FACULTY": "4M+LA4D9+HLU5M0",
-        "key_9": "+ALVT5HS1PI+ ALR52C+L55+L562+0L57+L58"
+        "key_9": "+ALVT5HS1PI+ ALR52C+L55+L5662+0L57+L588"
     }, {
         "CODE": "ARC5014",
         "TITLE": "Architectural Design - Institutions",
@@ -24601,9 +24601,9 @@
         "TYPE": "ELA",
         "CREDITS": "6",
         "VENUE": "MGB202A",
-        "SLOT": "L31+L3",
+        "SLOT": "L31+L32",
         "FACULTY": "4P+RL4E9D+RLA5G0",
-        "key_9": "+MLV5ISL1OP+ASLR5EV2C+ICL55+L562+0L57+L58"
+        "key_9": "+MLV5ISL1OP+ASLR5EV2C+ICL55+L5662+0L57+L588"
     }, {
         "CODE": "ARC5014",
         "TITLE": "Architectural Design - Institutions",
@@ -24619,9 +24619,9 @@
         "TYPE": "rEmLAation",
         "CREDITS": "6",
         "VENUE": "MGB201A",
-        "SLOT": "L31+L3",
+        "SLOT": "L31+L32",
         "FACULTY": "4S+HL4A9R+ML5IL0A",
-        "key_9": "+ LJVA5S1GP+ALD5RI2CS+ALN55+L562+0L57+L58"
+        "key_9": "+ LJVA5S1GP+ALD5RI2CS+ALN55+L562+0L57+L588"
     }, {
         "CODE": "ARC5015",
         "TITLE": "Architectural Design - Urban Transfo",
@@ -24637,9 +24637,9 @@
         "TYPE": "rEmLAation",
         "CREDITS": "6",
         "VENUE": "MGB201A",
-        "SLOT": "L31+L3",
+        "SLOT": "L31+L32",
         "FACULTY": "4J+ALY4A9D+LE5V0 N",
-        "key_9": "+LV5S1P+ALR52C+L55+L562+0L57+L58"
+        "key_9": "+LV5S1P+ALR52C+L55+L5662+0L57+L588"
     }, {
         "CODE": "ARC5015",
         "TITLE": "Architectural Design - Urban Transfo",
@@ -24655,7 +24655,7 @@
         "TYPE": "iEteLcAts",
         "CREDITS": "2",
         "VENUE": "MGB201A",
-        "SLOT": "L43+L4",
+        "SLOT": "L43+L44",
         "FACULTY": "6KOTA SAN",
         "key_9": "DVESEPARC 40"
     }, {

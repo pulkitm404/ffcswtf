@@ -805,7 +805,7 @@
         "TYPE": "ETH",
         "CREDITS": "3",
         "VENUE": "SJT202",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "TAMIL PRI",
         "key_9": "YASI TDE 70"
     }, {
@@ -1534,7 +1534,7 @@
         "TYPE": "ETH",
         "CREDITS": "3",
         "VENUE": "SJT118",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "ANITHA A",
         "key_9": "SITE 70"
     }, {
@@ -1579,7 +1579,7 @@
         "TYPE": "TH",
         "CREDITS": "3",
         "VENUE": "SJT204",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "GANESAN",
         "key_9": "KTIFAC 70"
     }, {
@@ -2146,7 +2146,7 @@
         "TYPE": "ETH",
         "CREDITS": "3",
         "VENUE": "SJT118",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "VIJAY ANA",
         "key_9": "NSDIT RE 70"
     }, {
@@ -2290,7 +2290,7 @@
         "TYPE": "ETH",
         "CREDITS": "3",
         "VENUE": "SJT126",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "CHIRANJI",
         "key_9": "LASLIT CEHOWDHARY 70"
     }, {
@@ -2353,7 +2353,7 @@
         "TYPE": "TH",
         "CREDITS": "3",
         "VENUE": "GDN109",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "EDWIN SU",
         "key_9": "DSHMAEGCAR P 65"
     }, {
@@ -2632,7 +2632,7 @@
         "TYPE": "ETH",
         "CREDITS": "3",
         "VENUE": "CDMM10",
-        "SLOT": "1 D2+TD",
+        "SLOT": "1 D2+TD2",
         "FACULTY": "SREEJA SA",
         "key_9": "DSAMSIEVCAN 65"
     }, {
@@ -3469,7 +3469,7 @@
         "TYPE": "TeHnt",
         "CREDITS": "3",
         "VENUE": "GDN123",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "SOUMEN",
         "key_9": "PASLMEC 66"
     }, {
@@ -3604,7 +3604,7 @@
         "TYPE": "TH",
         "CREDITS": "3",
         "VENUE": "SMV101",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "DIBYAJYO",
         "key_9": "TIS GMHEOCSH 76"
     }, {
@@ -3847,7 +3847,7 @@
         "TYPE": "ETH",
         "CREDITS": "3",
         "VENUE": "CTS301",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "VIJESH V J",
         "key_9": "OSMHIEC 65"
     }, {
@@ -3919,7 +3919,7 @@
         "TYPE": "ETH",
         "CREDITS": "3",
         "VENUE": "GDN109",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "KANNAN C",
         "key_9": "SMEC 65"
     }, {
@@ -4225,7 +4225,7 @@
         "TYPE": "ETH",
         "CREDITS": "3",
         "VENUE": "CTS301",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "VELU M",
         "key_9": "SMEC 65"
     }, {
@@ -4378,7 +4378,7 @@
         "TYPE": "ETH",
         "CREDITS": "3",
         "VENUE": "MB310A",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "BIBHUTI B",
         "key_9": "HSUMSAENC SAHOO 70"
     }, {
@@ -4936,7 +4936,7 @@
         "TYPE": "ETH",
         "CREDITS": "3",
         "VENUE": "MB312",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "AHANKAR",
         "key_9": "I SAMNEDCEEP SURESH7R0AO"
     }, {
@@ -4945,7 +4945,7 @@
         "TYPE": "ETH",
         "CREDITS": "3",
         "VENUE": "MB310",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "ASHOK K",
         "key_9": "SMEC 70"
     }, {
@@ -5494,7 +5494,7 @@
         "TYPE": "TH",
         "CREDITS": "3",
         "VENUE": "MB311",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "SK ARIFUL",
         "key_9": "RSAMHEACMAN 70"
     }, {
@@ -5548,7 +5548,7 @@
         "TYPE": "ETH",
         "CREDITS": "3",
         "VENUE": "MB312",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "GIRIRAJ M",
         "key_9": "SMEC 70"
     }, {
@@ -5575,7 +5575,7 @@
         "TYPE": "cEtTuHring Sys",
         "CREDITS": "tems 3",
         "VENUE": "MB310A",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "DEGA NAG",
         "key_9": "ASRMAEJUC 70"
     }, {
@@ -6106,7 +6106,7 @@
         "TYPE": "ETH",
         "CREDITS": "3",
         "VENUE": "CDMM20",
-        "SLOT": "4 D1+TD",
+        "SLOT": "4 D1+TD1",
         "FACULTY": "ANUJ KUM",
         "key_9": "ASRMEC 60"
     }, {
@@ -6124,7 +6124,7 @@
         "TYPE": "TH",
         "CREDITS": "3",
         "VENUE": "CTS302",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "IMMANUE",
         "key_9": "LS SMELEWC YN RAJ A 65"
     }, {
@@ -6169,7 +6169,7 @@
         "TYPE": "TH",
         "CREDITS": "3",
         "VENUE": "MB309A",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "BENEDICT",
         "key_9": "TSHMOEMCAS 70"
     }, {
@@ -6223,7 +6223,7 @@
         "TYPE": "TH",
         "CREDITS": "3",
         "VENUE": "GDN123",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "MANOHA",
         "key_9": "RASNM REC 66"
     }, {
@@ -6259,7 +6259,7 @@
         "TYPE": "TH",
         "CREDITS": "3",
         "VENUE": "CTS302",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "VINOTH JE",
         "key_9": "BSAMRAECJ A 65"
     }, {
@@ -6277,7 +6277,7 @@
         "TYPE": "ETH",
         "CREDITS": "3",
         "VENUE": "GDN122",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "GANAPAT",
         "key_9": "HIS MEC 65"
     }, {
@@ -6340,7 +6340,7 @@
         "TYPE": "TH",
         "CREDITS": "3",
         "VENUE": "MB311",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "NISHANT",
         "key_9": "TIWSMAERCI 70"
     }, {
@@ -6385,7 +6385,7 @@
         "TYPE": "TH",
         "CREDITS": "4",
         "VENUE": "CDMM20",
-        "SLOT": "4 D2+TD",
+        "SLOT": "4 D2+TD2",
         "FACULTY": "V6VINOD KU",
         "key_9": "MSAMRE SCHARMA 60"
     }, {
@@ -6583,7 +6583,7 @@
         "TYPE": "TH",
         "CREDITS": "3",
         "VENUE": "GDN122",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "MURALID",
         "key_9": "HASRMAENC B 65"
     }, {
@@ -6727,7 +6727,7 @@
         "TYPE": "EaTnHagemen",
         "CREDITS": "t 3",
         "VENUE": "SJT522",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "RAMASES",
         "key_9": "HASMN EHC. 70"
     }, {
@@ -6925,7 +6925,7 @@
         "TYPE": "ETH",
         "CREDITS": "3",
         "VENUE": "SJT421",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "GEMINI V",
         "key_9": "JOSYMEC 65"
     }, {
@@ -7537,7 +7537,7 @@
         "TYPE": "TH",
         "CREDITS": "3",
         "VENUE": "TT204",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "GOKULAK",
         "key_9": "RISEHLNEACTN G 72"
     }, {
@@ -7546,7 +7546,7 @@
         "TYPE": "TH",
         "CREDITS": "3",
         "VENUE": "SJT113",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "VENKATES",
         "key_9": "HS SELECT 70"
     }, {
@@ -7699,7 +7699,7 @@
         "TYPE": "ETH",
         "CREDITS": "3",
         "VENUE": "TT423",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "VENKATA",
         "key_9": "LASKESLEHCMTI NARAYA7N0A  K"
     }, {
@@ -7726,7 +7726,7 @@
         "TYPE": "ETH",
         "CREDITS": "3",
         "VENUE": "TT423",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "VENKATA",
         "key_9": "LASKESLEHCMTI NARAYA7N0A  K"
     }, {
@@ -10237,7 +10237,7 @@
         "TYPE": "ETH",
         "CREDITS": "3",
         "VENUE": "CBMR301",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "MUGELAN",
         "key_9": "RS EKNSE 82"
     }, {
@@ -10255,7 +10255,7 @@
         "TYPE": "ETH",
         "CREDITS": "3",
         "VENUE": "CBMR301",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "MUGELAN",
         "key_9": "RS EKNSE 82"
     }, {
@@ -11254,7 +11254,7 @@
         "TYPE": "ETH",
         "CREDITS": "3",
         "VENUE": "TT724",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "SANKAR G",
         "key_9": "ASNEENSSHE S 76"
     }, {
@@ -11272,7 +11272,7 @@
         "TYPE": "ETH",
         "CREDITS": "3",
         "VENUE": "TT726",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "CHRISTOP",
         "key_9": "HSEERN CSLEEMENT J 79"
     }, {
@@ -11290,7 +11290,7 @@
         "TYPE": "ETH",
         "CREDITS": "3",
         "VENUE": "TT726",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "CHRISTOP",
         "key_9": "HSEERN CSLEEMENT J 79"
     }, {
@@ -11308,7 +11308,7 @@
         "TYPE": "ETH",
         "CREDITS": "3",
         "VENUE": "TT724",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "SANKAR G",
         "key_9": "ASNEENSSHE S 76"
     }, {
@@ -11470,7 +11470,7 @@
         "TYPE": "ETH",
         "CREDITS": "3",
         "VENUE": "TT312",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "DEEPIKA R",
         "key_9": "ASNEIN SSOENA 60"
     }, {
@@ -11479,7 +11479,7 @@
         "TYPE": "ETH",
         "CREDITS": "3",
         "VENUE": "TT312",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "DEEPIKA R",
         "key_9": "ASNEIN SSOENA 60"
     }, {
@@ -11488,7 +11488,7 @@
         "TYPE": "ETH",
         "CREDITS": "3",
         "VENUE": "CBMR101",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "NAMITHA",
         "key_9": "AS SENSE 77"
     }, {
@@ -11497,7 +11497,7 @@
         "TYPE": "ETH",
         "CREDITS": "3",
         "VENUE": "CBMR101",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "NAMITHA",
         "key_9": "AS SENSE 77"
     }, {
@@ -11785,7 +11785,7 @@
         "TYPE": "ETH",
         "CREDITS": "3",
         "VENUE": "TT620",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "ELIZABETH",
         "key_9": "RSUENFUSES 75"
     }, {
@@ -12523,7 +12523,7 @@
         "TYPE": "nETH",
         "CREDITS": "3",
         "VENUE": "TT716",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "BUDHADIT",
         "key_9": "YSAE NBHSEATTACHARY7Y0A"
     }, {
@@ -12532,7 +12532,7 @@
         "TYPE": "nETH",
         "CREDITS": "3",
         "VENUE": "TT715",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "ABHIJIT BH",
         "key_9": "OSWENMSEICK 75"
     }, {
@@ -12541,7 +12541,7 @@
         "TYPE": "nETH",
         "CREDITS": "3",
         "VENUE": "TT715",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "ABHIJIT BH",
         "key_9": "OSWENMSEICK 75"
     }, {
@@ -12550,7 +12550,7 @@
         "TYPE": "nETH",
         "CREDITS": "3",
         "VENUE": "TT716",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "BUDHADIT",
         "key_9": "YSAE NBHSEATTACHARY7Y0A"
     }, {
@@ -12910,7 +12910,7 @@
         "TYPE": "ETH",
         "CREDITS": "3",
         "VENUE": "CBMR403",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "SURYA PR",
         "key_9": "AKSAENSHSE 60"
     }, {
@@ -12928,7 +12928,7 @@
         "TYPE": "ETH",
         "CREDITS": "3",
         "VENUE": "CBMR403",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "SURYA PR",
         "key_9": "AKSAENSHSE 60"
     }, {
@@ -13954,7 +13954,7 @@
         "TYPE": "ETH",
         "CREDITS": "3",
         "VENUE": "SJT114",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "ANITHA A",
         "key_9": "SITE 70"
     }, {
@@ -14152,7 +14152,7 @@
         "TYPE": "ETH",
         "CREDITS": "3",
         "VENUE": "SJT203",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "DAPHNE L",
         "key_9": "OSPIETZE 70"
     }, {
@@ -14170,7 +14170,7 @@
         "TYPE": "ETH",
         "CREDITS": "3",
         "VENUE": "SJT203",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "DAPHNE L",
         "key_9": "OSPIETZE 70"
     }, {
@@ -14953,7 +14953,7 @@
         "TYPE": "TH",
         "CREDITS": "3",
         "VENUE": "SMV110",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "SUNDARA",
         "key_9": "MS SNL 67"
     }, {
@@ -17554,7 +17554,7 @@
         "TYPE": "eSSnt",
         "CREDITS": "1",
         "VENUE": "TT333",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "FACE (APT",
         "key_9": ") SSL 70"
     }, {
@@ -17563,7 +17563,7 @@
         "TYPE": "eSSnt",
         "CREDITS": "1",
         "VENUE": "TT334",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "FACE (APT",
         "key_9": ") SSL 70"
     }, {
@@ -17590,7 +17590,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "SJT126",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "FACE (APT",
         "key_9": ") SSL 70"
     }, {
@@ -17599,7 +17599,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "SJT207",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "FACE (APT",
         "key_9": ") SSL 70"
     }, {
@@ -17608,7 +17608,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "SJT207",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "FACE (APT",
         "key_9": ") SSL 70"
     }, {
@@ -17617,7 +17617,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "SJT207A",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "FACE (APT",
         "key_9": ") SSL 70"
     }, {
@@ -17626,7 +17626,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "SJT207A",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "FACE (APT",
         "key_9": ") SSL 70"
     }, {
@@ -17635,7 +17635,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "SJT208",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "FACE (APT",
         "key_9": ") SSL 70"
     }, {
@@ -17644,7 +17644,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "SJT208",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "FACE (APT",
         "key_9": ") SSL 70"
     }, {
@@ -17653,7 +17653,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "SJT211",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "FACE (APT",
         "key_9": ") SSL 70"
     }, {
@@ -17662,7 +17662,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "SJT211",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "FACE (APT",
         "key_9": ") SSL 70"
     }, {
@@ -17671,7 +17671,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "SJT702",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "ETHNUS (A",
         "key_9": "PSTS)L 70"
     }, {
@@ -17680,7 +17680,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "SJT703",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "FACE (APT",
         "key_9": ") SSL 70"
     }, {
@@ -17689,7 +17689,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "SJT704",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "SMART (A",
         "key_9": "PTS)SL 70"
     }, {
@@ -17698,7 +17698,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "SJT702",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "ETHNUS (A",
         "key_9": "PSTS)L 70"
     }, {
@@ -17707,7 +17707,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "SJT703",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "FACE (APT",
         "key_9": ") SSL 70"
     }, {
@@ -17716,7 +17716,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "SJT704",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "SMART (A",
         "key_9": "PTS)SL 70"
     }, {
@@ -17725,7 +17725,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "SJT707",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "ETHNUS (A",
         "key_9": "PSTS)L 67"
     }, {
@@ -17734,7 +17734,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "SJT709",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "FACE (APT",
         "key_9": ") SSL 66"
     }, {
@@ -17743,7 +17743,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "SJT127",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "SMART (A",
         "key_9": "PTS)SL 70"
     }, {
@@ -17752,7 +17752,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "SJT707",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "ETHNUS (A",
         "key_9": "PSTS)L 67"
     }, {
@@ -17761,7 +17761,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "SJT709",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "FACE (APT",
         "key_9": ") SSL 66"
     }, {
@@ -17770,7 +17770,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "SJT127",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "SMART (A",
         "key_9": "PTS)SL 70"
     }, {
@@ -17779,7 +17779,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "SJT202",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "ETHNUS (A",
         "key_9": "PSTS)L 70"
     }, {
@@ -17797,7 +17797,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "SJT710",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "ETHNUS (A",
         "key_9": "PSTS)L 65"
     }, {
@@ -17806,7 +17806,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "SJT711",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "FACE (APT",
         "key_9": ") SSL 65"
     }, {
@@ -17815,7 +17815,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "SJT712",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "SMART (A",
         "key_9": "PTS)SL 70"
     }, {
@@ -17824,7 +17824,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "SJT715",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "ETHNUS (A",
         "key_9": "PSTS)L 70"
     }, {
@@ -17833,7 +17833,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "SJT710",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "FACE (APT",
         "key_9": ") SSL 65"
     }, {
@@ -17842,7 +17842,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "SJT803",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "FACE (APT",
         "key_9": ") SSL 65"
     }, {
@@ -17851,7 +17851,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "SJT711",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "SMART (A",
         "key_9": "PTS)SL 65"
     }, {
@@ -17860,7 +17860,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "SJT201",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "SMART (A",
         "key_9": "PTS)SL 70"
     }, {
@@ -17869,7 +17869,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "SJT712",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "ETHNUS (A",
         "key_9": "PSTS)L 70"
     }, {
@@ -17878,7 +17878,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "SJT715",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "FACE (APT",
         "key_9": ") SSL 70"
     }, {
@@ -17887,7 +17887,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "SJT215",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "SMART (A",
         "key_9": "PTS)SL 70"
     }, {
@@ -17896,7 +17896,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "SJT803",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "ETHNUS (A",
         "key_9": "PSTS)L 65"
     }, {
@@ -17905,7 +17905,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "SJT201",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "FACE (APT",
         "key_9": ") SSL 70"
     }, {
@@ -17914,7 +17914,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "TT104",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "ETHNUS (A",
         "key_9": "PSTS)L 60"
     }, {
@@ -17923,7 +17923,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "TT201",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "FACE (APT",
         "key_9": ") SSL 70"
     }, {
@@ -17932,7 +17932,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "GDNG08A",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "SMART (A",
         "key_9": "PTS)SL 70"
     }, {
@@ -17941,7 +17941,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "GDN129",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "ETHNUS (A",
         "key_9": "PSTS)L 65"
     }, {
@@ -17950,7 +17950,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "GDN128",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "FACE (APT",
         "key_9": ") SSL 70"
     }, {
@@ -17959,7 +17959,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "SMV128",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "SMART (A",
         "key_9": "PTS)SL 70"
     }, {
@@ -17968,7 +17968,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "SMV112",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "SMART (A",
         "key_9": "PTS)SL 70"
     }, {
@@ -17977,7 +17977,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "TT104",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "ETHNUS (A",
         "key_9": "PSTS)L 60"
     }, {
@@ -17986,7 +17986,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "SMV116",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "ETHNUS (A",
         "key_9": "PSTS)L 70"
     }, {
@@ -17995,7 +17995,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "TT201",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "FACE (APT",
         "key_9": ") SSL 70"
     }, {
@@ -18004,7 +18004,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "MB219",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "FACE (APT",
         "key_9": ") SSL 65"
     }, {
@@ -18013,7 +18013,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "GDNG08A",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "SMART (A",
         "key_9": "PTS)SL 70"
     }, {
@@ -18022,7 +18022,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "MB224",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "SMART (A",
         "key_9": "PTS)SL 65"
     }, {
@@ -18031,7 +18031,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "GDN129",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "ETHNUS (A",
         "key_9": "PSTS)L 65"
     }, {
@@ -18040,7 +18040,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "TT313",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "ETHNUS (A",
         "key_9": "PSTS)L 65"
     }, {
@@ -18049,7 +18049,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "GDN128",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "FACE (APT",
         "key_9": ") SSL 70"
     }, {
@@ -18058,7 +18058,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "TT619",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "FACE (APT",
         "key_9": ") SSL 70"
     }, {
@@ -18067,7 +18067,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "CDMM10",
-        "SLOT": "2 D1+TD",
+        "SLOT": "2 D1+TD1",
         "FACULTY": "SMART (A",
         "key_9": "PTS)SL 65"
     }, {
@@ -18076,7 +18076,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "SMV112",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "ETHNUS (A",
         "key_9": "PSTS)L 70"
     }, {
@@ -18085,7 +18085,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "SMV116",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "FACE (APT",
         "key_9": ") SSL 70"
     }, {
@@ -18094,7 +18094,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "MB219",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "SMART (A",
         "key_9": "PTS)SL 65"
     }, {
@@ -18103,7 +18103,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "MB224",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "ETHNUS (A",
         "key_9": "PSTS)L 65"
     }, {
@@ -18112,7 +18112,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "TT313",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "FACE (APT",
         "key_9": ") SSL 65"
     }, {
@@ -18121,7 +18121,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "TT619",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "SMART (A",
         "key_9": "PTS)SL 70"
     }, {
@@ -18130,7 +18130,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "SMV220",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "SMART (A",
         "key_9": "PTS)SL 70"
     }, {
@@ -18139,7 +18139,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "CDMM10",
-        "SLOT": "2 D2+TD",
+        "SLOT": "2 D2+TD2",
         "FACULTY": "ETHNUS (A",
         "key_9": "PSTS)L 65"
     }, {
@@ -18148,7 +18148,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "CDMM10",
-        "SLOT": "3 D2+TD",
+        "SLOT": "3 D2+TD2",
         "FACULTY": "FACE (APT",
         "key_9": ") SSL 65"
     }, {
@@ -18157,7 +18157,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "CDMM10",
-        "SLOT": "4 D2+TD",
+        "SLOT": "4 D2+TD2",
         "FACULTY": "SMART (A",
         "key_9": "PTS)SL 65"
     }, {
@@ -18166,7 +18166,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "MB225",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "ETHNUS (A",
         "key_9": "PSTS)L 70"
     }, {
@@ -18175,7 +18175,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "SMVG10",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "FACE (APT",
         "key_9": ") SSL 65"
     }, {
@@ -18184,7 +18184,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "MB226",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "SMART (A",
         "key_9": "PTS)SL 65"
     }, {
@@ -18193,7 +18193,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "TT204",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "ETHNUS (A",
         "key_9": "PSTS)L 70"
     }, {
@@ -18202,7 +18202,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "MB227",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "ETHNUS (A",
         "key_9": "PSTS)L 66"
     }, {
@@ -18211,7 +18211,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "CDMM10",
-        "SLOT": "3 D1+TD",
+        "SLOT": "3 D1+TD1",
         "FACULTY": "FACE (APT",
         "key_9": ") SSL 65"
     }, {
@@ -18220,7 +18220,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "MB309",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "FACE (APT",
         "key_9": ") SSL 70"
     }, {
@@ -18229,7 +18229,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "CDMM10",
-        "SLOT": "4 D1+TD",
+        "SLOT": "4 D1+TD1",
         "FACULTY": "SMART (A",
         "key_9": "PTS)SL 65"
     }, {
@@ -18238,7 +18238,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "GDN120",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "SMART (A",
         "key_9": "PTS)SL 65"
     }, {
@@ -18247,7 +18247,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "MB225",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "ETHNUS (A",
         "key_9": "PSTS)L 70"
     }, {
@@ -18256,7 +18256,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "GDN121",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "ETHNUS (A",
         "key_9": "PSTS)L 65"
     }, {
@@ -18265,7 +18265,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "MB309",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "FACE (APT",
         "key_9": ") SSL 70"
     }, {
@@ -18274,7 +18274,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "TT620",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "FACE (APT",
         "key_9": ") SSL 70"
     }, {
@@ -18283,7 +18283,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "MB309A",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "SMART (A",
         "key_9": "PTS)SL 70"
     }, {
@@ -18292,7 +18292,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "SMVG10",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "ETHNUS (A",
         "key_9": "PSTS)L 65"
     }, {
@@ -18301,7 +18301,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "MB226",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "FACE (APT",
         "key_9": ") SSL 65"
     }, {
@@ -18310,7 +18310,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "MB227",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "SMART (A",
         "key_9": "PTS)SL 66"
     }, {
@@ -18319,7 +18319,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "MB310",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "ETHNUS (A",
         "key_9": "PSTS)L 70"
     }, {
@@ -18328,7 +18328,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "GDN120",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "FACE (APT",
         "key_9": ") SSL 65"
     }, {
@@ -18337,7 +18337,7 @@
         "TYPE": "SS",
         "CREDITS": "1",
         "VENUE": "GDN121",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "SMART (A",
         "key_9": "PTS)SL 65"
     }, {
@@ -18598,7 +18598,7 @@
         "TYPE": "lE ITnHdustry",
         "CREDITS": "3",
         "VENUE": "TT621A",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "PRIYANKA",
         "key_9": "R SPAASIRA 24"
     }, {
@@ -18895,7 +18895,7 @@
         "TYPE": "ETH",
         "CREDITS": "3",
         "VENUE": "CDMM10",
-        "SLOT": "5 D1+TD",
+        "SLOT": "5 D1+TD1",
         "FACULTY": "YOGALAKS",
         "key_9": "HSMASI T 65"
     }, {
@@ -18904,7 +18904,7 @@
         "TYPE": "ETH",
         "CREDITS": "3",
         "VENUE": "TT621",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "PRABHUJI",
         "key_9": "T SMAOSHAPATRA 65"
     }, {
@@ -18913,7 +18913,7 @@
         "TYPE": "ETH",
         "CREDITS": "3",
         "VENUE": "TT630",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "DEBAROT",
         "key_9": "I DSAS 65"
     }, {
@@ -18922,7 +18922,7 @@
         "TYPE": "ETH",
         "CREDITS": "3",
         "VENUE": "CDMM10",
-        "SLOT": "5 D2+TD",
+        "SLOT": "5 D2+TD2",
         "FACULTY": "NALLIAH M",
         "key_9": "SAS 65"
     }, {
@@ -18931,7 +18931,7 @@
         "TYPE": "ETH",
         "CREDITS": "3",
         "VENUE": "TT621",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "YOGALAKS",
         "key_9": "HSMASI T 65"
     }, {
@@ -18940,7 +18940,7 @@
         "TYPE": "ETH",
         "CREDITS": "3",
         "VENUE": "TT630",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "PRABHUJI",
         "key_9": "T SMAOSHAPATRA 65"
     }, {
@@ -19255,7 +19255,7 @@
         "TYPE": "ETH",
         "CREDITS": "3",
         "VENUE": "SMV102",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "GOWSALY",
         "key_9": "AS MAS 72"
     }, {
@@ -19363,7 +19363,7 @@
         "TYPE": "ETH",
         "CREDITS": "3",
         "VENUE": "SMV104",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "MYTHILI G",
         "key_9": "YSAS 70"
     }, {
@@ -19372,7 +19372,7 @@
         "TYPE": "ETH",
         "CREDITS": "3",
         "VENUE": "SMV104",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "MYTHILI G",
         "key_9": "YSAS 70"
     }, {
@@ -20578,7 +20578,7 @@
         "TYPE": "ETH",
         "CREDITS": "3",
         "VENUE": "TT314",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "RAMESH M",
         "key_9": "STAHSAMANKAR 72"
     }, {
@@ -21307,7 +21307,7 @@
         "TYPE": "ETH",
         "CREDITS": "3",
         "VENUE": "SMV234",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "JAYARAM",
         "key_9": "ANSB GST 74"
     }, {
@@ -21352,7 +21352,7 @@
         "TYPE": "TH",
         "CREDITS": "3",
         "VENUE": "SMV128",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "BABU S",
         "key_9": "VAIAL 70"
     }, {
@@ -21397,7 +21397,7 @@
         "TYPE": "ETH",
         "CREDITS": "3",
         "VENUE": "SMV309",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "RAMESH P",
         "key_9": "ASTBHSYT M 65"
     }, {
@@ -21469,7 +21469,7 @@
         "TYPE": "ETH",
         "CREDITS": "3",
         "VENUE": "SMV309",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "AMITAVA",
         "key_9": "MCUNKBHTERJEE 65"
     }, {
@@ -21703,7 +21703,7 @@
         "TYPE": "ETH",
         "CREDITS": "3",
         "VENUE": "SMV122",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "ANAND A",
         "key_9": "SBST 72"
     }, {
@@ -21892,7 +21892,7 @@
         "TYPE": "ETH",
         "CREDITS": "3",
         "VENUE": "SMV220",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "SUBATHRA",
         "key_9": "DSEBVSIT C 72"
     }, {
@@ -21919,7 +21919,7 @@
         "TYPE": "ETH",
         "CREDITS": "3",
         "VENUE": "SMV219",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "JAYANTHI",
         "key_9": "ASBST 70"
     }, {
@@ -22054,7 +22054,7 @@
         "TYPE": "ETH",
         "CREDITS": "3",
         "VENUE": "SMV123",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "ASHA DEV",
         "key_9": "I SBST 70"
     }, {
@@ -22081,7 +22081,7 @@
         "TYPE": "ETH",
         "CREDITS": "3",
         "VENUE": "SMV122",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "SUDHAKA",
         "key_9": "RASBNS RT 72"
     }, {
@@ -22423,7 +22423,7 @@
         "TYPE": "TH",
         "CREDITS": "3",
         "VENUE": "SMVG33",
-        "SLOT": "D2+TD",
+        "SLOT": "D2+TD2",
         "FACULTY": "RAMESH N",
         "key_9": "SBST 50"
     }, {
@@ -22918,7 +22918,7 @@
         "TYPE": "TH",
         "CREDITS": "3",
         "VENUE": "SMVG33",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "MYTHILI S",
         "key_9": "SBST 50"
     }, {
@@ -23008,7 +23008,7 @@
         "TYPE": "nEeTeHring",
         "CREDITS": "3",
         "VENUE": "GDN107",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "CHANDRA",
         "key_9": "SESKCAERAN S.S 70"
     }, {
@@ -23143,7 +23143,7 @@
         "TYPE": "aTgHement",
         "CREDITS": "3",
         "VENUE": "CDMM30",
-        "SLOT": "2 D2+TD",
+        "SLOT": "2 D2+TD2",
         "FACULTY": "MALATHY",
         "key_9": "JCDMM 76"
     }, {
@@ -23152,7 +23152,7 @@
         "TYPE": "aTgHement",
         "CREDITS": "3",
         "VENUE": "CDMM30",
-        "SLOT": "3 D1+TD",
+        "SLOT": "3 D1+TD1",
         "FACULTY": "KIRAN YAR",
         "key_9": "RCADKMULMA 76"
     }, {
@@ -23575,7 +23575,7 @@
         "TYPE": "TH",
         "CREDITS": "3",
         "VENUE": "SMV110",
-        "SLOT": "D1+TD",
+        "SLOT": "D1+TD1",
         "FACULTY": "SUNDARA",
         "key_9": "MS SNL 67"
     }, {

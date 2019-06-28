@@ -135,7 +135,7 @@
                 $("#results").html('');
                 var sf = $("#course-search").val();
                 var expr = new RegExp(sf, "i");
-                $.getJSON('data/all_data_mod.json', function (data) {
+                $.getJSON('data/final_data_fall19.json', function (data) {
                     $.each(data, function (key, value) {
                         if (value.CODE.search(expr) != -1 || value.TITLE.search(expr) !=
                             -1) {
@@ -147,7 +147,7 @@
                                 .TITLE + '</span><br><b>' + value.SLOT +
                                 '</b>|<span class="text-muted">' + value.VENUE +
                                 '</span><br><b>By</b>:' + value.FACULTY +
-                                '<button class="btn btn-outline-success" id="lbut">ADD</button></li>'
+                                '<br><button class="btn btn-outline-success" id="lbut">ADD</button></li>'
                             );
                         }
                     });

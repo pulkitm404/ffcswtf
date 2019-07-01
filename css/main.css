@@ -32,7 +32,7 @@ html a {
 }
 
 #tt-main header {
-  position: relative;
+  position: fixed;
   color: black;
   font-weight: bold;
   font-size: 2rem;
@@ -128,7 +128,8 @@ html a {
   padding: 5px;
   background-color: #111;
   color: #111;
-  width: auto;
+  width: 80%;
+  position: fixed;
 }
 
 #head img {

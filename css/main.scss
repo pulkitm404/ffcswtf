@@ -27,7 +27,7 @@ html {
     position: relative;
     overflow-y: auto;
     header {
-        position: relative;
+        position: fixed;
         color: black;
         font-weight: bold;
         font-size: 2rem;
@@ -118,7 +118,8 @@ html {
     padding: 5px;
     background-color: #111;
     color: #111;
-    width: auto;
+    width: 80%;
+    position: fixed;
     img {
         align-self: center;
         height: 4.5vh;

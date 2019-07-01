@@ -152,7 +152,7 @@ $(document).ready(function() {
                         if (($(".TimetableContent.A1 .ccode").is(
                                 ':empty'))) {
                             $(".TimetableContent.A1 .ccode").html(
-                                "<br>" +
+                                "<br>" + coursecode[4] + "<br>" +
                                 coursecode[1]);
                             $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                                 "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
@@ -172,7 +172,7 @@ $(document).ready(function() {
                         $(".TimetableContent.B1").addClass("selected");
                         if (($(".TimetableContent.B1 .ccode").is(
                                 ':empty'))) {
-                            $(".TimetableContent.B1 .ccode").html("<br>" +
+                            $(".TimetableContent.B1 .ccode").html("<br>" + coursecode[4] + "<br>" +
                                 coursecode[1]);
                             $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                                 "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
@@ -192,7 +192,7 @@ $(document).ready(function() {
                         $(".TimetableContent.C1").addClass("selected");
                         if (($(".TimetableContent.C1 .ccode").is(
                                 ':empty'))) {
-                            $(".TimetableContent.C1 .ccode").html("<br>" +
+                            $(".TimetableContent.C1 .ccode").html("<br>" + coursecode[4] + "<br>" +
                                 coursecode[1]);
                             $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                                 "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
@@ -212,7 +212,7 @@ $(document).ready(function() {
                         $(".TimetableContent.D1").addClass("selected");
                         if (($(".TimetableContent.D1 .ccode").is(
                                 ':empty'))) {
-                            $(".TimetableContent.D1 .ccode").html("<br>" +
+                            $(".TimetableContent.D1 .ccode").html("<br>" + coursecode[4] + "<br>" +
                                 coursecode[1]);
                             $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                                 "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
@@ -232,7 +232,7 @@ $(document).ready(function() {
                         $(".TimetableContent.E1").addClass("selected");
                         if (($(".TimetableContent.E1 .ccode").is(
                                 ':empty'))) {
-                            $(".TimetableContent.E1 .ccode").html("<br>" +
+                            $(".TimetableContent.E1 .ccode").html("<br>" + coursecode[4] + "<br>" +
                                 coursecode[1]);
                             $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                                 "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
@@ -252,7 +252,7 @@ $(document).ready(function() {
                         $(".TimetableContent.F1").addClass("selected");
                         if (($(".TimetableContent.F1 .ccode").is(
                                 ':empty'))) {
-                            $(".TimetableContent.F1 .ccode").html("<br>" +
+                            $(".TimetableContent.F1 .ccode").html("<br>" + coursecode[4] + "<br>" +
                                 coursecode[1]);
                             $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                                 "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
@@ -272,7 +272,7 @@ $(document).ready(function() {
                         $(".TimetableContent.G1").addClass("selected");
                         if (($(".TimetableContent.G1 .ccode").is(
                                 ':empty'))) {
-                            $(".TimetableContent.G1 .ccode").html("<br>" +
+                            $(".TimetableContent.G1 .ccode").html("<br>" + coursecode[4] + "<br>" +
                                 coursecode[1]);
                             $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                                 "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
@@ -293,7 +293,7 @@ $(document).ready(function() {
                         if (($(".TimetableContent.TA1 .ccode").is(
                                 ':empty'))) {
                             $(".TimetableContent.TA1 .ccode").html(
-                                "<br>" + coursecode[1]);
+                                "<br>" + coursecode[4] + "<br>" + coursecode[1]);
                             $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                                 "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
                         } else {
@@ -311,90 +311,90 @@ $(document).ready(function() {
                     if (className == "TB1") {
                         $(".TimetableContent.TB1").addClass("selected");
                         $(".TimetableContent.TB1 .ccode").html(
-                            "<br>" + coursecode[1]);
+                            "<br>" + coursecode[4] + "<br>" + coursecode[1]);
                         $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                             "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
                     }
                     if (className == "TC1") {
                         $(".TimetableContent.TC1").addClass("selected");
                         $(".TimetableContent.TC1 .ccode").html(
-                            "<br>" + coursecode[1]);
+                            "<br>" + coursecode[4] + "<br>" + coursecode[1]);
                         $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                             "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
                     }
                     if (className == "TD1") {
                         $(".TimetableContent.TD1").addClass("selected");
                         $(".TimetableContent.TD1 .ccode").html(
-                            "<br>" + coursecode[1]);
+                            "<br>" + coursecode[4] + "<br>" + coursecode[1]);
                         $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                             "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
                     }
                     if (className == "TE1") {
                         $(".TimetableContent.TE1").addClass("selected");
                         $(".TimetableContent.TE1 .ccode").html(
-                            "<br>" + coursecode[1]);
+                            "<br>" + coursecode[4] + "<br>" + coursecode[1]);
                         $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                             "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
                     }
                     if (className == "TF1") {
                         $(".TimetableContent.TF1").addClass("selected");
                         $(".TimetableContent.TF1 .ccode").html(
-                            "<br>" + coursecode[1]);
+                            "<br>" + coursecode[4] + "<br>" + coursecode[1]);
                         $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                             "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
                     }
                     if (className == "TG1") {
                         $(".TimetableContent.TG1").addClass("selected");
                         $(".TimetableContent.TG1 .ccode").html(
-                            "<br>" + coursecode[1]);
+                            "<br>" + coursecode[4] + "<br>" + coursecode[1]);
                         $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                             "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
                     }
                     if (className == "A2") {
                         $(".TimetableContent.A2").addClass("selected");
-                        $(".TimetableContent.A2 .ccode").html("<br>" +
+                        $(".TimetableContent.A2 .ccode").html("<br>" + coursecode[4] + "<br>" +
                             coursecode[1]);
                         $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                             "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
                     }
                     if (className == "B2") {
                         $(".TimetableContent.B2").addClass("selected");
-                        $(".TimetableContent.B2 .ccode").html("<br>" +
+                        $(".TimetableContent.B2 .ccode").html("<br>" + coursecode[4] + "<br>" +
                             coursecode[1]);
                         $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                             "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
                     }
                     if (className == "C2") {
                         $(".TimetableContent.C2").addClass("selected");
-                        $(".TimetableContent.C2 .ccode").html("<br>" +
+                        $(".TimetableContent.C2 .ccode").html("<br>" + coursecode[4] + "<br>" +
                             coursecode[1]);
                         $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                             "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
                     }
                     if (className == "D2") {
                         $(".TimetableContent.D2").addClass("selected");
-                        $(".TimetableContent.D2 .ccode").html("<br>" +
+                        $(".TimetableContent.D2 .ccode").html("<br>" + coursecode[4] + "<br>" +
                             coursecode[1]);
                         $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                             "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
                     }
                     if (className == "E2") {
                         $(".TimetableContent.E2").addClass("selected");
-                        $(".TimetableContent.E2 .ccode").html("<br>" +
+                        $(".TimetableContent.E2 .ccode").html("<br>" + coursecode[4] + "<br>" +
                             coursecode[1]);
                         $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                             "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
                     }
                     if (className == "F2") {
                         $(".TimetableContent.F2").addClass("selected");
-                        $(".TimetableContent.F2 .ccode").html("<br>" +
+                        $(".TimetableContent.F2 .ccode").html("<br>" + coursecode[4] + "<br>" +
                             coursecode[1]);
                         $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                             "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
                     }
                     if (className == "G2") {
                         $(".TimetableContent.G2").addClass("selected");
-                        $(".TimetableContent.G2 .ccode").html("<br>" +
+                        $(".TimetableContent.G2 .ccode").html("<br>" + coursecode[4] + "<br>" +
                             coursecode[1]);
                         $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                             "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
@@ -402,49 +402,49 @@ $(document).ready(function() {
                     if (className == "TA2") {
                         $(".TimetableContent.TA2").addClass("selected");
                         $(".TimetableContent.TA2 .ccode").html(
-                            "<br>" + coursecode[1]);
+                            "<br>" + coursecode[4] + "<br>" + coursecode[1]);
                         $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                             "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
                     }
                     if (className == "TB2") {
                         $(".TimetableContent.TB2").addClass("selected");
                         $(".TimetableContent.TB2 .ccode").html(
-                            "<br>" + coursecode[1]);
+                            "<br>" + coursecode[4] + "<br>" + coursecode[1]);
                         $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                             "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
                     }
                     if (className == "TC2") {
                         $(".TimetableContent.TC2").addClass("selected");
                         $(".TimetableContent.TC2 .ccode").html(
-                            "<br>" + coursecode[1]);
+                            "<br>" + coursecode[4] + "<br>" + coursecode[1]);
                         $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                             "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
                     }
                     if (className == "TD2") {
                         $(".TimetableContent.TD2").addClass("selected");
                         $(".TimetableContent.TD2 .ccode").html(
-                            "<br>" + coursecode[1]);
+                            "<br>" + coursecode[4] + "<br>" + coursecode[1]);
                         $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                             "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
                     }
                     if (className == "TE2") {
                         $(".TimetableContent.TE2").addClass("selected");
                         $(".TimetableContent.TE2 .ccode").html(
-                            "<br>" + coursecode[1]);
+                            "<br>" + coursecode[4] + "<br>" + coursecode[1]);
                         $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                             "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
                     }
                     if (className == "TF2") {
                         $(".TimetableContent.TF2").addClass("selected");
                         $(".TimetableContent.TF2 .ccode").html(
-                            "<br>" + coursecode[1]);
+                            "<br>" + coursecode[4] + "<br>" + coursecode[1]);
                         $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                             "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
                     }
                     if (className == "TG2") {
                         $(".TimetableContent.TG2").addClass("selected");
                         $(".TimetableContent.TG2 .ccode").html(
-                            "<br>" + coursecode[1]);
+                            "<br>" + coursecode[4] + "<br>" + coursecode[1]);
                         $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                             "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
                     }
@@ -452,7 +452,7 @@ $(document).ready(function() {
                         $(".TimetableContent.TAA1").addClass(
                             "selected");
                         $(".TimetableContent.TAA1 .ccode").html(
-                            "<br>" + coursecode[1]);
+                            "<br>" + coursecode[4] + "<br>" + coursecode[1]);
                         $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                             "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
                     }
@@ -460,7 +460,7 @@ $(document).ready(function() {
                         $(".TimetableContent.TBB2").addClass(
                             "selected");
                         $(".TimetableContent.TBB2 .ccode").html(
-                            "<br>" + coursecode[1]);
+                            "<br>" + coursecode[4] + "<br>" + coursecode[1]);
                         $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                             "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
                     }
@@ -468,7 +468,7 @@ $(document).ready(function() {
                         $(".TimetableContent.TBB2").addClass(
                             "selected");
                         $(".TimetableContent.TBB2 .ccode").html(
-                            "<br>" + coursecode[1]);
+                            "<br>" + coursecode[4] + "<br>" + coursecode[1]);
                         $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                             "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
                     }
@@ -476,7 +476,7 @@ $(document).ready(function() {
                         $(".TimetableContent.TCC1").addClass(
                             "selected");
                         $(".TimetableContent.TCC1 .ccode").html(
-                            "<br>" + coursecode[1]);
+                            "<br>" + coursecode[4] + "<br>" + coursecode[1]);
                         $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                             "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
                     }
@@ -484,7 +484,7 @@ $(document).ready(function() {
                         $(".TimetableContent.TCC2").addClass(
                             "selected");
                         $(".TimetableContent.TCC2 .ccode").html(
-                            "<br>" + coursecode[1]);
+                            "<br>" + coursecode[4] + "<br>" + coursecode[1]);
                         $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                             "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
                     }
@@ -492,7 +492,7 @@ $(document).ready(function() {
                         $(".TimetableContent.TDD2").addClass(
                             "selected");
                         $(".TimetableContent.TDD2 .ccode").html(
-                            "<br>" + coursecode[1]);
+                            "<br>" + coursecode[4] + "<br>" + coursecode[1]);
                         $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                             "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
 
@@ -502,8 +502,8 @@ $(document).ready(function() {
                         if (className == ("L" + i)) {
                             $((".TimetableContent.L" + i)).addClass(
                                 "selected");
-                            $((".TimetableContent.L" + i + " .ccode"))
-                                .html("<br>" + coursecode[1]);
+                            $(".TimetableContent.L" + i + " .ccode")
+                                .html("<br>" + coursecode[4] + "<br>" + coursecode[1]);
                             $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                                 "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
                         }

@@ -25,6 +25,7 @@ html {
     width: 80%;
     height: 100vh;
     position: relative;
+    overflow-y: auto;
     header {
         position: relative;
         color: black;
@@ -57,8 +58,8 @@ html {
     margin-top: 5%;
     width: 95%;
     min-height: 0;
-    max-height: 80%;
-    overflow-y: scroll;
+    max-height: 82%;
+    overflow-y: auto;
     overflow-x: hidden;
     height: auto;
     border: none;

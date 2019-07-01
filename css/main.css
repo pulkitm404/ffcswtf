@@ -1,8 +1,10 @@
-body, html {
+body,
+html {
   margin: 0;
 }
 
-body a, html a {
+body a,
+html a {
   text-decoration: none;
 }
 
@@ -25,6 +27,7 @@ body a, html a {
   float: right;
   width: 80%;
   height: 100vh;
+  position: relative;
 }
 
 #tt-main header {
@@ -32,6 +35,18 @@ body a, html a {
   color: black;
   font-weight: bold;
   font-size: 2rem;
+}
+
+#alert-box {
+  position: absolute;
+  margin-left: 39%;
+  margin-top: 20%;
+  height: 30vh;
+  width: 20vw;
+  text-align: center;
+  vertical-align: middle;
+  padding-top: 11vh;
+  cursor: pointer;
 }
 
 #course-search {
@@ -57,6 +72,7 @@ body a, html a {
 }
 
 #timetable {
+  overflow-x: scroll;
   padding: 1.5%;
   padding-right: 0;
 }
@@ -156,5 +172,9 @@ body a, html a {
 
 .ccode {
   margin: 0 0 0 0;
+}
+
+.sel-list {
+  background-color: #111;
 }
 /*# sourceMappingURL=main.css.map */

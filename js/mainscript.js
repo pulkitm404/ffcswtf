@@ -1,4 +1,5 @@
 $(document).ready(function() {
+    var totcreds = 0;
     $("#alert-box").hide();
 
     $("#quickb").click(function() {
@@ -156,6 +157,9 @@ $(document).ready(function() {
                                 coursecode[1]);
                             $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                                 "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
+                            totcreds = totcreds + parseInt(coursecode[5]);
+                            $("#totcred").html(totcreds);
+
                         } else {
                             $("#alert-box").html("UNABLE TO ADD " + coursecode[1] + ".<br> IT'S A CLASH FOR " + className +
                                 " SLOT !" + '<br><small class="text-muted">CLICK TO DISMISS</small>');
@@ -176,6 +180,8 @@ $(document).ready(function() {
                                 coursecode[1]);
                             $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                                 "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
+                            totcreds = totcreds + parseInt(coursecode[5]);
+                            $("#totcred").html(totcreds);
                         } else {
                             $("#alert-box").html("UNABLE TO ADD " + coursecode[1] + ".<br> IT'S A CLASH FOR " + className +
                                 " SLOT !" + '<br><small class="text-muted">CLICK TO DISMISS</small>');
@@ -196,6 +202,8 @@ $(document).ready(function() {
                                 coursecode[1]);
                             $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                                 "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
+                            totcreds = totcreds + parseInt(coursecode[5]);
+                            $("#totcred").html(totcreds);
                         } else {
                             $("#alert-box").html("UNABLE TO ADD " + coursecode[1] + ".<br> IT'S A CLASH FOR " + className +
                                 " SLOT !" + '<br><small class="text-muted">CLICK TO DISMISS</small>');
@@ -216,6 +224,8 @@ $(document).ready(function() {
                                 coursecode[1]);
                             $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                                 "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
+                            totcreds = totcreds + parseInt(coursecode[5]);
+                            $("#totcred").html(totcreds);
                         } else {
                             $("#alert-box").html("UNABLE TO ADD " + coursecode[1] + ".<br> IT'S A CLASH FOR " + className +
                                 " SLOT !" + '<br><small class="text-muted">CLICK TO DISMISS</small>');
@@ -236,6 +246,8 @@ $(document).ready(function() {
                                 coursecode[1]);
                             $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                                 "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
+                            totcreds = totcreds + parseInt(coursecode[5]);
+                            $("#totcred").html(totcreds);
                         } else {
                             $("#alert-box").html("UNABLE TO ADD " + coursecode[1] + ".<br> IT'S A CLASH FOR " + className +
                                 " SLOT !" + '<br><small class="text-muted">CLICK TO DISMISS</small>');
@@ -256,6 +268,8 @@ $(document).ready(function() {
                                 coursecode[1]);
                             $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                                 "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
+                            totcreds = totcreds + parseInt(coursecode[5]);
+                            $("#totcred").html(totcreds);
                         } else {
                             $("#alert-box").html("UNABLE TO ADD " + coursecode[1] + ".<br> IT'S A CLASH FOR " + className +
                                 " SLOT !" + '<br><small class="text-muted">CLICK TO DISMISS</small>');
@@ -276,6 +290,8 @@ $(document).ready(function() {
                                 coursecode[1]);
                             $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                                 "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
+                            totcreds = totcreds + parseInt(coursecode[5]);
+                            $("#totcred").html(totcreds);
                         } else {
                             $("#alert-box").html("UNABLE TO ADD " + coursecode[1] + ".<br> IT'S A CLASH FOR " + className +
                                 " SLOT !" + '<br><small class="text-muted">CLICK TO DISMISS</small>');
@@ -296,6 +312,8 @@ $(document).ready(function() {
                                 "<br>" + coursecode[4] + "<br>" + coursecode[1]);
                             $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                                 "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
+                            totcreds = totcreds + parseInt(coursecode[5]);
+                            $("#totcred").html(totcreds);
                         } else {
                             $("#alert-box").html("UNABLE TO ADD " + coursecode[1] + ".<br> IT'S A CLASH FOR " + className +
                                 " SLOT !" + '<br><small class="text-muted">CLICK TO DISMISS</small>');
@@ -314,6 +332,8 @@ $(document).ready(function() {
                             "<br>" + coursecode[4] + "<br>" + coursecode[1]);
                         $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                             "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
+                        totcreds = totcreds + parseInt(coursecode[5]);
+                        $("#totcred").html(totcreds);
                     }
                     if (className == "TC1") {
                         $(".TimetableContent.TC1").addClass("selected");
@@ -321,6 +341,8 @@ $(document).ready(function() {
                             "<br>" + coursecode[4] + "<br>" + coursecode[1]);
                         $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                             "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
+                        totcreds = totcreds + parseInt(coursecode[5]);
+                        $("#totcred").html(totcreds);
                     }
                     if (className == "TD1") {
                         $(".TimetableContent.TD1").addClass("selected");
@@ -328,6 +350,8 @@ $(document).ready(function() {
                             "<br>" + coursecode[4] + "<br>" + coursecode[1]);
                         $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                             "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
+                        totcreds = totcreds + parseInt(coursecode[5]);
+                        $("#totcred").html(totcreds);
                     }
                     if (className == "TE1") {
                         $(".TimetableContent.TE1").addClass("selected");
@@ -335,6 +359,8 @@ $(document).ready(function() {
                             "<br>" + coursecode[4] + "<br>" + coursecode[1]);
                         $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                             "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
+                        totcreds = totcreds + parseInt(coursecode[5]);
+                        $("#totcred").html(totcreds);
                     }
                     if (className == "TF1") {
                         $(".TimetableContent.TF1").addClass("selected");
@@ -342,6 +368,8 @@ $(document).ready(function() {
                             "<br>" + coursecode[4] + "<br>" + coursecode[1]);
                         $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                             "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
+                        totcreds = totcreds + parseInt(coursecode[5]);
+                        $("#totcred").html(totcreds);
                     }
                     if (className == "TG1") {
                         $(".TimetableContent.TG1").addClass("selected");
@@ -349,6 +377,8 @@ $(document).ready(function() {
                             "<br>" + coursecode[4] + "<br>" + coursecode[1]);
                         $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                             "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
+                        totcreds = totcreds + parseInt(coursecode[5]);
+                        $("#totcred").html(totcreds);
                     }
                     if (className == "A2") {
                         $(".TimetableContent.A2").addClass("selected");
@@ -356,6 +386,8 @@ $(document).ready(function() {
                             coursecode[1]);
                         $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                             "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
+                        totcreds = totcreds + parseInt(coursecode[5]);
+                        $("#totcred").html(totcreds);
                     }
                     if (className == "B2") {
                         $(".TimetableContent.B2").addClass("selected");
@@ -363,6 +395,8 @@ $(document).ready(function() {
                             coursecode[1]);
                         $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                             "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
+                        totcreds = totcreds + parseInt(coursecode[5]);
+                        $("#totcred").html(totcreds);
                     }
                     if (className == "C2") {
                         $(".TimetableContent.C2").addClass("selected");
@@ -370,6 +404,8 @@ $(document).ready(function() {
                             coursecode[1]);
                         $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                             "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
+                        totcreds = totcreds + parseInt(coursecode[5]);
+                        $("#totcred").html(totcreds);
                     }
                     if (className == "D2") {
                         $(".TimetableContent.D2").addClass("selected");
@@ -377,6 +413,8 @@ $(document).ready(function() {
                             coursecode[1]);
                         $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                             "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
+                        totcreds = totcreds + parseInt(coursecode[5]);
+                        $("#totcred").html(totcreds);
                     }
                     if (className == "E2") {
                         $(".TimetableContent.E2").addClass("selected");
@@ -384,6 +422,8 @@ $(document).ready(function() {
                             coursecode[1]);
                         $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                             "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
+                        totcreds = totcreds + parseInt(coursecode[5]);
+                        $("#totcred").html(totcreds);
                     }
                     if (className == "F2") {
                         $(".TimetableContent.F2").addClass("selected");
@@ -391,6 +431,8 @@ $(document).ready(function() {
                             coursecode[1]);
                         $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                             "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
+                        totcreds = totcreds + parseInt(coursecode[5]);
+                        $("#totcred").html(totcreds);
                     }
                     if (className == "G2") {
                         $(".TimetableContent.G2").addClass("selected");
@@ -398,6 +440,8 @@ $(document).ready(function() {
                             coursecode[1]);
                         $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                             "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
+                        totcreds = totcreds + parseInt(coursecode[5]);
+                        $("#totcred").html(totcreds);
                     }
                     if (className == "TA2") {
                         $(".TimetableContent.TA2").addClass("selected");
@@ -405,6 +449,8 @@ $(document).ready(function() {
                             "<br>" + coursecode[4] + "<br>" + coursecode[1]);
                         $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                             "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
+                        totcreds = totcreds + parseInt(coursecode[5]);
+                        $("#totcred").html(totcreds);
                     }
                     if (className == "TB2") {
                         $(".TimetableContent.TB2").addClass("selected");
@@ -412,6 +458,8 @@ $(document).ready(function() {
                             "<br>" + coursecode[4] + "<br>" + coursecode[1]);
                         $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                             "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
+                        totcreds = totcreds + parseInt(coursecode[5]);
+                        $("#totcred").html(totcreds);
                     }
                     if (className == "TC2") {
                         $(".TimetableContent.TC2").addClass("selected");
@@ -419,6 +467,8 @@ $(document).ready(function() {
                             "<br>" + coursecode[4] + "<br>" + coursecode[1]);
                         $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                             "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
+                        totcreds = totcreds + parseInt(coursecode[5]);
+                        $("#totcred").html(totcreds);
                     }
                     if (className == "TD2") {
                         $(".TimetableContent.TD2").addClass("selected");
@@ -426,6 +476,8 @@ $(document).ready(function() {
                             "<br>" + coursecode[4] + "<br>" + coursecode[1]);
                         $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                             "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
+                        totcreds = totcreds + parseInt(coursecode[5]);
+                        $("#totcred").html(totcreds);
                     }
                     if (className == "TE2") {
                         $(".TimetableContent.TE2").addClass("selected");
@@ -433,6 +485,8 @@ $(document).ready(function() {
                             "<br>" + coursecode[4] + "<br>" + coursecode[1]);
                         $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                             "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
+                        totcreds = totcreds + parseInt(coursecode[5]);
+                        $("#totcred").html(totcreds);
                     }
                     if (className == "TF2") {
                         $(".TimetableContent.TF2").addClass("selected");
@@ -440,6 +494,8 @@ $(document).ready(function() {
                             "<br>" + coursecode[4] + "<br>" + coursecode[1]);
                         $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                             "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
+                        totcreds = totcreds + parseInt(coursecode[5]);
+                        $("#totcred").html(totcreds);
                     }
                     if (className == "TG2") {
                         $(".TimetableContent.TG2").addClass("selected");
@@ -447,6 +503,8 @@ $(document).ready(function() {
                             "<br>" + coursecode[4] + "<br>" + coursecode[1]);
                         $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                             "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
+                        totcreds = totcreds + parseInt(coursecode[5]);
+                        $("#totcred").html(totcreds);
                     }
                     if (className == "TAA1") {
                         $(".TimetableContent.TAA1").addClass(
@@ -455,6 +513,8 @@ $(document).ready(function() {
                             "<br>" + coursecode[4] + "<br>" + coursecode[1]);
                         $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                             "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
+                        totcreds = totcreds + parseInt(coursecode[5]);
+                        $("#totcred").html(totcreds);
                     }
                     if (className == "TAA2") {
                         $(".TimetableContent.TBB2").addClass(
@@ -463,6 +523,8 @@ $(document).ready(function() {
                             "<br>" + coursecode[4] + "<br>" + coursecode[1]);
                         $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                             "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
+                        totcreds = totcreds + parseInt(coursecode[5]);
+                        $("#totcred").html(totcreds);
                     }
                     if (className == "TBB2") {
                         $(".TimetableContent.TBB2").addClass(
@@ -471,6 +533,8 @@ $(document).ready(function() {
                             "<br>" + coursecode[4] + "<br>" + coursecode[1]);
                         $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                             "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
+                        totcreds = totcreds + parseInt(coursecode[5]);
+                        $("#totcred").html(totcreds);
                     }
                     if (className == "TCC1") {
                         $(".TimetableContent.TCC1").addClass(
@@ -479,6 +543,8 @@ $(document).ready(function() {
                             "<br>" + coursecode[4] + "<br>" + coursecode[1]);
                         $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                             "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
+                        totcreds = totcreds + parseInt(coursecode[5]);
+                        $("#totcred").html(totcreds);
                     }
                     if (className == "TCC2") {
                         $(".TimetableContent.TCC2").addClass(
@@ -487,6 +553,8 @@ $(document).ready(function() {
                             "<br>" + coursecode[4] + "<br>" + coursecode[1]);
                         $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                             "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
+                        totcreds = totcreds + parseInt(coursecode[5]);
+                        $("#totcred").html(totcreds);
                     }
                     if (className == "TDD2") {
                         $(".TimetableContent.TDD2").addClass(
@@ -495,6 +563,8 @@ $(document).ready(function() {
                             "<br>" + coursecode[4] + "<br>" + coursecode[1]);
                         $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                             "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
+                        totcreds = totcreds + parseInt(coursecode[5]);
+                        $("#totcred").html(totcreds);
 
                     }
                     var i;
@@ -506,6 +576,8 @@ $(document).ready(function() {
                                 .html("<br>" + coursecode[4] + "<br>" + coursecode[1]);
                             $(".sel-list").append("<tr><th scope='col'>" + coursecode[0] +
                                 "</th><th scope='col'>" + coursecode[1] + "</th><th scope='col'>" + coursecode[2] + "</th><th scope='col'>" + coursecode[3] + "</th><th scope='col'>" + coursecode[4] + "</th><th scope='col'>" + coursecode[5] + "</th></tr>");
+                            totcreds = totcreds + parseInt(coursecode[5]);
+                            $("#totcred").html(totcreds);
                         }
                     }
                 });

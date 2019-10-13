@@ -20,7 +20,7 @@
             var profile = googleUser.getBasicProfile();
             console.log('ID: ' + profile.getId()); // Do not send to your backend! Use an ID token instead.
             console.log('Name: ' + profile.getName());
-            console.log('Image URL: ' + profile.getImageUrl());
+            document.getElementById("gmimg").innerHTML = "<img src='profile.getImageUrl()'>";
             console.log('Email: ' + profile.getEmail()); // This is null if the 'email' scope is not present.
         }
 
@@ -35,9 +35,9 @@
 
 <body>
     <div class="container" id="nav-main">
-        <div class="g-signin2" data-onsuccess="onSignIn"></div>
+
         <header>
-            <center>FFCS <small class="text-muted">WTF</small></center>
+            <center>FFCS <small class="text-muted">WTF</small></center><span id="gmimg"></span>
         </header>
         <input type="text" name="course-search" id="course-search" placeholder="Course Code/Title">
         <button id="sbutton" class="fas fa-search " style="font-size:20px;color:white"></button>
@@ -45,7 +45,9 @@
         <div class="container" id="sresult">
             <ul class="list-group" id="results"></ul>
         </div>
-
+        <center>
+            <div class="g-signin2" data-onsuccess="onSignIn"></div>
+        </center>
         <a href="#" onclick="signOut();">Sign out</a>
     </div>
 

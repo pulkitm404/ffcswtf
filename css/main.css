@@ -24,12 +24,13 @@ html a {
 }
 
 #gmimage {
-  width: 1.5vw;
+  width: 2vw;
+  height: 90%;
   border-radius: 50%;
 }
 
 #gmname {
-  margin-right: 30%;
+  padding-right: 40%;
   color: white;
 }
 

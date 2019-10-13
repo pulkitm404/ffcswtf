@@ -118,6 +118,7 @@ $(document).ready(function() {
         $(".TimetableContent").removeClass("selected");
         $(".TimetableContent .ccode").empty();
         $(".sel-list").empty();
+        $("#totcred").html(0);
     });
     $("#course-search").keyup(function() {
         $("#results").html('');
@@ -162,7 +163,7 @@ $(document).ready(function() {
 
                         } else {
                             $("#alert-box").html("UNABLE TO ADD " + coursecode[1] + ".<br> IT'S A CLASH FOR " + className +
-                                " SLOT !" + '<br><small class="text-muted">CLICK TO DISMISS</small>');
+                                " SLOT !" + '<br><p id="mtxt" >CLICK TO DISMISS</p>');
 
                             $("#alert-box").show(200);
                             $("#alert-box").click(function() {
@@ -184,7 +185,7 @@ $(document).ready(function() {
                             $("#totcred").html(totcreds);
                         } else {
                             $("#alert-box").html("UNABLE TO ADD " + coursecode[1] + ".<br> IT'S A CLASH FOR " + className +
-                                " SLOT !" + '<br><small class="text-muted">CLICK TO DISMISS</small>');
+                                " SLOT !" + '<br><p id="mtxt" >CLICK TO DISMISS</p>');
 
                             $("#alert-box").show(200);
                             $("#alert-box").click(function() {
@@ -206,7 +207,7 @@ $(document).ready(function() {
                             $("#totcred").html(totcreds);
                         } else {
                             $("#alert-box").html("UNABLE TO ADD " + coursecode[1] + ".<br> IT'S A CLASH FOR " + className +
-                                " SLOT !" + '<br><small class="text-muted">CLICK TO DISMISS</small>');
+                                " SLOT !" + '<br><p id="mtxt" >CLICK TO DISMISS</p>');
 
                             $("#alert-box").show(200);
                             $("#alert-box").click(function() {
@@ -228,7 +229,7 @@ $(document).ready(function() {
                             $("#totcred").html(totcreds);
                         } else {
                             $("#alert-box").html("UNABLE TO ADD " + coursecode[1] + ".<br> IT'S A CLASH FOR " + className +
-                                " SLOT !" + '<br><small class="text-muted">CLICK TO DISMISS</small>');
+                                " SLOT !" + '<br><p id="mtxt" >CLICK TO DISMISS</p>');
 
                             $("#alert-box").show(200);
                             $("#alert-box").click(function() {
@@ -250,7 +251,7 @@ $(document).ready(function() {
                             $("#totcred").html(totcreds);
                         } else {
                             $("#alert-box").html("UNABLE TO ADD " + coursecode[1] + ".<br> IT'S A CLASH FOR " + className +
-                                " SLOT !" + '<br><small class="text-muted">CLICK TO DISMISS</small>');
+                                " SLOT !" + '<br><p id="mtxt" >CLICK TO DISMISS</p>');
 
                             $("#alert-box").show(200);
                             $("#alert-box").click(function() {
@@ -272,7 +273,7 @@ $(document).ready(function() {
                             $("#totcred").html(totcreds);
                         } else {
                             $("#alert-box").html("UNABLE TO ADD " + coursecode[1] + ".<br> IT'S A CLASH FOR " + className +
-                                " SLOT !" + '<br><small class="text-muted">CLICK TO DISMISS</small>');
+                                " SLOT !" + '<br><p id="mtxt" >CLICK TO DISMISS</p>');
 
                             $("#alert-box").show(200);
                             $("#alert-box").click(function() {
@@ -294,7 +295,7 @@ $(document).ready(function() {
                             $("#totcred").html(totcreds);
                         } else {
                             $("#alert-box").html("UNABLE TO ADD " + coursecode[1] + ".<br> IT'S A CLASH FOR " + className +
-                                " SLOT !" + '<br><small class="text-muted">CLICK TO DISMISS</small>');
+                                " SLOT !" + '<br><p id="mtxt" >CLICK TO DISMISS</p>');
 
                             $("#alert-box").show(200);
                             $("#alert-box").click(function() {
@@ -316,7 +317,7 @@ $(document).ready(function() {
                             $("#totcred").html(totcreds);
                         } else {
                             $("#alert-box").html("UNABLE TO ADD " + coursecode[1] + ".<br> IT'S A CLASH FOR " + className +
-                                " SLOT !" + '<br><small class="text-muted">CLICK TO DISMISS</small>');
+                                " SLOT !" + '<br><p id="mtxt" >CLICK TO DISMISS</p>');
 
                             $("#alert-box").show(200);
                             $("#alert-box").click(function() {

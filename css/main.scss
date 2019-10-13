@@ -38,12 +38,27 @@ html {
     position: absolute;
     margin-left: 39%;
     margin-top: 20%;
-    height: 30vh;
-    width: 20vw;
+    height: 35vh;
+    width: 25vw;
     text-align: center;
     vertical-align: middle;
     padding-top: 11vh;
     cursor: pointer;
+    background-image: url("/css/icons/error.png");
+    background-blend-mode: lighten;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: rgb(104, 100, 101);
+    border: none;
+    border-radius: 1%;
+    border-style: groove;
+    font-size: 1.2em;
+    font-weight: bolder;
+    #mtxt {
+        font-size: 1em;
+        color: black;
+        font-weight: bold;
+    }
 }
 
 #course-search {

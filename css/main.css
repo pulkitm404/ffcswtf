@@ -23,6 +23,15 @@ html a {
   font-size: 2vw;
 }
 
+#gmimage {
+  width: 0.5vw;
+  border-radius: 50%;
+}
+
+#gmname {
+  color: white;
+}
+
 #tt-main {
   float: right;
   width: 80%;
@@ -148,13 +157,14 @@ html a {
 
 #head {
   padding: 5px;
+  padding-right: 20%;
   background-color: #111;
-  color: #111;
+  color: white;
   width: 80%;
   position: fixed;
 }
 
-#head img {
+#head #mlogo {
   -ms-flex-item-align: center;
       -ms-grid-row-align: center;
       align-self: center;

@@ -21,8 +21,12 @@ html {
 }
 
 #gmimage {
-    width: 2vw;
+    width: 0.5vw;
     border-radius: 50%;
+}
+
+#gmname {
+    color: white;
 }
 
 #tt-main {
@@ -142,6 +146,7 @@ html {
 
 #head {
     padding: 5px;
+    padding-right: 20%;
     background-color: #111;
     color: #111;
     width: 80%;

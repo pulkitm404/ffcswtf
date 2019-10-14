@@ -30,7 +30,7 @@ html a {
 }
 
 #gmname {
-  padding-right: 40%;
+  margin-left: 21%;
   color: white;
 }
 
@@ -166,9 +166,7 @@ html a {
 }
 
 #head #mlogo {
-  -ms-flex-item-align: center;
-      -ms-grid-row-align: center;
-      align-self: center;
+  margin-left: 37%;
   height: 4.5vh;
   width: 24vw;
 }

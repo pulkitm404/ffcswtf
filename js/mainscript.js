@@ -124,7 +124,7 @@ $(document).ready(function() {
         $("#results").html('');
         var sf = $("#course-search").val();
         var expr = new RegExp(sf, "i");
-        $.getJSON('data/final_data_fall19.json', function(data) {
+        $.getJSON('data/winter19-20.json', function(data) {
             $.each(data, function(key, value) {
                 if (value.CODE.search(expr) != -1 || value.TITLE.search(expr) !=
                     -1) {
